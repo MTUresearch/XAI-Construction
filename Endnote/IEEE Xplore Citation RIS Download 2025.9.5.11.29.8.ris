@@ -1,0 +1,487 @@
+TY  - CONF
+TI  - Self-born Wiring for Neural Trees
+T2  - 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+SP  - 5027
+EP  - 5036
+AU  - Y. Chen
+AU  - F. Mao
+AU  - J. Song
+AU  - X. Wang
+AU  - H. Wang
+AU  - M. Song
+PY  - 2021
+KW  - Wiring
+KW  - Deep learning
+KW  - Representation learning
+KW  - Greedy algorithms
+KW  - Computer vision
+KW  - Scalability
+KW  - Neural networks
+KW  - Efficient training and inference methods
+KW  - Explainable AI
+DO  - 10.1109/ICCV48922.2021.00500
+JO  - 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+IS  - 
+SN  - 2380-7504
+VO  - 
+VL  - 
+JA  - 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+Y1  - 10-17 Oct. 2021
+AB  - Neural trees aim at integrating deep neural networks and decision trees so as to bring the best of the two worlds, including representation learning from the former and faster inference from the latter. In this paper, we introduce a novel approach, termed as Self-born Wiring (SeBoW), to learn neural trees from a mother deep neural network. In contrast to prior neural-tree approaches that either adopt a pre-defined structure or grow hierarchical layers in a progressive manner, task-adaptive neural trees in SeBoW evolve from a deep neural network through a construction-by-destruction process, enabling a global-level parameter optimization that further yields favorable results. Specifically, given a designated network configuration like VGG, SeBoW disconnects all the layers and derives isolated filter groups, based on which a global-level wiring process is conducted to attach a subset of filter groups, eventually bearing a lightweight neural tree. Extensive experiments demonstrate that, with a lower computational cost, SeBoW outperforms all prior neural trees by a significant margin and even achieves results on par with predominant non-tree networks like ResNets. Moreover, SeBoW proves its scalability to large-scale datasets like ImageNet, which has been barely explored by prior tree networks.
+ER  - 
+
+TY  - CONF
+TI  - Toward Interpretable Graph Neural Networks via Concept Matching Model
+T2  - 2023 IEEE International Conference on Data Mining (ICDM)
+SP  - 950
+EP  - 955
+AU  - T. -C. Bui
+AU  - W. -S. Li
+PY  - 2023
+KW  - Predictive models
+KW  - Feature extraction
+KW  - Graph neural networks
+KW  - Data models
+KW  - Data mining
+KW  - Graph Neural Network
+KW  - eXplainable AI
+KW  - Interpretable Model
+DO  - 10.1109/ICDM58522.2023.00106
+JO  - 2023 IEEE International Conference on Data Mining (ICDM)
+IS  - 
+SN  - 2374-8486
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Data Mining (ICDM)
+Y1  - 1-4 Dec. 2023
+AB  - Graph Neural Networks have achieved notable success, yet explaining their rationales remains a challenging problem. Existing methods, including post-hoc and interpretable approaches, have numerous limitations. Post-hoc methods treat models as black boxes and can mislead users, while interpretable models often overlook user-centric explanations. Furthermore, most existing methods do not carefully consider the user’s perception of explanations, potentially resulting in explanation-user mismatches. To address these problems, we propose a novel interpretable concept-matching model to enhance GNN interpretability and prediction accuracy. The proposed model extracts frequent concepts from input graphs using the graph information bottleneck theory and modified constraints. These concepts are managed in an in-memory concept corpus for efficient inference lookups and explanation generation. Various explanation construction features are implemented based on the concept corpus and the discovery module, aiming to fulfill diverse user preferences. Extensive experiments and a user study validate the performance of the proposed approach, showcasing its potential for improving model accuracy and interpretability.
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Knowledge Graphs for Matching Heterogeneous Entities and Explanation
+T2  - 2023 IEEE International Conference on Big Data (BigData)
+SP  - 2910
+EP  - 2919
+AU  - S. Ghassabi
+AU  - B. Behkamal
+AU  - M. Milani
+PY  - 2023
+KW  - Couplings
+KW  - Deep learning
+KW  - Knowledge based systems
+KW  - Focusing
+KW  - Data integration
+KW  - Knowledge graphs
+KW  - Robustness
+KW  - Entity matching
+KW  - Explainable AI
+KW  - Knowledge Graph
+DO  - 10.1109/BigData59044.2023.10386157
+JO  - 2023 IEEE International Conference on Big Data (BigData)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Big Data (BigData)
+Y1  - 15-18 Dec. 2023
+AB  - Entity matching (EM), also known as record linkage, is crucial in data integration, cleaning, and knowledge base construction. Modern matching techniques leverage deep learning and pre-trained language models (PLMs) to effectively identify matching records, showcasing significant advancements over traditional methods. However, certain critical matching aspects have received limited attention in these techniques. They heavily rely on PLMs’ encodings and face challenges in integrating external sources of knowledge to enhance matching accuracy. Additionally, these techniques often lack transparency, impeding users’ understanding of the underlying rationale for matching decisions. Furthermore, they exhibit limitations and decreased performance in handling heterogeneous records from datasets with diverse schemas. This paper presents EXKG, a novel technique that addresses these challenges and effectively matches heterogeneous records with varying attributes. EXKG combines the power of knowledge graphs (KGs) and PLMs to perform record linkage while offering explanatory insights into the matching results. We demonstrate that EXKG achieves competitive performance through experimental studies compared to state-of-the-art matching techniques. As a by-product, our solution generates explanations that give end users a comprehensive understanding of the matching process. We evaluate the quality of these explanations by using a user study and show they empower end users to make informed decisions
+ER  - 
+
+TY  - CONF
+TI  - An Interpretable Transformer-Based Approach to Classify Malaria from Blood Cell Images
+T2  - 2024 International Conference on Sustainable Technology and Engineering (i-COSTE)
+SP  - 1
+EP  - 6
+AU  - S. M. Dipto
+AU  - M. Islam
+AU  - S. M. A. A. Mamun
+AU  - M. K. Hossain
+AU  - A. M. Esfar-E-Alam
+AU  - M. A. Alam
+PY  - 2024
+KW  - Deep learning
+KW  - Computer vision
+KW  - Accuracy
+KW  - Malaria
+KW  - Computational modeling
+KW  - Microscopy
+KW  - Cells (biology)
+KW  - Predictive models
+KW  - Transformers
+KW  - Medical diagnosis
+KW  - Malaria parasites
+KW  - vision transformer
+KW  - swin transformer
+KW  - deep learning
+KW  - gradcam
+DO  - 10.1109/i-COSTE63786.2024.11024978
+JO  - 2024 International Conference on Sustainable Technology and Engineering (i-COSTE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Sustainable Technology and Engineering (i-COSTE)
+Y1  - 18-20 Dec. 2024
+AB  - Malaria is a disease that can be fatal, and it is spread through the bite of the female Anopheles mosquito. The life of the sufferer is put in jeopardy as a result of the presence of numerous plasmodium parasites, which spread throughout their blood cells. Malaria can potentially be fatal if it is not treated within the first few stages of the disease. A well-known method for diagnosing malaria, microscopy involves taking blood samples from the patient, calculating the number of parasites, and counting the victim's red blood cells. Nevertheless, the procedure of microscopy takes a lot of time, and, in certain circumstances, it can produce an incorrect result. When compared to the more conventional approach of microscopic examination, the recent successes of deep learning (DL) in the field of medical diagnosis make it quite conceivable to reduce the expenses associated with the diagnosis while simultaneously improving overall detection accuracy. This study proposes a transformer-based DL technique for diagnosing the malaria parasite using blood cell images. An explainable AI technique called Grad-CAM was applied in order to determine which aspects of an image the proposed model paid significantly more attention to in comparison to the other aspects of the image through saliency mapping. This was done in order to demonstrate the usefulness of the models. According to the findings of this research, the performance of the vision transformer and the VGG16 are identical. Both models have reached an accuracy score of approximately 96 %, which is very impressive.
+ER  - 
+
+TY  - CHAP
+TI  - 4 Applications of artificial intelligence for employees’ health and safety: present and future
+T2  - Semantic Intelligent Computing and Applications
+SP  - 65
+EP  - 86
+AU  - Simrn Gupta
+AU  - Rahul Patanwadia
+AU  - Parth Kalkotwar
+AU  - Ramchandra Mangrulkar
+PY  - 2024
+KW  - Safety
+KW  - Artificial intelligence
+KW  - Employment
+KW  - Semisupervised learning
+KW  - Deep learning
+KW  - Reinforcement learning
+KW  - Occupational safety
+KW  - Hazards
+KW  - Costs
+KW  - Accidents
+DO  - 
+PB  - De Gruyter
+SN  - 9783110781748
+UR  - http://ieeexplore.ieee.org/document/10790179
+AB  - The rapid development in Industry 4.0 era has led to an exponential increase in machines of high potency which are essential for economic growth, thereby increasing the risk for employees. An unsafe and unhealthy work environment can impede the innovation and productivity of employees, which may result in damaging the reputation of the industries. Therefore, there is a need to give a serious thought to these unaddressed issues which may be useful in the safety of our employees. Machine learning (ML) has been pervasively applied across disparate disciplines, especially in industries, and has been found to be significantly efficacious in improving the performance. The capabilities of ML and artificial intelligence (AI) can be exploited to offset the shortcomings of traditional approaches to employees’ safety. This chapter tries to address this issue. Recent advances in this domain are assessed that use ML and AI to address, resolve, and ameliorate the safety concerns of employees. Various applications using supervised learning, semisupervised learning, unsupervised learning, and reinforcement learning methodologies have been delineated. Further, detailed reasoning on why semisupervised learning methodology is preferred currently, primarily due to its high throughput, and the advantage of generating warnings with minimal requirement of historical data has been discussed. Complex deep learning models have become feasible, owing to the easy access to fast modern computers. Of the diverse implementations of neural networks used, this comes at the cost of blackbox models generated in deep learning techniques that might reduce the trust to effectuate such technologies. This treatise proposes explainable artificial intelligence (XAI) as a potential solution for this problem, which can be used to augment employees’ trust in these black-box models by providing a lucid explanation of the model’s working. In totality, this exposition maintains that these ML and deep learning techniques are effective in enhancing workplace health, safety, and environment, as their competence to automate reasoning can culminate in better-informed decisions and effective accident prevention.
+ER  - 
+
+TY  - JOUR
+TI  - Federated Fusion of Magnified Histopathological Images for Breast Tumor Classification in the Internet of Medical Things
+T2  - IEEE Journal of Biomedical and Health Informatics
+SP  - 3389
+EP  - 3400
+AU  - B. L. Y. Agbley
+AU  - J. P. Li
+AU  - A. U. Haq
+AU  - E. K. Bankas
+AU  - C. B. Mawuli
+AU  - S. Ahmad
+AU  - S. Khan
+AU  - A. R. Khan
+PY  - 2024
+KW  - Breast cancer
+KW  - Feature extraction
+KW  - Measurement
+KW  - Deep learning
+KW  - Data models
+KW  - Transfer learning
+KW  - Medical diagnostic imaging
+KW  - Deep learning
+KW  - information fusion
+KW  - internet of medical things
+KW  - medical image analysis
+KW  - magnification
+DO  - 10.1109/JBHI.2023.3256974
+JO  - IEEE Journal of Biomedical and Health Informatics
+IS  - 6
+SN  - 2168-2208
+VO  - 28
+VL  - 28
+JA  - IEEE Journal of Biomedical and Health Informatics
+Y1  - June 2024
+AB  - Breast tumor detection and classification on the Internet of Medical Things (IoMT) can be automated with the potential of Artificial Intelligence (AI). Deep learning models rely on large datasets, however, challenges arise when dealing with sensitive medical data. Restrictions on sharing these medical data result in limited publicly available datasets thereby impacting the performance of the deep learning models. To address this issue, we propose an approach that combines different magnification factors of histopathological images using a residual network and information fusion in Federated Learning (FL). FL is employed to preserve the privacy of patient data, while enabling the creation of a global model. Using the BreakHis dataset, we compare the performance of FL with centralized learning (CL). We also performed visualizations for explainable AI. The final models obtained become available for deployment on internal IoMT systems in healthcare institutions for timely diagnosis and treatment. Our results demonstrate that the proposed approach outperforms existing works in the literature on multiple metrics.
+ER  - 
+
+TY  - CONF
+TI  - An Adaptive Multi-granularity Graph-based Representation for Image
+T2  - 2024 6th International Conference on Frontier Technologies of Information and Computer (ICFTIC)
+SP  - 651
+EP  - 655
+AU  - L. Yang
+AU  - D. Dai
+AU  - S. Xia
+PY  - 2024
+KW  - Deep learning
+KW  - Computer vision
+KW  - Adaptation models
+KW  - Computational modeling
+KW  - Image edge detection
+KW  - Benchmark testing
+KW  - Feature extraction
+KW  - Graph neural networks
+KW  - Cognitive systems
+KW  - Image classification
+KW  - Multi-granularity cognitive computing
+KW  - Graph representation
+KW  - Image classification
+DO  - 10.1109/ICFTIC64248.2024.10913029
+JO  - 2024 6th International Conference on Frontier Technologies of Information and Computer (ICFTIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 6th International Conference on Frontier Technologies of Information and Computer (ICFTIC)
+Y1  - 13-15 Dec. 2024
+AB  - Current image processing methods typically operate at the finest granularity level-pixel level, which poses challenges in terms of efficiency and interpretability in deep neural models. Inspired by the idea of multi-granularity cognitive computing, we explore the construction of a multi-granularity representation for images, aiming to build efficient and interpretable deep learning models. In this work, we propose a method to represent images as graph, where each node represents a structural block in the image and each edge represents the association between two nodes. Specifically: (1) We have designed a gradient-based strategy to adaptively segment the image into several rectangular regions, where each region can be considered as a node. (2) Each node is connected to the nodes sharing the same region, and we have extracted image features corresponding to the nodes as attributes for each node. (3) Finally, all nodes and their corresponding edges form the graph representation of the digital image. In experiments, our method, combined with graph neural network (GNN), is applied to two benchmark datasets for image classification tasks. The results show that our proposed method significantly improves the learning and generalization of GNN models in computer vision tasks compared to previous studies.
+ER  - 
+
+TY  - JOUR
+TI  - Forecasting Bitcoin Volatility Spikes From Whale Transactions and CryptoQuant Data Using Synthesizer Transformer Models
+T2  - IEEE Access
+SP  - 117788
+EP  - 117807
+AU  - D. Herremans
+AU  - K. W. Low
+PY  - 2025
+KW  - Bitcoin
+KW  - Predictive models
+KW  - Whales
+KW  - Transformers
+KW  - Forecasting
+KW  - Data models
+KW  - Synthesizers
+KW  - Blockchains
+KW  - Social networking (online)
+KW  - Biological system modeling
+KW  - Bitcoin
+KW  - cryptocurrency
+KW  - on-chain analytics
+KW  - synthesizer transformer
+KW  - volatility forecasting
+DO  - 10.1109/ACCESS.2025.3584243
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - The cryptocurrency market is highly volatile compared to traditional financial markets. Hence, forecasting its volatility is crucial for risk management. In this paper, we investigate CryptoQuant data (e.g. on-chain analytics, exchange and miner data) and whale-alert tweets, and explore their relationship to Bitcoin’s next-day volatility, with a focus on extreme volatility spikes. We propose a deep learning Synthesizer Transformer model for forecasting volatility. Our results show that the model outperforms existing state-of-the-art models when forecasting extreme volatility spikes for Bitcoin using CryptoQuant data as well as whale-alert tweets. We analysed our model with the Captum XAI library to investigate which features are most important. We also backtested our prediction results with different baseline trading strategies and the results show that we are able to minimize drawdown while keeping steady profits. Our findings underscore that the proposed method is a useful tool for forecasting extreme volatility movements in the Bitcoin market.
+ER  - 
+
+TY  - CONF
+TI  - A Review on Use of Deep Learning and Hyperspectral Data Integration for Early Stage Crop Disease Detection
+T2  - 2025 3rd International Conference on Communication, Security, and Artificial Intelligence (ICCSAI)
+SP  - 1758
+EP  - 1765
+AU  - D. Bhise
+AU  - S. Kumar
+AU  - H. Mohapatra
+PY  - 2025
+KW  - Deep learning
+KW  - Precision agriculture
+KW  - Plant diseases
+KW  - Computer vision
+KW  - Accuracy
+KW  - Multispectral imaging
+KW  - Crops
+KW  - Transformers
+KW  - Convolutional neural networks
+KW  - Hyperspectral imaging
+KW  - Plant Disease Detection
+KW  - Multispectral Imaging
+KW  - Convolutional Neural Networks (CNN)
+KW  - Vision Transformers (ViT)
+KW  - Hybrid Models
+DO  - 10.1109/ICCSAI64074.2025.11063960
+JO  - 2025 3rd International Conference on Communication, Security, and Artificial Intelligence (ICCSAI)
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - 2025 3rd International Conference on Communication, Security, and Artificial Intelligence (ICCSAI)
+Y1  - 4-6 April 2025
+AB  - Early-stage plant disease detection is a cornerstone of precision agriculture, enabling timely interventions to minimize crop loss and enhance agricultural productivity. This review explores the integration of hyperspectral and multispectral imaging technologies with advanced deep learning models, particularly hybrid architectures combining Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs). These techniques offer significant improvements in disease detection accuracy, leveraging spectral and spatial features to identify subtle symptoms before they are visible to the human eye. A comprehensive analysis of 14 key studies highlights the strengths and limitations of existing methods, the datasets employed, and the performance metrics used to evaluate these models, including accuracy, precision, recall, F1-score, and AUC. The review emphasizes the potential of hybrid models to bridge the gap between traditional imaging approaches and emerging demands for scalability, interpretability, and real-time performance in agricultural settings. Additionally, it discusses challenges such as dataset quality, computational complexity, and model generalization, providing insights into how these issues can be addressed through advancements like transfer learning and explainable AI. By synthesizing the findings, this work underscores the transformative role of hyperspectral imaging and deep learning in sustainable crop management and precision agriculture. It concludes with recommendations for future research, focusing on enhancing model robustness, expanding datasets to cover diverse species and diseases, and ensuring real-time applicability for field deployment.
+ER  - 
+
+TY  - JOUR
+TI  - Predicting Defective Lines Using a Model-Agnostic Technique
+T2  - IEEE Transactions on Software Engineering
+SP  - 1480
+EP  - 1496
+AU  - S. Wattanakriengkrai
+AU  - P. Thongtanunam
+AU  - C. Tantithamthavorn
+AU  - H. Hata
+AU  - K. Matsumoto
+PY  - 2022
+KW  - Predictive models
+KW  - Computational modeling
+KW  - Software quality
+KW  - Software systems
+KW  - Pipelines
+KW  - Software engineering
+KW  - Software quality assurance
+KW  - line-level defect prediction
+DO  - 10.1109/TSE.2020.3023177
+JO  - IEEE Transactions on Software Engineering
+IS  - 5
+SN  - 1939-3520
+VO  - 48
+VL  - 48
+JA  - IEEE Transactions on Software Engineering
+Y1  - 1 May 2022
+AB  - Defect prediction models are proposed to help a team prioritize the areas of source code files that need Software Quality Assurance (SQA) based on the likelihood of having defects. However, developers may waste their unnecessary effort on the whole file while only a small fraction of its source code lines are defective. Indeed, we find that as little as 1-3 percent of lines of a file are defective. Hence, in this work, we propose a novel framework (called Line-DP) to identify defective lines using a model-agnostic technique, i.e., an Explainable AI technique that provides information why the model makes such a prediction. Broadly speaking, our Line-DP first builds a file-level defect model using code token features. Then, our Line-DP uses a state-of-the-art model-agnostic technique (i.e., LIME) to identify risky tokens, i.e., code tokens that lead the file-level defect model to predict that the file will be defective. Then, the lines that contain risky tokens are predicted as defective lines. Through a case study of 32 releases of nine Java open source systems, our evaluation results show that our Line-DP achieves an average recall of 0.61, a false alarm rate of 0.47, a top 20%LOC recall of 0.27, and an initial false alarm of 16, which are statistically better than six baseline approaches. Our evaluation shows that our Line-DP requires an average computation time of 10 seconds including model construction and defective line identification time. In addition, we find that 63 percent of defective lines that can be identified by our Line-DP are related to common defects (e.g., argument change, condition change). These results suggest that our Line-DP can effectively identify defective lines that contain common defects while requiring a smaller amount of inspection effort and a manageable computation cost. The contribution of this paper builds an important step towards line-level defect prediction by leveraging a model-agnostic technique.
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning Strategies for Customer Churn Prediction in Competitive Enterprises
+T2  - 2024 International Conference on Sustainable Communication Networks and Application (ICSCNA)
+SP  - 653
+EP  - 660
+AU  - P. Ramesh
+AU  - R. Nithyanandhan
+AU  - M. K. M. Faizal
+AU  - V. Nivakumar
+AU  - M. Nalini
+AU  - S. S. R
+PY  - 2024
+KW  - Surveys
+KW  - Industries
+KW  - Support vector machines
+KW  - Technological innovation
+KW  - Data integrity
+KW  - Companies
+KW  - Predictive models
+KW  - Real-time systems
+KW  - Data models
+KW  - Churn
+KW  - Customer Churn
+KW  - Business
+KW  - Decision Making
+KW  - Machine Learning
+KW  - Retention
+DO  - 10.1109/ICSCNA63714.2024.10864143
+JO  - 2024 International Conference on Sustainable Communication Networks and Application (ICSCNA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Sustainable Communication Networks and Application (ICSCNA)
+Y1  - 11-13 Dec. 2024
+AB  - Customer churn predication is regarded as one of the most vital issues in organizations; especially in the organizations which belong to the competitive industry, where maintaining the existing customers in the organization is far more beneficial as compared to attracting new customers. In this paper, the existing approaches and methods of customer churn prediction is presented with the focus on the machine learning approaches. In the classification algorithms we examine logistic regression, decision trees, random forests, support vector machines, ensemble methods and neural networks. Furthermore, the most common approaches in the context of data preprocessing are discussed, such as data cleaning, feature construction, and dealing with imbalanced data. This encompasses accuracy, precision, recall, F1 score, and AUC-ROC are presented to compare the performance of the models. It also presents real-life examples from the telecommunication, banking, e-commerce, subscription, and online gaming industries. The key issues in churn prediction analysis such as data quality, imbalanced dataset, behavioral change of customers and interpretability of models are discussed. Lastly, we indicate potential avenues for further research, like: integration into CRM systems, real-time analytics, individual retention strategies, and the use of XAI. The goal of this survey is to present a state of art in customer churn prediction discussing useful strategies in the field and pointing out the directions for further investigation.
+ER  - 
+
+TY  - JOUR
+TI  - Industrial Internet of Things and Machine Learning: New Synergies, Applications, and Challenges
+T2  - IEEE Industrial Electronics Magazine
+SP  - 3
+EP  - 3
+AU  - E. Monmasson
+PY  - 2024
+DO  - 10.1109/MIE.2024.3392088
+JO  - IEEE Industrial Electronics Magazine
+IS  - 2
+SN  - 1941-0115
+VO  - 18
+VL  - 18
+JA  - IEEE Industrial Electronics Magazine
+Y1  - June 2024
+AB  - This spring issue is devoted to the new synergies between the Industrial Internet of Things (IIoT) and machine learning (ML) technologies. At the junction of industrial electronics and industrial informatics, the IIoT is one of the most dynamic topics of our research community, and when combined with the recent and significant advancements of ML, it represents huge potential for innovation in many fields of application, like Industry 4.0, transportation, energy, and much more.
+ER  - 
+
+TY  - JOUR
+TI  - Series Editorial: Artificial Intelligence and Data Science for Communications
+T2  - IEEE Communications Magazine
+SP  - 64
+EP  - 65
+AU  - Y. Choi
+AU  - X. Lin
+AU  - M. Louta
+AU  - Y. Shao
+PY  - 2025
+KW  - Special issues and sections
+KW  - Artificial intelligence
+KW  - Data science
+KW  - Edge AI
+KW  - Telecommunication network management
+KW  - Autonomous systems
+KW  - Federated learning
+KW  - Communication systems
+DO  - 10.1109/MCOM.2025.10945713
+JO  - IEEE Communications Magazine
+IS  - 4
+SN  - 1558-1896
+VO  - 63
+VL  - 63
+JA  - IEEE Communications Magazine
+Y1  - April 2025
+AB  - Welcome to the April 2025 issue of IEEE Communications Magazine's Artificial Intelligence and Data Science for Communications Series. In this edition, we bring together five compelling articles that showcase the transformative role of AI and data science in next-generation communication networks. From enhancing security in federated learning to advancing autonomous network management, AI-driven edge intelligence, and radio access networks, these articles collectively illustrate how cutting-edge AI techniques are reshaping the future of communications.
+ER  - 
+
+TY  - JOUR
+TI  - Metaverse and Extended Universe (XV): Opportunities and Challenges for Consumer Technologies
+T2  - IEEE Consumer Electronics Magazine
+SP  - 25
+EP  - 26
+AU  - A. E. Saddik
+AU  - F. Lamberti
+AU  - S. Mann
+AU  - F. G. Pratticó
+AU  - R. Thawonmas
+AU  - Y. Yuan
+PY  - 2024
+KW  - Special issues and sections
+KW  - Metaverse
+KW  - Privacy
+KW  - Consumer electronics
+KW  - X reality
+KW  - Internet
+KW  - Extended reality
+KW  - Virtual reality
+KW  - Economics
+KW  - Social factors
+KW  - Design for manufacture
+KW  - Product design
+KW  - Software design
+DO  - 10.1109/MCE.2024.3359348
+JO  - IEEE Consumer Electronics Magazine
+IS  - 3
+SN  - 2162-2256
+VO  - 13
+VL  - 13
+JA  - IEEE Consumer Electronics Magazine
+Y1  - May 2024
+AB  - Extended meta/uni/Verse (XV), also known as “Mersivity,” “Vironmentalism,” “Social XR,” “Physical metaverse,” etc., combines eXtended Reality (XR), eXtended Intelligence (XI), eXtended Being (XB), including Digital Twin, eXtended Economy (XE), and eXtended Society (XS) into a vision that covers a generally agreed metaverse scope while extending the impacts to include physical and social implications. XV is the next evolution at the nexus of three axes: the 1) physical; 2) virtual; and 3) social worlds.
+ER  - 
+
+TY  - JOUR
+TI  - Explainable AI for SE: Challenges and Future Directions
+T2  - IEEE Software
+SP  - 29
+EP  - 33
+AU  - C. Tantithamthavorn
+AU  - J. Cito
+AU  - H. Hemmati
+AU  - S. Chandra
+PY  - 2023
+KW  - Special issues and sections
+KW  - Artificial intelligence
+KW  - Software engineering
+DO  - 10.1109/MS.2023.3246686
+JO  - IEEE Software
+IS  - 3
+SN  - 1937-4194
+VO  - 40
+VL  - 40
+JA  - IEEE Software
+Y1  - May-June 2023
+AB  - In recent years, artificial intelligence/machine learning (AI/ML) have been widely used in software engineering (SE) to improve developer productivity, software quality, and decision making. This includes well-known tools for code completion (for example, GitHub’s Copilot) but also code search; automated task recommendation; automated developer recommendation; automated defect/vulnerability/malware prediction, detection, localization, and repair; and many other purposes.
+ER  - 
+
+TY  - CONF
+TI  - Keynote Speech 1 From Data to Symbols: A Unified Perspective Through Information Granules
+T2  - 2019 IEEE 14th International Conference on Intelligent Systems and Knowledge Engineering (ISKE)
+SP  - 1
+EP  - 14
+AU  - W. Pedrycz
+PY  - 2019
+DO  - 10.1109/ISKE47853.2019.9170441
+JO  - 2019 IEEE 14th International Conference on Intelligent Systems and Knowledge Engineering (ISKE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE 14th International Conference on Intelligent Systems and Knowledge Engineering (ISKE)
+Y1  - 14-16 Nov. 2019
+AB  - Some of the recent advancements in Artificial Intelligence (AI) fall under the umbrella of industrial developments (which are predominantly driven by numeric data) and explainable AI (XAI). We advocate that in the realization of these two timely pursuits, information granules and Granular Computing play a significant role. First, it is shown that information granularity is of paramount relevance in building linkages between real-world data and symbols commonly encountered in AI processing. Second, we stress that a suitable level of abstraction (specificity of information granularity) becomes essential to support user-oriented framework of design and functioning AI artifacts. In both cases, central to all pursuits is a process of formation of information granules and their prudent characterization. We discuss a comprehensive approach to the development of information granules by means of the principle of justifiable granularity. Here various construction scenarios are discussed including those engaging conditioning and collaborative mechanisms incorporated in the design of information granules. The mechanisms of assessing the quality of granules are presented. In the sequel, we look at the generative and discriminative aspects of information granules supporting their further usage in the formation of granular models. A symbolic manifestation of information granules is put forward and analyzed from the perspective of semantically sound descriptors of data and relationships among data. With this regard, selected aspects of stability and summarization of symbol-oriented information are discussed.
+ER  - 
+
+
