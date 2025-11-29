@@ -1,0 +1,464 @@
+
+TY  - JOUR
+T1  - Deconstruction of ESG Impacts on US Corporate Bond Pricing: The Cost of Capital Benefits Across Industry Sectors
+AU  - Li Dan
+AU  - Adriaens Peter
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1061/JMENEA.MEENG-5521
+DO  - 10.1061/JMENEA.MEENG-5521
+T2  - Journal of Management in Engineering
+JF  - Journal of Management in Engineering
+JO  - Journal of Management in Engineering
+SP  - 04023052
+VL  - 40
+IS  - 1
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JMENEA.MEENG-5521
+UR  - https://doi.org/10.1061/JMENEA.MEENG-5521
+Y2  - 2025/09/05
+N2  - The growing interest in the financial materiality of Environmental, Social, and Governance (ESG) ratings has prompted recent investigations into their risk pricing impact in the corporate bond market. The specific implications for the Architecture, Engineering, and Construction (AEC) industry have not been explored, as prior work has primarily focused on broad-based ESG integration. To fill this gap, our study employed an interpretable machine learning technique using a sample universe of U.S. corporate bonds spanning from 2010 to 2021 to estimate the impact of ESG ratings on corporate bond issuance spreads. The results revealed an average ESG benefit of 10 basis points across all sectors. However, it is important to note that the effects of ESG ratings on bond pricing demonstrate variation across sectors and individual ESG constituent ratings. Significantly, our findings show that social and governance ratings emerge as the primary drivers influencing bond issuance costs, whereas the impact of environmental scores is comparatively less significant. Within AEC-related industries, empirical data on the influence of ESG ratings indicate discounted pricing by the market is particularly channeled through environmental and governance scores. These findings emphasize the value-added impact of enhanced ESG performance on the cost of debt financing, presenting a financially material opportunity for operational and management decision-making. By adopting sustainable strategies to improve ESG performance, organizations in the AEC industry can potentially achieve lower costs of debt when issuing bonds to secure financing for construction projects. The managerial implications extend to policymakers, corporate managers, and creditors, as they all stand to benefit from the financial implications of ESG performance.
+AB  - The growing interest in the financial materiality of Environmental, Social, and Governance (ESG) ratings has prompted recent investigations into their risk pricing impact in the corporate bond market. The specific implications for the Architecture, Engineering, and Construction (AEC) industry have not been explored, as prior work has primarily focused on broad-based ESG integration. To fill this gap, our study employed an interpretable machine learning technique using a sample universe of U.S. corporate bonds spanning from 2010 to 2021 to estimate the impact of ESG ratings on corporate bond issuance spreads. The results revealed an average ESG benefit of 10 basis points across all sectors. However, it is important to note that the effects of ESG ratings on bond pricing demonstrate variation across sectors and individual ESG constituent ratings. Significantly, our findings show that social and governance ratings emerge as the primary drivers influencing bond issuance costs, whereas the impact of environmental scores is comparatively less significant. Within AEC-related industries, empirical data on the influence of ESG ratings indicate discounted pricing by the market is particularly channeled through environmental and governance scores. These findings emphasize the value-added impact of enhanced ESG performance on the cost of debt financing, presenting a financially material opportunity for operational and management decision-making. By adopting sustainable strategies to improve ESG performance, organizations in the AEC industry can potentially achieve lower costs of debt when issuing bonds to secure financing for construction projects. The managerial implications extend to policymakers, corporate managers, and creditors, as they all stand to benefit from the financial implications of ESG performance.
+ER  - 
+
+TY  - BOOK
+PY  - 2014
+AU  - Beer Michael
+AU  - Au Siu-Kui
+AU  - Hall Jim W.
+Y1  - 2014/06/27
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784413609
+UR  - https://doi.org/10.1061/9780784413609
+N1  - doi:10.1061/9780784413609
+M3  - doi:10.1061/9780784413609
+SP  - 0
+T3  - Proceedings
+SN  - 9780784413609
+C1  - Quantification, Mitigation, and Management
+ER  - 
+
+TY  - JOUR
+T1  - Data-Driven Telecommunication Outage Prediction during Hurricane Events
+AU  - Du Ao
+Y1  - 2024/09/01
+PY  - 2024
+DA  - 2024/09/01
+N1  - doi: 10.1061/AJRUA6.RUENG-1285
+DO  - 10.1061/AJRUA6.RUENG-1285
+T2  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+JF  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+JO  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+SP  - 04024046
+VL  - 10
+IS  - 3
+PB  - American Society of Civil Engineers
+SN  - 9780784413609
+M3  - doi: 10.1061/AJRUA6.RUENG-1285
+UR  - https://doi.org/10.1061/AJRUA6.RUENG-1285
+Y2  - 2025/09/05
+N2  - Telecommunication infrastructure (TI) has become an indispensable part in modern society, and its functionality is especially vital to emergency response during hurricanes. This study bridges the gap of lack of quantitative TI outage prediction models during hurricane events. County-level TI outage and power outage time-series and demographic data across eight continental US states during 10 recent hurricane events are collected. Two types of TI outage prediction models, namely, time-independent and time-dependent models, are developed. The time-independent model is intended for rapid prehurricane preparation or posthurricane outage evaluation, and is based on the partial least-squares regression technique. Relative predictor importance is also quantified via the Shapley additive explanations for better model interpretability. Moreover, to offer temporal TI outage prediction as the hurricane unfolds in real time, the time-dependent TI outage prediction model was developed, which leverages recent advances in recurrent neural networks such as the long short-term memory (LSTM) and bidirectional LSTM networks. The time-dependent model is able to handle time-series data and offers sequential TI outage prediction as new observations become available. Comprehensive model predictive performance evaluation is carried out and the explanatory power of different predictor combinations are examined. The proposed data-driven models can offer the much-needed quantitative and rapid TI outage prediction during hurricane events.
+AB  - Telecommunication infrastructure (TI) has become an indispensable part in modern society, and its functionality is especially vital to emergency response during hurricanes. This study bridges the gap of lack of quantitative TI outage prediction models during hurricane events. County-level TI outage and power outage time-series and demographic data across eight continental US states during 10 recent hurricane events are collected. Two types of TI outage prediction models, namely, time-independent and time-dependent models, are developed. The time-independent model is intended for rapid prehurricane preparation or posthurricane outage evaluation, and is based on the partial least-squares regression technique. Relative predictor importance is also quantified via the Shapley additive explanations for better model interpretability. Moreover, to offer temporal TI outage prediction as the hurricane unfolds in real time, the time-dependent TI outage prediction model was developed, which leverages recent advances in recurrent neural networks such as the long short-term memory (LSTM) and bidirectional LSTM networks. The time-dependent model is able to handle time-series data and offers sequential TI outage prediction as new observations become available. Comprehensive model predictive performance evaluation is carried out and the explanatory power of different predictor combinations are examined. The proposed data-driven models can offer the much-needed quantitative and rapid TI outage prediction during hurricane events.
+ER  - 
+
+TY  - JOUR
+T1  - Explainable Stacking-Based Learning Model for Traffic Forecasting
+AU  - Chen Chengyong
+AU  - Liu Jinghan
+AU  - Li Yuexiang
+AU  - Zhang Yan
+Y1  - 2024/04/01
+PY  - 2024
+DA  - 2024/04/01
+N1  - doi: 10.1061/JTEPBS.TEENG-8208
+DO  - 10.1061/JTEPBS.TEENG-8208
+T2  - Journal of Transportation Engineering, Part A: Systems
+JF  - Journal of Transportation Engineering, Part A: Systems
+JO  - Journal of Transportation Engineering, Part A: Systems
+SP  - 04024006
+VL  - 150
+IS  - 4
+PB  - American Society of Civil Engineers
+SN  - 9780784413609
+M3  - doi: 10.1061/JTEPBS.TEENG-8208
+UR  - https://doi.org/10.1061/JTEPBS.TEENG-8208
+Y2  - 2025/09/05
+N2  - This paper implements a two-staged ensemble learning model for traffic forecasting, focusing on the interpretability of predictions. The stacking model leverages the advantages of its diverse component learning models. Experiments on high-dimensional and sparse data validate the stacking model?s superior predictive accuracy compared to baseline models, including LightGBM and XGBoost. In addition to validating the stacking model?s outstanding predictive performance, this paper emphasizes the interpretability of its predictions by proposing an innovative explanation model based on feature contributions. This explanation model addresses the high dimension and sparsity in data prevalent in transportation engineering with its integration of resampling and consensus clustering, offering a scalable, stable, and computationally efficient solution ideal for real-time and large-scale applications. The paper presents theoretical justification, experimental results, and empirical validation of the interpretation model. Extensive experiments demonstrate the model?s enhanced stability compared to traditional shapley additive explanations (SHAP) implementations such as kernel SHAP. Investigating trade-offs between stability and computational efficiency of resampling provides insights for optimal configuration choices. This paper contributes to traffic flow prediction with broad applicability in real-time and large-scale traffic management scenarios, underscoring the vital role of ensemble learning and interpretable machine learning in contemporary data-driven decision making processes.
+AB  - This paper implements a two-staged ensemble learning model for traffic forecasting, focusing on the interpretability of predictions. The stacking model leverages the advantages of its diverse component learning models. Experiments on high-dimensional and sparse data validate the stacking model?s superior predictive accuracy compared to baseline models, including LightGBM and XGBoost. In addition to validating the stacking model?s outstanding predictive performance, this paper emphasizes the interpretability of its predictions by proposing an innovative explanation model based on feature contributions. This explanation model addresses the high dimension and sparsity in data prevalent in transportation engineering with its integration of resampling and consensus clustering, offering a scalable, stable, and computationally efficient solution ideal for real-time and large-scale applications. The paper presents theoretical justification, experimental results, and empirical validation of the interpretation model. Extensive experiments demonstrate the model?s enhanced stability compared to traditional shapley additive explanations (SHAP) implementations such as kernel SHAP. Investigating trade-offs between stability and computational efficiency of resampling provides insights for optimal configuration choices. This paper contributes to traffic flow prediction with broad applicability in real-time and large-scale traffic management scenarios, underscoring the vital role of ensemble learning and interpretable machine learning in contemporary data-driven decision making processes.
+ER  - 
+
+TY  - BOOK
+PY  - 2018
+AU  - Lemnitzer Anne
+AU  - Stuedlein Armin W.
+AU  - Suleiman Muhannad T.
+Y1  - 2018/06/06
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784481608
+UR  - https://doi.org/10.1061/9780784481608
+N1  - doi:10.1061/9780784481608
+M3  - doi:10.1061/9780784481608
+SP  - 0
+T3  - Proceedings
+C1  - Developments in Earth Retention, Support Systems, and Tunneling
+ER  - 
+
+TY  - JOUR
+T1  - Visualization and Analysis of Oil and Gas Pipeline Corrosion Research: A Bibliometric Data-Mining Approach
+AU  - Xu Lei
+AU  - Yu Pengfei
+AU  - Wen Shaomu
+AU  - Tang Yongfan
+AU  - Wang Yunfu
+AU  - Tian Yuan
+AU  - Mao Ting
+AU  - Li Changjun
+Y1  - 2024/08/01
+PY  - 2024
+DA  - 2024/08/01
+N1  - doi: 10.1061/JPSEA2.PSENG-1605
+DO  - 10.1061/JPSEA2.PSENG-1605
+T2  - Journal of Pipeline Systems Engineering and Practice
+JF  - Journal of Pipeline Systems Engineering and Practice
+JO  - Journal of Pipeline Systems Engineering and Practice
+SP  - 04024017
+VL  - 15
+IS  - 3
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JPSEA2.PSENG-1605
+UR  - https://doi.org/10.1061/JPSEA2.PSENG-1605
+Y2  - 2025/09/05
+N2  - The problem of corrosion in oil and gas pipelines is one of the major factors affecting the process safety and efficient sustainability development of the oil and gas industry. To gain a better understanding of global research trends and dynamics in the field of oil and gas pipeline corrosion and to advance the development of corrosion control technology, we conducted a literature review using a sample of 1,745 papers from the Web of Science (WOS) database published from 2002 to 2022. We employed a bibliometric analysis approach employed to investigate the distribution of publications over time, geographic regions, major organizations, major authors, journal cocitation, and literature cocitation, and to identify research hotspots and frontiers. The results revealed an exponential growth in the overall number of papers, with the most rapid increase occurring in the last 4 years. China, the US, Canada, the United Kingdom, and Brazil emerged as the most active countries in oil and natural gas pipeline corrosion research, and Mexico, Canada, and Australia also exhibited significant influence in the field. The journals Engineering Failure Analysis, Corrosion, and Corrosion Science had the highest number of publications and impact in this domain. Notably, Corrosion Science stood out as the most influential and highly regarded journal in the corrosion field. The fundamental theories and research framework in the realm of oil and natural gas pipeline corrosion have been primarily established, and a large number of research directions and frontier branches are emerging. The impact of flow parameters on corrosion, pipeline reliability assessment, and analysis of corrosion defects and failures are identified as the three main development paths in this field. In terms of research methodologies, machine learning techniques are becoming increasingly prevalent, with a growing number of studies adopting various machine learning methods. Among these methods, explainable deep learning is at the forefront of development in the field of oil and natural gas pipeline corrosion.
+AB  - The problem of corrosion in oil and gas pipelines is one of the major factors affecting the process safety and efficient sustainability development of the oil and gas industry. To gain a better understanding of global research trends and dynamics in the field of oil and gas pipeline corrosion and to advance the development of corrosion control technology, we conducted a literature review using a sample of 1,745 papers from the Web of Science (WOS) database published from 2002 to 2022. We employed a bibliometric analysis approach employed to investigate the distribution of publications over time, geographic regions, major organizations, major authors, journal cocitation, and literature cocitation, and to identify research hotspots and frontiers. The results revealed an exponential growth in the overall number of papers, with the most rapid increase occurring in the last 4 years. China, the US, Canada, the United Kingdom, and Brazil emerged as the most active countries in oil and natural gas pipeline corrosion research, and Mexico, Canada, and Australia also exhibited significant influence in the field. The journals Engineering Failure Analysis, Corrosion, and Corrosion Science had the highest number of publications and impact in this domain. Notably, Corrosion Science stood out as the most influential and highly regarded journal in the corrosion field. The fundamental theories and research framework in the realm of oil and natural gas pipeline corrosion have been primarily established, and a large number of research directions and frontier branches are emerging. The impact of flow parameters on corrosion, pipeline reliability assessment, and analysis of corrosion defects and failures are identified as the three main development paths in this field. In terms of research methodologies, machine learning techniques are becoming increasingly prevalent, with a growing number of studies adopting various machine learning methods. Among these methods, explainable deep learning is at the forefront of development in the field of oil and natural gas pipeline corrosion.
+ER  - 
+
+TY  - JOUR
+T1  - Explainable Image Captioning to Identify Ergonomic Problems and Solutions for Construction Workers
+AU  - Yong Gunwoo
+AU  - Liu Meiyin
+AU  - Lee SangHyun
+Y1  - 2024/07/01
+PY  - 2024
+DA  - 2024/07/01
+N1  - doi: 10.1061/JCCEE5.CPENG-5744
+DO  - 10.1061/JCCEE5.CPENG-5744
+T2  - Journal of Computing in Civil Engineering
+JF  - Journal of Computing in Civil Engineering
+JO  - Journal of Computing in Civil Engineering
+SP  - 04024022
+VL  - 38
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCCEE5.CPENG-5744
+UR  - https://doi.org/10.1061/JCCEE5.CPENG-5744
+Y2  - 2025/09/05
+N2  - The high occurrence of work-related musculoskeletal disorders (WMSDs) in construction remains a pressing concern, causing numerous nonfatal injuries. Preventing WMSDs necessitates the implementation of an ergonomic process, encompassing the identification of ergonomic problems and corresponding solutions. Finding ergonomic problems and solutions within active construction sites requires significant efforts from personnel possessing ergonomics expertise. However, ergonomic experts and training programs are often lacking in construction. To address this issue, the authors applied deep learning (DL)?based explainable image captioning to identify ergonomic problems and their corresponding solutions from images that are prevalent in construction sites. To this end, the authors proposed a vision-language model (VLM) capable of identifying ergonomic problems and their solutions, aided by data augmentation. The bilingual evaluation understudy (BLEU) score was used to measure the similarity between ergonomic problems and solutions identified by the proposed VLM and those specified in an ergonomic guideline. Testing with 222 real-site images, the proposed VLM achieved the highest BLEU-4 score, 0.796, compared with the traditional convolutional neural network-long short-term memory and a state-of-the-art VLM, the bootstrapping language-image pretraining. In addition, the authors developed an explainability module, visualizing which specific areas of the images the proposed VLM focuses on when identifying ergonomic problems and the important words for identifying ergonomic solutions. The highest BLEU score and the visual explanations demonstrate the potential and credibility of the proposed VLM in identifying ergonomic problems and their solutions. The proposed VLM and explainability module greatly contribute to implementing the ergonomic process in construction, identifying ergonomic problems and their solutions only with site images. To prevent WMSDs, the National Institute of Occupational Safety and Health (NIOSH) recommends implementing an ergonomic process, which encompasses ergonomic problem identification, ergonomic risk assessment, and ergonomic solution identification. The current practice on sites relies on the intermittent implementation of manual ergonomic processes, and thus often falls short in protecting workers against WMSDs due to rapidly changing site conditions and the lack of on-site ergonomic expertise. Addressing this, many automated tools have been developed for ergonomic risk assessment, but none for ergonomic problem and solution identification. Therefore, with these assessment tools, we aim to streamline the recommended ergonomic process in an automated manner. To this end, we propose a deep learning?based explainable image captioning model for automated ergonomic problem and solution identification. Utilizing an ordinary camera (e.g., smartphones and site surveillance cameras), safety managers can easily identify ergonomic problems, assess risk levels, and identify corresponding solutions. Additionally, our model provides justification for its identification by visualizing the reason behind the identified ergonomic problems and solutions. With such an easily accessible and trustworthy model, the on-site ergonomic process can be streamlined, potentially reducing workers? WMSDs.
+AB  - The high occurrence of work-related musculoskeletal disorders (WMSDs) in construction remains a pressing concern, causing numerous nonfatal injuries. Preventing WMSDs necessitates the implementation of an ergonomic process, encompassing the identification of ergonomic problems and corresponding solutions. Finding ergonomic problems and solutions within active construction sites requires significant efforts from personnel possessing ergonomics expertise. However, ergonomic experts and training programs are often lacking in construction. To address this issue, the authors applied deep learning (DL)?based explainable image captioning to identify ergonomic problems and their corresponding solutions from images that are prevalent in construction sites. To this end, the authors proposed a vision-language model (VLM) capable of identifying ergonomic problems and their solutions, aided by data augmentation. The bilingual evaluation understudy (BLEU) score was used to measure the similarity between ergonomic problems and solutions identified by the proposed VLM and those specified in an ergonomic guideline. Testing with 222 real-site images, the proposed VLM achieved the highest BLEU-4 score, 0.796, compared with the traditional convolutional neural network-long short-term memory and a state-of-the-art VLM, the bootstrapping language-image pretraining. In addition, the authors developed an explainability module, visualizing which specific areas of the images the proposed VLM focuses on when identifying ergonomic problems and the important words for identifying ergonomic solutions. The highest BLEU score and the visual explanations demonstrate the potential and credibility of the proposed VLM in identifying ergonomic problems and their solutions. The proposed VLM and explainability module greatly contribute to implementing the ergonomic process in construction, identifying ergonomic problems and their solutions only with site images. To prevent WMSDs, the National Institute of Occupational Safety and Health (NIOSH) recommends implementing an ergonomic process, which encompasses ergonomic problem identification, ergonomic risk assessment, and ergonomic solution identification. The current practice on sites relies on the intermittent implementation of manual ergonomic processes, and thus often falls short in protecting workers against WMSDs due to rapidly changing site conditions and the lack of on-site ergonomic expertise. Addressing this, many automated tools have been developed for ergonomic risk assessment, but none for ergonomic problem and solution identification. Therefore, with these assessment tools, we aim to streamline the recommended ergonomic process in an automated manner. To this end, we propose a deep learning?based explainable image captioning model for automated ergonomic problem and solution identification. Utilizing an ordinary camera (e.g., smartphones and site surveillance cameras), safety managers can easily identify ergonomic problems, assess risk levels, and identify corresponding solutions. Additionally, our model provides justification for its identification by visualizing the reason behind the identified ergonomic problems and solutions. With such an easily accessible and trustworthy model, the on-site ergonomic process can be streamlined, potentially reducing workers? WMSDs.
+ER  - 
+
+TY  - JOUR
+T1  - Potentials and Challenges of AI-Empowered Solutions to Urban Transportation Infrastructure Systems: NSF AI-Transportation Workshop Phase I
+AU  - Liu Chenxi
+AU  - Pu Chenlu
+AU  - Du Lili
+AU  - Wang Yinhai
+Y1  - 2024/09/01
+PY  - 2024
+DA  - 2024/09/01
+N1  - doi: 10.1061/JTEPBS.TEENG-8538
+DO  - 10.1061/JTEPBS.TEENG-8538
+T2  - Journal of Transportation Engineering, Part A: Systems
+JF  - Journal of Transportation Engineering, Part A: Systems
+JO  - Journal of Transportation Engineering, Part A: Systems
+SP  - 02524001
+VL  - 150
+IS  - 9
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JTEPBS.TEENG-8538
+UR  - https://doi.org/10.1061/JTEPBS.TEENG-8538
+Y2  - 2025/09/05
+N2  - Forum papers are thought-provoking opinion pieces or essays founded in fact, sometimes containing speculation, on a civil engineering topic of general interest and relevance to the readership of the journal. The views expressed in this Forum article do not necessarily reflect the views of ASCE or the Editorial Board of the journal.
+AB  - Forum papers are thought-provoking opinion pieces or essays founded in fact, sometimes containing speculation, on a civil engineering topic of general interest and relevance to the readership of the journal. The views expressed in this Forum article do not necessarily reflect the views of ASCE or the Editorial Board of the journal.
+ER  - 
+
+TY  - JOUR
+T1  - Novel Optical-Inspired Rain Forest for the Explainable Prediction of Geopolymer Concrete Compressive Strength
+AU  - Cheng Min-Yuan
+AU  - Khitam Akhmad F. K.
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+N1  - doi: 10.1061/JCCEE5.CPENG-5956
+DO  - 10.1061/JCCEE5.CPENG-5956
+T2  - Journal of Computing in Civil Engineering
+JF  - Journal of Computing in Civil Engineering
+JO  - Journal of Computing in Civil Engineering
+SP  - 04024035
+VL  - 38
+IS  - 6
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCCEE5.CPENG-5956
+UR  - https://doi.org/10.1061/JCCEE5.CPENG-5956
+Y2  - 2025/09/05
+N2  - Geopolymer concrete (GPC) is an extraordinary material for promoting sustainable development in the construction industry and reducing environmental risk. However, material properties, such as compressive strength, are commonly determined using laboratory experiments, which are costly and time-consuming to run. Therefore, optical-inspired rain forest (ORF), a sophisticated predictive model, was developed to offer an alternative mathematical solution. The developed model uses a novel mechanism that grows an operation tree into multiple operation forests and employs an optical microscope algorithm to optimize the weight and forest topology. The experimental results indicate that the proposed model outperformed several other popular artificial intelligence approaches, achieving the highest evaluation criteria of RI=0.973 and RI=0.979, respectively, for training and testing data sets. Hence, ORF is recommended as a viable tool to assist material engineers to significantly increase the utilization of GPC in construction projects.
+AB  - Geopolymer concrete (GPC) is an extraordinary material for promoting sustainable development in the construction industry and reducing environmental risk. However, material properties, such as compressive strength, are commonly determined using laboratory experiments, which are costly and time-consuming to run. Therefore, optical-inspired rain forest (ORF), a sophisticated predictive model, was developed to offer an alternative mathematical solution. The developed model uses a novel mechanism that grows an operation tree into multiple operation forests and employs an optical microscope algorithm to optimize the weight and forest topology. The experimental results indicate that the proposed model outperformed several other popular artificial intelligence approaches, achieving the highest evaluation criteria of RI=0.973 and RI=0.979, respectively, for training and testing data sets. Hence, ORF is recommended as a viable tool to assist material engineers to significantly increase the utilization of GPC in construction projects.
+ER  - 
+
+TY  - JOUR
+T1  - Methods for Visualizing Deep Learning to Elucidate Contributions of Various Signal Features in Structural Health Monitoring
+AU  - Li Ziqi
+AU  - Li Dongsheng
+AU  - Shen Wei
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+N1  - doi: 10.1061/JCCEE5.CPENG-6195
+DO  - 10.1061/JCCEE5.CPENG-6195
+T2  - Journal of Computing in Civil Engineering
+JF  - Journal of Computing in Civil Engineering
+JO  - Journal of Computing in Civil Engineering
+SP  - 04025042
+VL  - 39
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCCEE5.CPENG-6195
+UR  - https://doi.org/10.1061/JCCEE5.CPENG-6195
+Y2  - 2025/09/05
+N2  - Data-driven damage detection is gaining increasing attention. However, the operational principles of such methods often lack explainability. In this research, a 1D convolutional neural network (1DCNN) network is used to detect internal damage in aluminum plates, and the main innovation lies in proposing a visual explanation method to measure the contribution of different sampling points in the damage classification task. An aluminum plate damage data set was built to test the effectiveness of the developed contribution calculation method that contains six different sizes of damage and is detected by guided wave signals. The proposed 1DCNN achieved a 96% accuracy rate in identifying damage. The proposed visual explanation method highlights the specific features that played a role in the damage identification process. Moreover, we arrived at a novel finding: deep learning-based methods for damage identification typically depend on global features, contrasting with knowledge-driven approaches. This research helps researchers to understand how deep learning models work in structural health monitoring (SHM).
+AB  - Data-driven damage detection is gaining increasing attention. However, the operational principles of such methods often lack explainability. In this research, a 1D convolutional neural network (1DCNN) network is used to detect internal damage in aluminum plates, and the main innovation lies in proposing a visual explanation method to measure the contribution of different sampling points in the damage classification task. An aluminum plate damage data set was built to test the effectiveness of the developed contribution calculation method that contains six different sizes of damage and is detected by guided wave signals. The proposed 1DCNN achieved a 96% accuracy rate in identifying damage. The proposed visual explanation method highlights the specific features that played a role in the damage identification process. Moreover, we arrived at a novel finding: deep learning-based methods for damage identification typically depend on global features, contrasting with knowledge-driven approaches. This research helps researchers to understand how deep learning models work in structural health monitoring (SHM).
+ER  - 
+
+TY  - JOUR
+T1  - Prediction of Truck-Involved Crash Severity on a Rural Mountainous Freeway Using Transfer Learning with ResNet-50 Deep Neural Network
+AU  - Khan Md Nasim
+AU  - Das Anik
+AU  - Ahmed Mohamed M.
+Y1  - 2024/02/01
+PY  - 2024
+DA  - 2024/02/01
+N1  - doi: 10.1061/JTEPBS.TEENG-7304
+DO  - 10.1061/JTEPBS.TEENG-7304
+T2  - Journal of Transportation Engineering, Part A: Systems
+JF  - Journal of Transportation Engineering, Part A: Systems
+JO  - Journal of Transportation Engineering, Part A: Systems
+SP  - 04023131
+VL  - 150
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JTEPBS.TEENG-7304
+UR  - https://doi.org/10.1061/JTEPBS.TEENG-7304
+Y2  - 2025/09/05
+N2  - Crashes involving heavy trucks on rural mountainous freeways are known to result in severe injuries and fatalities, particularly under challenging driving conditions. This study aims to develop a robust model to accurately predict fatal and injury crashes involving heavy trucks on rural mountainous freeways. The crash database of Interstate-80 in Wyoming was used to extract a wide range of variables related to environmental, roadway, crash, occupant, and vehicle characteristics. This study employed a state-of-the-art deep neural network architecture named ResNet-50 using transfer learning to develop crash severity prediction models. The numeric crash data were converted to images utilizing DeepInsight to facilitate the application of the proposed deep learning model. Due to the imbalanced nature of the crash severity data, this study employed random undersampling (RUS) and synthetic minority oversampling technique (SMOTE) data balancing techniques and investigated several data sampling ratios. A ratio of 1?2?2 (Fatal: Injury: PDO) combined with both RUS and SMOTE produced the best performance with recall values of 99.7%, 79.7%, and 79.3% for fatal, injury, and PDO crashes, respectively. This study also employed Boruta and extreme gradient boosting (XGBoost) to examine the significance of variables on crash severity. The findings revealed that the deployment of airbags, use of seatbelts, driver distraction, and driver conditions such as inattentiveness and fatigue, vehicle type, vertical grades, weather, and road surface conditions were the most critical variables contributing to the severity of crashes involving heavy trucks. Furthermore, this study developed several reduced truck-involved crash severity prediction models without significantly compromising the prediction performance. The proposed deep neural network model can provide accurate and timely prediction of fatal and injury crashes involving heavy trucks, which is beneficial for ensuring efficient collision management, avoiding secondary pile-up crashes, and facilitating prompt medical assistance. The proposed method offers a potential solution to predict crash severity, particularly for fatal and injury crashes, in challenging mountainous regions. This is crucial for effective collision management, prevention of secondary crashes, and timely medical assistance. Key contributing factors to crash severity, such as steep grades, sharp turns, driver distraction, fatigue, weather conditions, and road surface conditions, were identified. This information can guide safety practitioners, emergency services, traffic management centers, and manufacturers in improving their countermeasures and safety applications to provide accurate warnings to road users. For example, connected and automated vehicles can use this information to warn drivers about difficult roads with lots of trucks or upcoming bad weather on mountainous roads. Smart cameras inside the car can also be used to detect if the driver is distracted, not paying attention, or tired and can give them physical or sound alerts to help prevent serious accidents. The proposed method can be applied in various safety-related scenarios using numerical or vision-based data to gain a deeper understanding of driver behavior and its association with safety events, ultimately improving road safety for everyone.
+AB  - Crashes involving heavy trucks on rural mountainous freeways are known to result in severe injuries and fatalities, particularly under challenging driving conditions. This study aims to develop a robust model to accurately predict fatal and injury crashes involving heavy trucks on rural mountainous freeways. The crash database of Interstate-80 in Wyoming was used to extract a wide range of variables related to environmental, roadway, crash, occupant, and vehicle characteristics. This study employed a state-of-the-art deep neural network architecture named ResNet-50 using transfer learning to develop crash severity prediction models. The numeric crash data were converted to images utilizing DeepInsight to facilitate the application of the proposed deep learning model. Due to the imbalanced nature of the crash severity data, this study employed random undersampling (RUS) and synthetic minority oversampling technique (SMOTE) data balancing techniques and investigated several data sampling ratios. A ratio of 1?2?2 (Fatal: Injury: PDO) combined with both RUS and SMOTE produced the best performance with recall values of 99.7%, 79.7%, and 79.3% for fatal, injury, and PDO crashes, respectively. This study also employed Boruta and extreme gradient boosting (XGBoost) to examine the significance of variables on crash severity. The findings revealed that the deployment of airbags, use of seatbelts, driver distraction, and driver conditions such as inattentiveness and fatigue, vehicle type, vertical grades, weather, and road surface conditions were the most critical variables contributing to the severity of crashes involving heavy trucks. Furthermore, this study developed several reduced truck-involved crash severity prediction models without significantly compromising the prediction performance. The proposed deep neural network model can provide accurate and timely prediction of fatal and injury crashes involving heavy trucks, which is beneficial for ensuring efficient collision management, avoiding secondary pile-up crashes, and facilitating prompt medical assistance. The proposed method offers a potential solution to predict crash severity, particularly for fatal and injury crashes, in challenging mountainous regions. This is crucial for effective collision management, prevention of secondary crashes, and timely medical assistance. Key contributing factors to crash severity, such as steep grades, sharp turns, driver distraction, fatigue, weather conditions, and road surface conditions, were identified. This information can guide safety practitioners, emergency services, traffic management centers, and manufacturers in improving their countermeasures and safety applications to provide accurate warnings to road users. For example, connected and automated vehicles can use this information to warn drivers about difficult roads with lots of trucks or upcoming bad weather on mountainous roads. Smart cameras inside the car can also be used to detect if the driver is distracted, not paying attention, or tired and can give them physical or sound alerts to help prevent serious accidents. The proposed method can be applied in various safety-related scenarios using numerical or vision-based data to gain a deeper understanding of driver behavior and its association with safety events, ultimately improving road safety for everyone.
+ER  - 
+
+TY  - BOOK
+PY  - 2023
+AU  - Chen Yanyan
+AU  - Ma Jianming
+AU  - Zhang Guohui
+AU  - Wang Haizhong
+AU  - Sun Lijun
+AU  - He Zhengbing
+Y1  - 2023/08/30
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784484869
+UR  - https://doi.org/10.1061/9780784484869
+N1  - doi:10.1061/9780784484869
+M3  - doi:10.1061/9780784484869
+SP  - 0
+T3  - Proceedings
+C1  - Innovation-Empowered Technology for Sustainable, Intelligent, Decarbonized,
+                and Connected Transportation
+ER  - 
+
+TY  - JOUR
+T1  - Sliding Mode Control for Nonlinear and Hysteretic Structures
+AU  - Yang J. N.
+AU  - Wu J. C.
+AU  - Agrawal A. K.
+Y1  - 1995/12/01
+PY  - 1995
+DA  - 1995/12/01
+N1  - doi: 10.1061/(ASCE)0733-9399(1995)121:12(1330)
+DO  - 10.1061/(ASCE)0733-9399(1995)121:12(1330)
+T2  - Journal of Engineering Mechanics
+JF  - Journal of Engineering Mechanics
+JO  - Journal of Engineering Mechanics
+SP  - 1330
+EP  - 1339
+VL  - 121
+IS  - 12
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/(ASCE)0733-9399(1995)121:12(1330)
+UR  - https://doi.org/10.1061/(ASCE)0733-9399(1995)121:12(1330)
+Y2  - 2025/09/05
+N2  - Control methods based on the theory of variable structure system or sliding mode control are presented for applications to seismically excited nonlinear and hysteretic civil engineering structures. These control methods are robust with respect to parametric uncertainties of the structure. The controllers have no adverse effect should the actuator be saturated due to unexpected extreme earthquakes. Emphasis is placed on continuous sliding mode control methods that do not have possible chattering effects. Static output feedback controllers using only the measured information from a limited number of sensors installed at strategic locations are also presented. When a controller is installed in each story unit of a building, a complete compensation of the structural response can be achieved and the response state vector can be reduced to zero. Among the contributions of this paper are the establishment of saturated controllers and controllers for static output feedback. The robustness of the control methods, the applications of the static output controllers, and the control effectiveness in case of actuator saturation are all demonstrated by numerical simulation results. Simulation results indicate that the performance of the sliding mode control methods is remarkable.
+AB  - Control methods based on the theory of variable structure system or sliding mode control are presented for applications to seismically excited nonlinear and hysteretic civil engineering structures. These control methods are robust with respect to parametric uncertainties of the structure. The controllers have no adverse effect should the actuator be saturated due to unexpected extreme earthquakes. Emphasis is placed on continuous sliding mode control methods that do not have possible chattering effects. Static output feedback controllers using only the measured information from a limited number of sensors installed at strategic locations are also presented. When a controller is installed in each story unit of a building, a complete compensation of the structural response can be achieved and the response state vector can be reduced to zero. Among the contributions of this paper are the establishment of saturated controllers and controllers for static output feedback. The robustness of the control methods, the applications of the static output controllers, and the control effectiveness in case of actuator saturation are all demonstrated by numerical simulation results. Simulation results indicate that the performance of the sliding mode control methods is remarkable.
+ER  - 
+
+TY  - JOUR
+T1  - Developing a Machine-Learning Model to Predict Clash Resolution Options
+AU  - Harode Ashit
+AU  - Thabet Walid
+AU  - Gao Xinghua
+Y1  - 2024/03/01
+PY  - 2024
+DA  - 2024/03/01
+N1  - doi: 10.1061/JCCEE5.CPENG-5548
+DO  - 10.1061/JCCEE5.CPENG-5548
+T2  - Journal of Computing in Civil Engineering
+JF  - Journal of Computing in Civil Engineering
+JO  - Journal of Computing in Civil Engineering
+SP  - 04024005
+VL  - 38
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCCEE5.CPENG-5548
+UR  - https://doi.org/10.1061/JCCEE5.CPENG-5548
+Y2  - 2025/09/05
+N2  - Even with the utilization of software tools like Navisworks to automate clash detection, clash resolution in construction projects remains a slow and manual process. The reason is the meticulous nature of the process where coordinators need to ensure that resolving one clash does not lead to new clashes. The use of machine learning to automate clash resolution as a potential option to improve the clash resolution process has been suggested with research showing positive results to support the implementation. While the research shows high accuracy in predicting clash resolution options to support automation, the scope limits the discussion on the complex and often lengthy process of developing a machine-learning model. Based on this research gap, the authors in this paper discuss the development of a prediction model to identify clash resolution options for given clashes. The discussion is focused on individual steps involved in creating machine-learning models like data collection, data preprocessing, and machine-learning algorithm development and selection. The authors also address common challenges in the development of machine-learning models including class imbalance and availability of limited data. The authors utilize a multilabel synthetic oversampling method to generate different percentages of synthetic data to account for class imbalance and limited data sets. Using this data set, the authors trained five machine-learning algorithms and reported on their accuracy. The authors concluded that increasing the data set with 20% synthetic data, and using an artificial neural network to develop the machine-learning model to automate the resolution of clashes have generated better results with an average accuracy of around 80%.
+AB  - Even with the utilization of software tools like Navisworks to automate clash detection, clash resolution in construction projects remains a slow and manual process. The reason is the meticulous nature of the process where coordinators need to ensure that resolving one clash does not lead to new clashes. The use of machine learning to automate clash resolution as a potential option to improve the clash resolution process has been suggested with research showing positive results to support the implementation. While the research shows high accuracy in predicting clash resolution options to support automation, the scope limits the discussion on the complex and often lengthy process of developing a machine-learning model. Based on this research gap, the authors in this paper discuss the development of a prediction model to identify clash resolution options for given clashes. The discussion is focused on individual steps involved in creating machine-learning models like data collection, data preprocessing, and machine-learning algorithm development and selection. The authors also address common challenges in the development of machine-learning models including class imbalance and availability of limited data. The authors utilize a multilabel synthetic oversampling method to generate different percentages of synthetic data to account for class imbalance and limited data sets. Using this data set, the authors trained five machine-learning algorithms and reported on their accuracy. The authors concluded that increasing the data set with 20% synthetic data, and using an artificial neural network to develop the machine-learning model to automate the resolution of clashes have generated better results with an average accuracy of around 80%.
+ER  - 
+
+TY  - JOUR
+T1  - Quantifying the Role of Vulnerability in Hurricane Damage via a Machine Learning Case Study
+AU  - Szczyrba Laura
+AU  - Zhang Yang
+AU  - Pamukcu Duygu
+AU  - Eroglu Derya Ipek
+AU  - Weiss Robert
+Y1  - 2021/08/01
+PY  - 2021
+DA  - 2021/08/01
+N1  - doi: 10.1061/(ASCE)NH.1527-6996.0000460
+DO  - 10.1061/(ASCE)NH.1527-6996.0000460
+T2  - Natural Hazards Review
+JF  - Natural Hazards Review
+JO  - Natural Hazards Review
+SP  - 04021028
+VL  - 22
+IS  - 3
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/(ASCE)NH.1527-6996.0000460
+UR  - https://doi.org/10.1061/(ASCE)NH.1527-6996.0000460
+Y2  - 2025/09/05
+N2  - Predisaster damage predictions and postdisaster damage assessments often inadequately capture the intensity and spatial?temporal complexity of natural hazard-caused damage. Accurate identification of areas with the greatest need in the wake of a disaster requires assessment of both the hazards and community vulnerabilities. This study evaluated the contribution of eight hazard and vulnerability drivers of structural damage due to Hurricane María in Puerto Rico, including wind, flood, landslide, and vulnerability measures via ensemble decision tree algorithms. Results from the algorithms indicate that vulnerability measures, including a structural vulnerability index and a social vulnerability index, were the leading predictors of damage, followed by wind, flood, and landslide measures. Therefore, it is critical to consider community vulnerabilities in damage pattern analyses and targeted, predisaster mitigation efforts.
+AB  - Predisaster damage predictions and postdisaster damage assessments often inadequately capture the intensity and spatial?temporal complexity of natural hazard-caused damage. Accurate identification of areas with the greatest need in the wake of a disaster requires assessment of both the hazards and community vulnerabilities. This study evaluated the contribution of eight hazard and vulnerability drivers of structural damage due to Hurricane María in Puerto Rico, including wind, flood, landslide, and vulnerability measures via ensemble decision tree algorithms. Results from the algorithms indicate that vulnerability measures, including a structural vulnerability index and a social vulnerability index, were the leading predictors of damage, followed by wind, flood, and landslide measures. Therefore, it is critical to consider community vulnerabilities in damage pattern analyses and targeted, predisaster mitigation efforts.
+ER  - 
+
+TY  - JOUR
+T1  - Machine Learning–Based Decision Support Framework for Construction Injury Severity Prediction and Risk Mitigation
+AU  - Gondia Ahmed
+AU  - Ezzeldin Mohamed
+AU  - El-Dakhakhni Wael
+Y1  - 2022/09/01
+PY  - 2022
+DA  - 2022/09/01
+N1  - doi: 10.1061/AJRUA6.0001239
+DO  - 10.1061/AJRUA6.0001239
+T2  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+JF  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+JO  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+SP  - 04022024
+VL  - 8
+IS  - 3
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/AJRUA6.0001239
+UR  - https://doi.org/10.1061/AJRUA6.0001239
+Y2  - 2025/09/05
+N2  - Construction is a key pillar in the global economy, but it is also an industry that has one of the highest fatality rates. The goal of the current study is to employ machine learning in order to develop a framework based on which better-informed and interpretable injury-risk mitigation decisions can be made for construction sites. Central to the framework, generalizable glass-box and black-box models are developed and validated to predict injury severity levels based on the interdependent effects of identified key injury factors. To demonstrate the framework utility, a data set pertaining to construction site injury cases is utilized. By employing the developed models, safety managers can evaluate different construction site safety risk levels, and the potential high-risk zones can be flagged for devising targeted (i.e., site-specific) proactive risk mitigation strategies. Managers can also use the framework to explore complex relationships between interdependent factors and corresponding cause-and-effect of injury severity, which can further enhance their understanding of the underlying mechanisms that shape construction safety risks. Overall, the current study offers transparent, interpretable and generalizable decision-making insights for safety managers and workplace risk practitioners to better identify, understand, predict, and control the factors influencing construction site injuries and ultimately improve the safety level of their working environments by mitigating the risks of associated project disruptions.
+AB  - Construction is a key pillar in the global economy, but it is also an industry that has one of the highest fatality rates. The goal of the current study is to employ machine learning in order to develop a framework based on which better-informed and interpretable injury-risk mitigation decisions can be made for construction sites. Central to the framework, generalizable glass-box and black-box models are developed and validated to predict injury severity levels based on the interdependent effects of identified key injury factors. To demonstrate the framework utility, a data set pertaining to construction site injury cases is utilized. By employing the developed models, safety managers can evaluate different construction site safety risk levels, and the potential high-risk zones can be flagged for devising targeted (i.e., site-specific) proactive risk mitigation strategies. Managers can also use the framework to explore complex relationships between interdependent factors and corresponding cause-and-effect of injury severity, which can further enhance their understanding of the underlying mechanisms that shape construction safety risks. Overall, the current study offers transparent, interpretable and generalizable decision-making insights for safety managers and workplace risk practitioners to better identify, understand, predict, and control the factors influencing construction site injuries and ultimately improve the safety level of their working environments by mitigating the risks of associated project disruptions.
+ER  - 
+
+TY  - BOOK
+PY  - 2025
+AU  - Gruber Alisa
+AU  - Standifer Ross
+Y1  - 2025/08/07
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784486382
+UR  - https://doi.org/10.1061/9780784486382
+N1  - doi:10.1061/9780784486382
+M3  - doi:10.1061/9780784486382
+SP  - 0
+T3  - Proceedings
+C1  - Condition Assessment, Asset Management, and Subsurface Utility Engineering
+ER  - 
+
+TY  - JOUR
+T1  - Interpretable XGBoost-SHAP Machine-Learning Model for Shear Strength Prediction of Squat RC Walls
+AU  - Feng De-Cheng
+AU  - Wang Wen-Jie
+AU  - Mangalathu Sujith
+AU  - Taciroglu Ertugrul
+Y1  - 2021/11/01
+PY  - 2021
+DA  - 2021/11/01
+N1  - doi: 10.1061/(ASCE)ST.1943-541X.0003115
+DO  - 10.1061/(ASCE)ST.1943-541X.0003115
+T2  - Journal of Structural Engineering
+JF  - Journal of Structural Engineering
+JO  - Journal of Structural Engineering
+SP  - 04021173
+VL  - 147
+IS  - 11
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/(ASCE)ST.1943-541X.0003115
+UR  - https://doi.org/10.1061/(ASCE)ST.1943-541X.0003115
+Y2  - 2025/09/05
+N2  - RC shear walls are commonly used as lateral load-resisting elements in seismic regions, and the estimation of their shear strengths can become simultaneously design-critical and complex when they have so-called squat geometries, i.e., height-to-length ratios less than two. This paper presents a study on the training and interpretation of an advanced machine-learning model that strategically combines two algorithms for the said purpose. To train the model, a comprehensive shear strength database of 434 samples of squat RC walls is utilized. First, the eXtreme Gradient Boosting (XGBoost) algorithm is used to establish a predictive model for estimating the shear strength, wherein 70% and 30% of the data are respectively used for training and validation. This effort resulted in an approximately 97% validation accuracy, which well exceeds current mechanics-based/semiempirical models. Second, the SHapley Additive exPlanations (SHAP) algorithm is used to estimate the relative importance of the factors affecting XGBoost?s shear strength estimates. This step thus enabled physical and quantitative interpretations of the input-output dependencies, which are nominally hidden in conventional machine-learning approaches. Through this setup, several squat wall attributes are identified as being critical in shear strength estimates.
+AB  - RC shear walls are commonly used as lateral load-resisting elements in seismic regions, and the estimation of their shear strengths can become simultaneously design-critical and complex when they have so-called squat geometries, i.e., height-to-length ratios less than two. This paper presents a study on the training and interpretation of an advanced machine-learning model that strategically combines two algorithms for the said purpose. To train the model, a comprehensive shear strength database of 434 samples of squat RC walls is utilized. First, the eXtreme Gradient Boosting (XGBoost) algorithm is used to establish a predictive model for estimating the shear strength, wherein 70% and 30% of the data are respectively used for training and validation. This effort resulted in an approximately 97% validation accuracy, which well exceeds current mechanics-based/semiempirical models. Second, the SHapley Additive exPlanations (SHAP) algorithm is used to estimate the relative importance of the factors affecting XGBoost?s shear strength estimates. This step thus enabled physical and quantitative interpretations of the input-output dependencies, which are nominally hidden in conventional machine-learning approaches. Through this setup, several squat wall attributes are identified as being critical in shear strength estimates.
+ER  - 
+
+TY  - JOUR
+T1  - Underwater Surface Defect Recognition of Bridges Based on Fusion of Semantic Segmentation and Three-Dimensional Point Cloud
+AU  - Hou Shitong
+AU  - Shen Han
+AU  - Wu Tao
+AU  - Sun Weihao
+AU  - Wu Gang
+AU  - Wu Zhishen
+Y1  - 2025/01/01
+PY  - 2025
+DA  - 2025/01/01
+N1  - doi: 10.1061/JBENF2.BEENG-7032
+DO  - 10.1061/JBENF2.BEENG-7032
+T2  - Journal of Bridge Engineering
+JF  - Journal of Bridge Engineering
+JO  - Journal of Bridge Engineering
+SP  - 04024101
+VL  - 30
+IS  - 1
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JBENF2.BEENG-7032
+UR  - https://doi.org/10.1061/JBENF2.BEENG-7032
+Y2  - 2025/09/05
+N2  - This study introduces an innovative approach for identifying surface defects in underwater bridge structures through the fusion of deep learning and three-dimensional point cloud. The method employs a U2-Net neural network enhanced with residual U-blocks to effectively capture defect features across scales and merge multiscale underwater image attributes to produce significant probability images for defect detection. By leveraging three-dimensional digital image correlation techniques, the method reconstructs the bridge pier surfaces? physical dimensions from point cloud, enabling precise defect contour and size recognition. The fusion of deep learning?s semantic segmentation with the accurate dimensions from point cloud significantly improves defect detection accuracy, achieving pixel accuracies of 0.943 and 0.811 for foreign objects and spalling and exposed rebars, respectively, and an Intersection over Union of 0.733 and 0.411. The method?s millimeter-level precision in point cloud reconstruction further allows for detailed defect dimensioning, enhancing both the accuracy and the quantitative measurement capabilities of underwater bridge inspections, and shows promise for future advanced applications in this field.
+AB  - This study introduces an innovative approach for identifying surface defects in underwater bridge structures through the fusion of deep learning and three-dimensional point cloud. The method employs a U2-Net neural network enhanced with residual U-blocks to effectively capture defect features across scales and merge multiscale underwater image attributes to produce significant probability images for defect detection. By leveraging three-dimensional digital image correlation techniques, the method reconstructs the bridge pier surfaces? physical dimensions from point cloud, enabling precise defect contour and size recognition. The fusion of deep learning?s semantic segmentation with the accurate dimensions from point cloud significantly improves defect detection accuracy, achieving pixel accuracies of 0.943 and 0.811 for foreign objects and spalling and exposed rebars, respectively, and an Intersection over Union of 0.733 and 0.411. The method?s millimeter-level precision in point cloud reconstruction further allows for detailed defect dimensioning, enhancing both the accuracy and the quantitative measurement capabilities of underwater bridge inspections, and shows promise for future advanced applications in this field.
+ER  - 
+
+TY  - JOUR
+T1  - Deep Learning-Based RGB-D Fusion for Multimodal Condition Assessment of Civil Infrastructure
+AU  - Ghosh Mondal Tarutal
+AU  - Jahanshahi Mohammad R.
+AU  - Wu Zheng Yi
+Y1  - 2023/07/01
+PY  - 2023
+DA  - 2023/07/01
+N1  - doi: 10.1061/JCCEE5.CPENG-5197
+DO  - 10.1061/JCCEE5.CPENG-5197
+T2  - Journal of Computing in Civil Engineering
+JF  - Journal of Computing in Civil Engineering
+JO  - Journal of Computing in Civil Engineering
+SP  - 04023017
+VL  - 37
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCCEE5.CPENG-5197
+UR  - https://doi.org/10.1061/JCCEE5.CPENG-5197
+Y2  - 2025/09/05
+N2  - Recent advancements in the areas of computer vision and deep learning have broadened the scope of vision-based autonomous condition assessment of civil infrastructure. However, a review of available literature suggests that most of the existing vision-based inspection techniques rely only on color information, due to the immediate availability of inexpensive high-resolution cameras. Regular cameras translate a 3D scene to a 2D space, which leads to a loss of information vis-à-vis distance and scale. This imposes a barrier to the realization of the full potential of vision-based techniques. In this regard, the structural health monitoring community is yet to benefit from the new opportunities that commercially-available low-cost depth sensors offer. This study aims at filling this knowledge gap by incorporating depth fusion into an encoder-decoder-based semantic segmentation model. Advanced computer graphics approaches are exploited to generate a database of paired RGB and depth images representing various damage categories that are commonly observed in reinforced concrete (RC) buildings, namely, spalling, spalling with exposed rebars, and severely buckled rebars. A number of encoding techniques are explored for representing the depth data. Additionally, various schemes for the data-level, feature-level, and decision-level fusions of RGB and depth data are investigated to identify the best fusion strategy. Overall, it was observed that feature-level fusion is the most effective and can enhance the performance of deep learning-based damage segmentation algorithms by up to 25% without any appreciable increase in the computation time. Moreover, a novel volumetric damage quantification approach is introduced, which is robust against perspective distortion. This study is believed to advance the frontiers of infrastructure resilience and maintenance.
+AB  - Recent advancements in the areas of computer vision and deep learning have broadened the scope of vision-based autonomous condition assessment of civil infrastructure. However, a review of available literature suggests that most of the existing vision-based inspection techniques rely only on color information, due to the immediate availability of inexpensive high-resolution cameras. Regular cameras translate a 3D scene to a 2D space, which leads to a loss of information vis-à-vis distance and scale. This imposes a barrier to the realization of the full potential of vision-based techniques. In this regard, the structural health monitoring community is yet to benefit from the new opportunities that commercially-available low-cost depth sensors offer. This study aims at filling this knowledge gap by incorporating depth fusion into an encoder-decoder-based semantic segmentation model. Advanced computer graphics approaches are exploited to generate a database of paired RGB and depth images representing various damage categories that are commonly observed in reinforced concrete (RC) buildings, namely, spalling, spalling with exposed rebars, and severely buckled rebars. A number of encoding techniques are explored for representing the depth data. Additionally, various schemes for the data-level, feature-level, and decision-level fusions of RGB and depth data are investigated to identify the best fusion strategy. Overall, it was observed that feature-level fusion is the most effective and can enhance the performance of deep learning-based damage segmentation algorithms by up to 25% without any appreciable increase in the computation time. Moreover, a novel volumetric damage quantification approach is introduced, which is robust against perspective distortion. This study is believed to advance the frontiers of infrastructure resilience and maintenance.
+ER  - 

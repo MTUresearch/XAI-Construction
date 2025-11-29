@@ -1,0 +1,443 @@
+
+TY  - JOUR
+T1  - Cost Estimation of Metro Construction Projects Using Interpretable Machine Learning
+AU  - Meng Chuncheng
+AU  - Qu Daoyuan
+AU  - Duan Xiaochen
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+N1  - doi: 10.1061/JCCEE5.CPENG-6018
+DO  - 10.1061/JCCEE5.CPENG-6018
+T2  - Journal of Computing in Civil Engineering
+JF  - Journal of Computing in Civil Engineering
+JO  - Journal of Computing in Civil Engineering
+SP  - 04024038
+VL  - 38
+IS  - 6
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCCEE5.CPENG-6018
+UR  - https://doi.org/10.1061/JCCEE5.CPENG-6018
+Y2  - 2025/09/05
+N2  - The metro, renowned as an environmentally friendly mode of transportation due to its low energy consumption and minimal pollution, plays a crucial role in achieving sustainable urban growth. Due to the scarcity of information in the early stages of metro construction projects and the subjectivity of cost estimation (which relies heavily on the estimator?s experience), it is always difficult to guarantee the accuracy of metro construction project cost estimation. Furthermore, the existing methodological models commonly used for cost estimation do not adequately consider the interpretability of the estimation results, making it difficult to promote their application in real-world scenarios. In this paper, an interpretable machine learning method is introduced into the study of cost estimation of metro construction projects, and a maximum relevance and minimum redundancy (mRMR)?light gradient boosting machine (LightGBM)?Shapley additive explanations (SHAP) interpretable assisted investment decision-making framework is proposed. The results show that the negative impact of variable multicollinearity on model prediction is avoided by quantitatively identifying the key driving variables of costing through mRMR based on the historical data of metro construction projects and macroeconomic data. LightGBM is employed to predict the cost of metro construction projects with a mean absolute percentage error of 13.00%, surpassing the accuracy of the five baseline models. The SHAP method?s introduction explains the influence of key driving variables on the model prediction response at both global and local levels, which improves the decision trust of the cost estimation of metro construction projects. The study takes into account the impact of key driving variables on the model?s prediction response in a real-world context and balances the needs for estimation accuracy and variable interpretability in real-world scenarios. In this study, we propose a new interpretable machine learning method that helps improve the decision trust of cost estimation for metro construction projects. We use the mRMR module to identify the key driving variables for cost. Based on the LightGBM module, we accurately fit the nonlinear relationship between the cost of metro construction projects and the key variables. The SHAP algorithm is introduced to analyze the effects of the key driving variables on the prediction of the model at both global and local levels. The combined mRMR-LightGBM-SHAP model is proven to have better prediction accuracy than the traditional prediction model under the same conditions, and the SHAP response results prove the reliability of the model prediction. The study also found that the inclusion of economic environment variables plays a positive role in improving the accuracy of cost estimation for metro construction projects. The research results can be mainly used by metro investment units to quickly confirm or review the cost of metro construction projects, and they can also help government departments pay close attention to the impact of the external economic environment on the cost of metro construction.
+AB  - The metro, renowned as an environmentally friendly mode of transportation due to its low energy consumption and minimal pollution, plays a crucial role in achieving sustainable urban growth. Due to the scarcity of information in the early stages of metro construction projects and the subjectivity of cost estimation (which relies heavily on the estimator?s experience), it is always difficult to guarantee the accuracy of metro construction project cost estimation. Furthermore, the existing methodological models commonly used for cost estimation do not adequately consider the interpretability of the estimation results, making it difficult to promote their application in real-world scenarios. In this paper, an interpretable machine learning method is introduced into the study of cost estimation of metro construction projects, and a maximum relevance and minimum redundancy (mRMR)?light gradient boosting machine (LightGBM)?Shapley additive explanations (SHAP) interpretable assisted investment decision-making framework is proposed. The results show that the negative impact of variable multicollinearity on model prediction is avoided by quantitatively identifying the key driving variables of costing through mRMR based on the historical data of metro construction projects and macroeconomic data. LightGBM is employed to predict the cost of metro construction projects with a mean absolute percentage error of 13.00%, surpassing the accuracy of the five baseline models. The SHAP method?s introduction explains the influence of key driving variables on the model prediction response at both global and local levels, which improves the decision trust of the cost estimation of metro construction projects. The study takes into account the impact of key driving variables on the model?s prediction response in a real-world context and balances the needs for estimation accuracy and variable interpretability in real-world scenarios. In this study, we propose a new interpretable machine learning method that helps improve the decision trust of cost estimation for metro construction projects. We use the mRMR module to identify the key driving variables for cost. Based on the LightGBM module, we accurately fit the nonlinear relationship between the cost of metro construction projects and the key variables. The SHAP algorithm is introduced to analyze the effects of the key driving variables on the prediction of the model at both global and local levels. The combined mRMR-LightGBM-SHAP model is proven to have better prediction accuracy than the traditional prediction model under the same conditions, and the SHAP response results prove the reliability of the model prediction. The study also found that the inclusion of economic environment variables plays a positive role in improving the accuracy of cost estimation for metro construction projects. The research results can be mainly used by metro investment units to quickly confirm or review the cost of metro construction projects, and they can also help government departments pay close attention to the impact of the external economic environment on the cost of metro construction.
+ER  - 
+
+TY  - JOUR
+T1  - Interpretable Machine Learning for Cost Estimation in Underground Pipe Installation
+AU  - Bansal Anjali
+AU  - Fayaz Sheikh Junaid
+AU  - Krishnan N. M. Anoop
+AU  - Kota Sri Harsha
+AU  - Nema Arvind Kumar
+Y1  - 2025/08/01
+PY  - 2025
+DA  - 2025/08/01
+N1  - doi: 10.1061/JPSEA2.PSENG-1794
+DO  - 10.1061/JPSEA2.PSENG-1794
+T2  - Journal of Pipeline Systems Engineering and Practice
+JF  - Journal of Pipeline Systems Engineering and Practice
+JO  - Journal of Pipeline Systems Engineering and Practice
+SP  - 05025004
+VL  - 16
+IS  - 3
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JPSEA2.PSENG-1794
+UR  - https://doi.org/10.1061/JPSEA2.PSENG-1794
+Y2  - 2025/09/05
+N2  - This study explores the application of interpretable machine learning (ML) models for accurately estimating excavation and installation costs associated with underground high-density polyethylene (HDPE) pipeline projects. Leveraging design data from seven projects across Asia, the research evaluates six regression models: linear regression, lasso regression, elastic net regression, random forest regression, XGBoost, and Gaussian process regression. Model performance was assessed using the R-squared (R2) metric, with XGBoost and Gaussian process regression achieving the highest R2 scores (above 0.89) on the testing data sets. Shapley additive explanations (SHAP) analysis reveals that pipe length, diameter, and depth are the most significant predictors, with pipe length contributing most substantially to cost estimations. The results indicate that ML models, particularly XGBoost and Gaussian process regression and stacked models, provide reliable cost predictions when diverse, high-quality data are available, offering a valuable tool for early-stage project budgeting and planning in the pipeline industry. This study provides valuable insights for professionals in the field of subterranean infrastructure and construction cost estimation. By analyzing real time design phase data from various subterranean networks, the research develops a predictive model that can assist in estimating the cost of construction projects based on key design parameters such as diameter, length, and depth of the infrastructure. This model can be applied by engineers and project managers to make more accurate cost predictions, improving budgeting and planning for subterranean infrastructure projects. Additionally, the findings underscore the importance of using real-world, site-specific data in cost estimation, which can lead to more efficient resource allocation and project execution. The methodology can be adapted and extended to similar infrastructure projects, offering practitioners a robust tool for enhancing cost estimation processes and ensuring better project outcomes in terms of time, budget, and quality.
+AB  - This study explores the application of interpretable machine learning (ML) models for accurately estimating excavation and installation costs associated with underground high-density polyethylene (HDPE) pipeline projects. Leveraging design data from seven projects across Asia, the research evaluates six regression models: linear regression, lasso regression, elastic net regression, random forest regression, XGBoost, and Gaussian process regression. Model performance was assessed using the R-squared (R2) metric, with XGBoost and Gaussian process regression achieving the highest R2 scores (above 0.89) on the testing data sets. Shapley additive explanations (SHAP) analysis reveals that pipe length, diameter, and depth are the most significant predictors, with pipe length contributing most substantially to cost estimations. The results indicate that ML models, particularly XGBoost and Gaussian process regression and stacked models, provide reliable cost predictions when diverse, high-quality data are available, offering a valuable tool for early-stage project budgeting and planning in the pipeline industry. This study provides valuable insights for professionals in the field of subterranean infrastructure and construction cost estimation. By analyzing real time design phase data from various subterranean networks, the research develops a predictive model that can assist in estimating the cost of construction projects based on key design parameters such as diameter, length, and depth of the infrastructure. This model can be applied by engineers and project managers to make more accurate cost predictions, improving budgeting and planning for subterranean infrastructure projects. Additionally, the findings underscore the importance of using real-world, site-specific data in cost estimation, which can lead to more efficient resource allocation and project execution. The methodology can be adapted and extended to similar infrastructure projects, offering practitioners a robust tool for enhancing cost estimation processes and ensuring better project outcomes in terms of time, budget, and quality.
+ER  - 
+
+TY  - JOUR
+T1  - Developing a Fatigue Model for Construction Workers: An Interpretable Machine Learning Approach
+AU  - Zong Haiyi
+AU  - Yi Wen
+AU  - Chan Albert P. C.
+AU  - Yang Hanyue
+AU  - Wu Peng
+AU  - Xiao Bo
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+N1  - doi: 10.1061/JMENEA.MEENG-6662
+DO  - 10.1061/JMENEA.MEENG-6662
+T2  - Journal of Management in Engineering
+JF  - Journal of Management in Engineering
+JO  - Journal of Management in Engineering
+SP  - 04025025
+VL  - 41
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JMENEA.MEENG-6662
+UR  - https://doi.org/10.1061/JMENEA.MEENG-6662
+Y2  - 2025/09/05
+N2  - The construction industry is one of the most hazardous sectors worldwide, with extremely high rates of occupational deaths and injuries. Worker fatigue, caused by undertaking physically demanding tasks in awkward working postures over prolonged daily durations, has been recognized as the main cause of these accidents. Additionally, fatigue can lead to reduced work efficiency and increased absenteeism, undermining labor productivity. This study aims to develop an accurate and reliable model to estimate the fatigue levels of construction workers. Field studies were conducted with 156 construction workers at four construction sites in mainland China. A series of physiological, personal, work-related, and environmental factors were measured and monitored to establish an interpretable machine learning model for assessing fatigue levels. The developed interpretable machine learning model exhibited good fitting with high accuracy, evidenced by the random forest model attaining an R2 value of 0.9953 through the 10-fold cross-validation method. Furthermore, this model could transparently reveal the mechanisms underlying the prediction of worker fatigue. Work duration, work session (i.e., morning session, afternoon session), environmental parameters (i.e., air temperature, humidity, wind velocity, and radiation), and worker age were identified as key factors affecting the fatigue of construction workers. The developed fatigue model can prevent excessive fatigue among construction workers, and the model interpretation results may benefit the industry by making solid guidelines and practice notes to alleviate worker fatigue. To prevent excessive fatigue among construction workers, this study developed an interpretable machine learning model to assess the fatigue levels of workers during work. The developed model not only accurately evaluates the fatigue status of workers, but also reveals key fatigue-influencing factors. This dual capability facilitates the practicality and acceptability of the model in real construction settings. By assessing real-time fatigue levels, the model can prevent workers from reaching exhaustion thresholds, thereby mitigating the risk of hazardous accidents. The identified key fatigue-influencing factors can support the formulation of more targeted management measures, focusing on aspects such as work duration, work session, environmental conditions, and worker age, to effectively alleviate fatigue. In future research, the fatigue model could be considered integrated into smartphone applications to issue timely fatigue warnings, enhancing fatigue management on construction sites. The fatigue assessments provided by the model can also be considered to offer decision-making insights for optimizing work assignments. Overall, the development of this fatigue model contributes to fostering sustainable work practices among construction workers, thereby enhancing their occupational health and safety.
+AB  - The construction industry is one of the most hazardous sectors worldwide, with extremely high rates of occupational deaths and injuries. Worker fatigue, caused by undertaking physically demanding tasks in awkward working postures over prolonged daily durations, has been recognized as the main cause of these accidents. Additionally, fatigue can lead to reduced work efficiency and increased absenteeism, undermining labor productivity. This study aims to develop an accurate and reliable model to estimate the fatigue levels of construction workers. Field studies were conducted with 156 construction workers at four construction sites in mainland China. A series of physiological, personal, work-related, and environmental factors were measured and monitored to establish an interpretable machine learning model for assessing fatigue levels. The developed interpretable machine learning model exhibited good fitting with high accuracy, evidenced by the random forest model attaining an R2 value of 0.9953 through the 10-fold cross-validation method. Furthermore, this model could transparently reveal the mechanisms underlying the prediction of worker fatigue. Work duration, work session (i.e., morning session, afternoon session), environmental parameters (i.e., air temperature, humidity, wind velocity, and radiation), and worker age were identified as key factors affecting the fatigue of construction workers. The developed fatigue model can prevent excessive fatigue among construction workers, and the model interpretation results may benefit the industry by making solid guidelines and practice notes to alleviate worker fatigue. To prevent excessive fatigue among construction workers, this study developed an interpretable machine learning model to assess the fatigue levels of workers during work. The developed model not only accurately evaluates the fatigue status of workers, but also reveals key fatigue-influencing factors. This dual capability facilitates the practicality and acceptability of the model in real construction settings. By assessing real-time fatigue levels, the model can prevent workers from reaching exhaustion thresholds, thereby mitigating the risk of hazardous accidents. The identified key fatigue-influencing factors can support the formulation of more targeted management measures, focusing on aspects such as work duration, work session, environmental conditions, and worker age, to effectively alleviate fatigue. In future research, the fatigue model could be considered integrated into smartphone applications to issue timely fatigue warnings, enhancing fatigue management on construction sites. The fatigue assessments provided by the model can also be considered to offer decision-making insights for optimizing work assignments. Overall, the development of this fatigue model contributes to fostering sustainable work practices among construction workers, thereby enhancing their occupational health and safety.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling Dynamics of Community Resilience to Extreme Events with Explainable Deep Learning
+AU  - Hao Haiyan
+AU  - Wang Yan
+Y1  - 2023/05/01
+PY  - 2023
+DA  - 2023/05/01
+N1  - doi: 10.1061/NHREFO.NHENG-1696
+DO  - 10.1061/NHREFO.NHENG-1696
+T2  - Natural Hazards Review
+JF  - Natural Hazards Review
+JO  - Natural Hazards Review
+SP  - 04023013
+VL  - 24
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/NHREFO.NHENG-1696
+UR  - https://doi.org/10.1061/NHREFO.NHENG-1696
+Y2  - 2025/09/05
+N2  - Community resilience provides a paradigm guiding communities? preparedness and mitigation efforts to counter the increasing risks of extreme events (EEs). Knowledge regarding how communities perform during and after EEs can inform proactive resilience enhancement practices. However, the EE impacts on impacted communities are influenced by multiple variables and their implicit interactions, which are difficult to be understood and modeled with conventional mathematical or statistical models. Thus, we calibrate a spatio-temporal deep learning model to capture the dynamics of impacted communities and use explainable artificial intelligence (XAI) approach to interpret the influence of communities? social and physical properties on EE impacts. Specifically, we couple graph convolutional neural network (GCN) and long short-term memory (LSTM) to model the mobility dynamics for 666 census tracts (i.e., communities) in 14 medium-sized US cities affected by recent hurricanes. The model takes both static variables characterizing communities? preexisting conditions and dynamic variables depicting the changing hazard exposure. The interpretation of the model predictions based on DeepLIFT shows that community resilience, inferred from the perturbation of human mobility in this research, is highly event and geography dependent. Variables including walkability, green spaces, and civil participation generally contribute to fewer mobility perturbations, i.e., resilience contributive, while automobile-oriented accessibility and social vulnerability lead to more mobility perturbations when hazard conditions are controlled. This study empirically validates the mediative role of communities? social and physical properties on EE impacts and promotes more data-driven approaches for understanding and anticipating complex, dynamic, and place-specific community resilience.
+AB  - Community resilience provides a paradigm guiding communities? preparedness and mitigation efforts to counter the increasing risks of extreme events (EEs). Knowledge regarding how communities perform during and after EEs can inform proactive resilience enhancement practices. However, the EE impacts on impacted communities are influenced by multiple variables and their implicit interactions, which are difficult to be understood and modeled with conventional mathematical or statistical models. Thus, we calibrate a spatio-temporal deep learning model to capture the dynamics of impacted communities and use explainable artificial intelligence (XAI) approach to interpret the influence of communities? social and physical properties on EE impacts. Specifically, we couple graph convolutional neural network (GCN) and long short-term memory (LSTM) to model the mobility dynamics for 666 census tracts (i.e., communities) in 14 medium-sized US cities affected by recent hurricanes. The model takes both static variables characterizing communities? preexisting conditions and dynamic variables depicting the changing hazard exposure. The interpretation of the model predictions based on DeepLIFT shows that community resilience, inferred from the perturbation of human mobility in this research, is highly event and geography dependent. Variables including walkability, green spaces, and civil participation generally contribute to fewer mobility perturbations, i.e., resilience contributive, while automobile-oriented accessibility and social vulnerability lead to more mobility perturbations when hazard conditions are controlled. This study empirically validates the mediative role of communities? social and physical properties on EE impacts and promotes more data-driven approaches for understanding and anticipating complex, dynamic, and place-specific community resilience.
+ER  - 
+
+TY  - BOOK
+PY  - 2025
+AU  - Wang Yaowu
+AU  - Su Cheng
+AU  - Shen Geoffrey Q. P.
+Y1  - 2025/03/26
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485910
+UR  - https://doi.org/10.1061/9780784485910
+N1  - doi:10.1061/9780784485910
+M3  - doi:10.1061/9780784485910
+SP  - 0
+T3  - Proceedings
+C1  - ESG Development in the Construction Industry
+ER  - 
+
+TY  - BOOK
+PY  - 2023
+AU  - Ching Jianye
+AU  - Najjar Shadi
+AU  - Medina-Cetina Zenon
+Y1  - 2023/07/20
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784484982
+UR  - https://doi.org/10.1061/9780784484982
+N1  - doi:10.1061/9780784484982
+M3  - doi:10.1061/9780784484982
+SP  - 0
+T3  - Proceedings
+C1  - Developments in Reliability, Risk, and Resilience 
+ER  - 
+
+TY  - JOUR
+T1  - Exploring the Efficacy of Artificial Intelligence in Speed Prediction: Explainable Machine-Learning Approach
+AU  - Jain Vineet
+AU  - Chouhan Rajesh
+AU  - Dhamaniya Ashish
+Y1  - 2025/03/01
+PY  - 2025
+DA  - 2025/03/01
+N1  - doi: 10.1061/JCCEE5.CPENG-5980
+DO  - 10.1061/JCCEE5.CPENG-5980
+T2  - Journal of Computing in Civil Engineering
+JF  - Journal of Computing in Civil Engineering
+JO  - Journal of Computing in Civil Engineering
+SP  - 04025004
+VL  - 39
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCCEE5.CPENG-5980
+UR  - https://doi.org/10.1061/JCCEE5.CPENG-5980
+Y2  - 2025/09/05
+N2  - The primary concern regarding road design elements is traffic stream speed, which is considered a good indicator of travel quality. Although a great deal of time and effort is needed to estimate traffic stream speed from the field, it still frequently falls short of the designers? requirements. To address this, this study explored the efficacy of artificial intelligence, and used eXplainable Machine Learning (XML) to determine the underlying mechanisms through which machine-learning models arrive at predictions. This study investigated the impact of categorized traffic volume and road width on predicting stream and vehicle-specific speeds, considering five significant vehicle categories in India?s traffic stream. Because small cars and two-wheelers account for the highest proportion of the five vehicle categories, speed prediction models for these vehicles, along with stream speed, are proposed. Four tree-based machine-learning models were used: decision tree (DT), random forest (RF), extra tree (ET), and eXtreme Gradient Boosting (XGB). The performance of all the models was validated, and the outcomes showed that the RF had the best predicting speed. Furthermore, a test data set was used as an independent and unseen sample used to assess the final performance of the developed model fits impartially. A post hoc explanation technique, i.e., SHapley Additive exPlanations (SHAP), was employed for the complex RF model to interpret. SHAP indicated various positive and negative impacts of categorized traffic volume and road width on predicting stream speed, illustrating these relationships and aligning with established traffic engineering principles. This analysis with SHAP validated the causal relationship behind the ML model?s predictions. The study outcomes are useful for managing the urban roadway network performance under mixed traffic conditions. This study developed machine-learning models with practicality in mind, utilizing minimal input information such as intrinsic road characteristics such as the road width and volume data for each vehicle category. This streamlined approach ensures that field engineers and practitioners can use the models easily. By significantly reducing the time required to estimate traffic stream speed, these models offer an efficient alternative to traditional, labor-intensive methods. Focusing on small cars and two-wheelers, which dominate traffic in India, the models are highly relevant for optimizing roadway performance and managing urban traffic conditions effectively.
+AB  - The primary concern regarding road design elements is traffic stream speed, which is considered a good indicator of travel quality. Although a great deal of time and effort is needed to estimate traffic stream speed from the field, it still frequently falls short of the designers? requirements. To address this, this study explored the efficacy of artificial intelligence, and used eXplainable Machine Learning (XML) to determine the underlying mechanisms through which machine-learning models arrive at predictions. This study investigated the impact of categorized traffic volume and road width on predicting stream and vehicle-specific speeds, considering five significant vehicle categories in India?s traffic stream. Because small cars and two-wheelers account for the highest proportion of the five vehicle categories, speed prediction models for these vehicles, along with stream speed, are proposed. Four tree-based machine-learning models were used: decision tree (DT), random forest (RF), extra tree (ET), and eXtreme Gradient Boosting (XGB). The performance of all the models was validated, and the outcomes showed that the RF had the best predicting speed. Furthermore, a test data set was used as an independent and unseen sample used to assess the final performance of the developed model fits impartially. A post hoc explanation technique, i.e., SHapley Additive exPlanations (SHAP), was employed for the complex RF model to interpret. SHAP indicated various positive and negative impacts of categorized traffic volume and road width on predicting stream speed, illustrating these relationships and aligning with established traffic engineering principles. This analysis with SHAP validated the causal relationship behind the ML model?s predictions. The study outcomes are useful for managing the urban roadway network performance under mixed traffic conditions. This study developed machine-learning models with practicality in mind, utilizing minimal input information such as intrinsic road characteristics such as the road width and volume data for each vehicle category. This streamlined approach ensures that field engineers and practitioners can use the models easily. By significantly reducing the time required to estimate traffic stream speed, these models offer an efficient alternative to traditional, labor-intensive methods. Focusing on small cars and two-wheelers, which dominate traffic in India, the models are highly relevant for optimizing roadway performance and managing urban traffic conditions effectively.
+ER  - 
+
+TY  - JOUR
+T1  - Causality-Guided Explainable Deep-Learning Model for Managing Tunnel-Induced Ground Settlement Risks
+AU  - Liu Wenli
+AU  - Liu Fenghua
+AU  - Love Peter E. D.
+AU  - Fang Weili
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+N1  - doi: 10.1061/JCCEE5.CPENG-6209
+DO  - 10.1061/JCCEE5.CPENG-6209
+T2  - Journal of Computing in Civil Engineering
+JF  - Journal of Computing in Civil Engineering
+JO  - Journal of Computing in Civil Engineering
+SP  - 05025003
+VL  - 39
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCCEE5.CPENG-6209
+UR  - https://doi.org/10.1061/JCCEE5.CPENG-6209
+Y2  - 2025/09/05
+N2  - The use of deep learning (DL) has been growing in tunnel-induced ground settlement risk modeling, eliminating the necessity for extensive prior risk management knowledge. Despite the success of deploying a DL model to predict risk, challenges prevail. (1) DL requires high-quality data, which is expensive and time-consuming to prepare, and (2) DL is a ?black-box,? which is difficult to understand and interpret. In this instance, we address the following question in this paper: How can we accurately predict ground settlement with limited monitoring data using DL and concurrently provide effective explanations for the generated results? We propose a new DL approach combining explainable techniques to improve ground settlement risk modeling accuracy and explainability. Our approach comprises the following: (1) an interval type-2 fuzzy system to process limited data and improve its usability; (2) a novel causal-based feature selection to determine input parameters that have strong causal effects with ground settlement risk; and (3) a soft-type attention module to evaluate and allocate feature importance to inputs, guiding neural networks to concentrate on learning features in a more targeted manner. A case study is used to validate the feasibility and effectiveness of our approach, demonstrating its superiority in predicting ground settlement risk with a high degree of robustness. We suggest that our approach can help decision makers better understand the ?how? and ?what? of DL-produced outputs, improving decision making associated with managing safety in construction.
+AB  - The use of deep learning (DL) has been growing in tunnel-induced ground settlement risk modeling, eliminating the necessity for extensive prior risk management knowledge. Despite the success of deploying a DL model to predict risk, challenges prevail. (1) DL requires high-quality data, which is expensive and time-consuming to prepare, and (2) DL is a ?black-box,? which is difficult to understand and interpret. In this instance, we address the following question in this paper: How can we accurately predict ground settlement with limited monitoring data using DL and concurrently provide effective explanations for the generated results? We propose a new DL approach combining explainable techniques to improve ground settlement risk modeling accuracy and explainability. Our approach comprises the following: (1) an interval type-2 fuzzy system to process limited data and improve its usability; (2) a novel causal-based feature selection to determine input parameters that have strong causal effects with ground settlement risk; and (3) a soft-type attention module to evaluate and allocate feature importance to inputs, guiding neural networks to concentrate on learning features in a more targeted manner. A case study is used to validate the feasibility and effectiveness of our approach, demonstrating its superiority in predicting ground settlement risk with a high degree of robustness. We suggest that our approach can help decision makers better understand the ?how? and ?what? of DL-produced outputs, improving decision making associated with managing safety in construction.
+ER  - 
+
+TY  - BOOK
+PY  - 2024
+AU  - Wei Heng
+Y1  - 2024/06/13
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485514
+UR  - https://doi.org/10.1061/9780784485514
+N1  - doi:10.1061/9780784485514
+M3  - doi:10.1061/9780784485514
+SP  - 0
+T3  - Proceedings
+C1  - Transportation Safety and Emerging Technologies
+ER  - 
+
+TY  - JOUR
+T1  - Predicting Cost Impacts of Nonconformances in Construction Projects Using Interpretable Machine Learning
+AU  - Koc Kerim
+AU  - Budayan Cenk
+AU  - Ekmekcioğlu Ömer
+AU  - Tokdemir Onur Behzat
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1061/JCEMD4.COENG-13857
+DO  - 10.1061/JCEMD4.COENG-13857
+T2  - Journal of Construction Engineering and Management
+JF  - Journal of Construction Engineering and Management
+JO  - Journal of Construction Engineering and Management
+SP  - 04023143
+VL  - 150
+IS  - 1
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCEMD4.COENG-13857
+UR  - https://doi.org/10.1061/JCEMD4.COENG-13857
+Y2  - 2025/09/05
+N2  - Nonconformance (NCR) has long been a subject of research interest for its potential to extrapolate information leading to a more productive environment in construction projects. Despite a variety of traditional attempts, a systematic understanding of how machine learning (ML) approaches can contribute to proactively detecting the severity of NCRs remains limited. This study aims to develop a data-driven ML framework to predict the cost impacts of NCRs (high severity versus low severity) in construction projects. To accomplish this aim, the random forest (RF) algorithm reinforced with a metaheuristic hyperparameter-tuning strategy, namely the gravitational search algorithm (GSA), is adopted for the binary classification problem. Furthermore, this study incorporates the Shapley additive explanations (SHAP) ensuring transparent interpretations into the GSA-RF predictive framework to tackle the inherent black-box nature of the ML rationale. The results reveal that the proposed model detects the severity of NCRs in terms of their cost impact with an overall AUROC value of 0.776 for the preseparated and blinded testing set. This indicates that the proposed model can be used confidently for newly introduced datasets from real-life cases. In addition, the SHAP analysis results emphasized the role of season, inadequate application procedure, and NCR type in detecting the severity of NCRs. Overall, this research not only makes an important contribution through its novel data-driven approaches but also provides insights for project managers concerning productivity improvements in the sector.
+AB  - Nonconformance (NCR) has long been a subject of research interest for its potential to extrapolate information leading to a more productive environment in construction projects. Despite a variety of traditional attempts, a systematic understanding of how machine learning (ML) approaches can contribute to proactively detecting the severity of NCRs remains limited. This study aims to develop a data-driven ML framework to predict the cost impacts of NCRs (high severity versus low severity) in construction projects. To accomplish this aim, the random forest (RF) algorithm reinforced with a metaheuristic hyperparameter-tuning strategy, namely the gravitational search algorithm (GSA), is adopted for the binary classification problem. Furthermore, this study incorporates the Shapley additive explanations (SHAP) ensuring transparent interpretations into the GSA-RF predictive framework to tackle the inherent black-box nature of the ML rationale. The results reveal that the proposed model detects the severity of NCRs in terms of their cost impact with an overall AUROC value of 0.776 for the preseparated and blinded testing set. This indicates that the proposed model can be used confidently for newly introduced datasets from real-life cases. In addition, the SHAP analysis results emphasized the role of season, inadequate application procedure, and NCR type in detecting the severity of NCRs. Overall, this research not only makes an important contribution through its novel data-driven approaches but also provides insights for project managers concerning productivity improvements in the sector.
+ER  - 
+
+TY  - BOOK
+PY  - 2024
+AU  - Turkan Yelda
+AU  - Louis Joseph
+AU  - Leite Fernanda
+AU  - Ergan Semiha
+Y1  - 2024/01/25
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485248
+UR  - https://doi.org/10.1061/9780784485248
+N1  - doi:10.1061/9780784485248
+M3  - doi:10.1061/9780784485248
+SP  - 0
+T3  - Proceedings
+C1  - Resilience, Safety, and Sustainability
+ER  - 
+
+TY  - JOUR
+T1  - Uncovering Drivers of Atmospheric River Flood Damage Using Interpretable Machine Learning
+AU  - Bowers Corinne
+AU  - Serafin Katherine A.
+AU  - Baker Jack W.
+Y1  - 2024/08/01
+PY  - 2024
+DA  - 2024/08/01
+N1  - doi: 10.1061/NHREFO.NHENG-1995
+DO  - 10.1061/NHREFO.NHENG-1995
+T2  - Natural Hazards Review
+JF  - Natural Hazards Review
+JO  - Natural Hazards Review
+SP  - 04024022
+VL  - 25
+IS  - 3
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/NHREFO.NHENG-1995
+UR  - https://doi.org/10.1061/NHREFO.NHENG-1995
+Y2  - 2025/09/05
+N2  - The intensity of an atmospheric river (AR) is only one of the factors influencing the damage it will cause. We use random forest models fit to hazard, exposure, and vulnerability data at different spatial and temporal scales in California to predict the probability that a given AR event will cause flood damage, as measured by National Flood Insurance Program (NFIP) claims. We first demonstrate the usefulness of data-driven models and interpretable machine learning to identify and describe drivers of AR flood damage. Hazard features, particularly measures of AR intensity such as total precipitation, increase the probability of damage with increasing values up to a threshold point, after which the probability of damage saturates. Although hazard is generally the most important risk dimension across all models, exposure and vulnerability contribute up to a third of the explanatory power. Exposure and variability features generally increase the probability of damage with increasing values, apart from a few instances which can be explained by physical intuition, but tend to affect the probability of damage less for the largest AR events. Comparisons between random forest models at different spatial and temporal scales showed general agreement. We then examine limitations inherent in publicly available exposure, vulnerability, and loss data, focusing on the difference in temporal resolution between variables from different risk dimensions and discrepancies between NFIP claims and total flood losses, and describe how those limitations may affect the model results. Overall, the application of interpretable machine learning to understand the contributions of exposure and vulnerability to AR-driven flood risk has identified potential community risk drivers and strategies for resilience, but the results must be considered in the context of the data that produced them.
+AB  - The intensity of an atmospheric river (AR) is only one of the factors influencing the damage it will cause. We use random forest models fit to hazard, exposure, and vulnerability data at different spatial and temporal scales in California to predict the probability that a given AR event will cause flood damage, as measured by National Flood Insurance Program (NFIP) claims. We first demonstrate the usefulness of data-driven models and interpretable machine learning to identify and describe drivers of AR flood damage. Hazard features, particularly measures of AR intensity such as total precipitation, increase the probability of damage with increasing values up to a threshold point, after which the probability of damage saturates. Although hazard is generally the most important risk dimension across all models, exposure and vulnerability contribute up to a third of the explanatory power. Exposure and variability features generally increase the probability of damage with increasing values, apart from a few instances which can be explained by physical intuition, but tend to affect the probability of damage less for the largest AR events. Comparisons between random forest models at different spatial and temporal scales showed general agreement. We then examine limitations inherent in publicly available exposure, vulnerability, and loss data, focusing on the difference in temporal resolution between variables from different risk dimensions and discrepancies between NFIP claims and total flood losses, and describe how those limitations may affect the model results. Overall, the application of interpretable machine learning to understand the contributions of exposure and vulnerability to AR-driven flood risk has identified potential community risk drivers and strategies for resilience, but the results must be considered in the context of the data that produced them.
+ER  - 
+
+TY  - JOUR
+T1  - Interpretable Machine-Learning Models to Predict the Flexural Strength of Fiber-Reinforced SCM-Blended Concrete Composites
+AU  - Ansari Saad Shamim
+AU  - Ibrahim Syed Muhammad
+AU  - Hasan Syed Danish
+Y1  - 2025/05/01
+PY  - 2025
+DA  - 2025/05/01
+N1  - doi: 10.1061/JSDCCC.SCENG-1496
+DO  - 10.1061/JSDCCC.SCENG-1496
+T2  - Journal of Structural Design and Construction Practice
+JF  - Journal of Structural Design and Construction Practice
+JO  - Journal of Structural Design and Construction Practice
+SP  - 04024113
+VL  - 30
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JSDCCC.SCENG-1496
+UR  - https://doi.org/10.1061/JSDCCC.SCENG-1496
+Y2  - 2025/09/05
+N2  - A novel data-driven approach to predict and explain the flexural strength (FS) of fiber-reinforced supplementary cementitious material (SCM)-blended concrete composites through interpretable machine learning (ML) models is presented. First, two ensemble ML models, AdaBoost (AdB) and gradient boosting (GB), were developed based on various input parameters, such as the type and proportion of SCMs, fibers, and other materials, to predict the FS after 28 days of curing. The statistical analysis showed that the GB model outperformed the AdB model in both accuracy and error, as supported by the scatter plots and Taylor diagram. The predictions by the ML models were interpreted using Sapley additive explanations (SHAP) through bee-swarm plots to identify the relative importance and influence of each input parameter on FS at both the global and local levels. Interpretations were also made for a typical instance by force-plot to represent how the prediction was made. Furthermore, as an additional layer of interpretation, individual conditional expectation (ICE) with partial dependence plots (PDP) were also plotted to visualize the dependence between the two most and least influencing features on the FS. Based on interpretable data-driven models, the most influential parameters were the steel fiber volume and the aspect ratio of the fibers, while the least influential parameters were the maximum aggregate size and the limestone-to-binder ratio. Models based on nonlinear equations were also developed and compared with the output obtained through GB for the prediction of the FS of fiber-reinforced SCM-blended concrete composites. With this novel approach, a better understanding of how the input features affect the FS of fiber-reinforced SCM-blended concrete composites is gained and thus helps in optimizing concrete mix designs accordingly.
+AB  - A novel data-driven approach to predict and explain the flexural strength (FS) of fiber-reinforced supplementary cementitious material (SCM)-blended concrete composites through interpretable machine learning (ML) models is presented. First, two ensemble ML models, AdaBoost (AdB) and gradient boosting (GB), were developed based on various input parameters, such as the type and proportion of SCMs, fibers, and other materials, to predict the FS after 28 days of curing. The statistical analysis showed that the GB model outperformed the AdB model in both accuracy and error, as supported by the scatter plots and Taylor diagram. The predictions by the ML models were interpreted using Sapley additive explanations (SHAP) through bee-swarm plots to identify the relative importance and influence of each input parameter on FS at both the global and local levels. Interpretations were also made for a typical instance by force-plot to represent how the prediction was made. Furthermore, as an additional layer of interpretation, individual conditional expectation (ICE) with partial dependence plots (PDP) were also plotted to visualize the dependence between the two most and least influencing features on the FS. Based on interpretable data-driven models, the most influential parameters were the steel fiber volume and the aspect ratio of the fibers, while the least influential parameters were the maximum aggregate size and the limestone-to-binder ratio. Models based on nonlinear equations were also developed and compared with the output obtained through GB for the prediction of the FS of fiber-reinforced SCM-blended concrete composites. With this novel approach, a better understanding of how the input features affect the FS of fiber-reinforced SCM-blended concrete composites is gained and thus helps in optimizing concrete mix designs accordingly.
+ER  - 
+
+TY  - BOOK
+PY  - 2025
+AU  - Beauregard Melissa S.
+AU  - Budge Aaron S.
+Y1  - 2025/02/27
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485989
+UR  - https://doi.org/10.1061/9780784485989
+N1  - doi:10.1061/9780784485989
+M3  - doi:10.1061/9780784485989
+SP  - 0
+T3  - Proceedings
+C1  - Emerging Topics and Geotechnologies
+ER  - 
+
+TY  - JOUR
+T1  - Short-Term Forecasting of Household Water Demand in the UK Using an Interpretable Machine Learning Approach
+AU  - Xenochristou Maria
+AU  - Hutton Chris
+AU  - Hofman Jan
+AU  - Kapelan Zoran
+Y1  - 2021/04/01
+PY  - 2021
+DA  - 2021/04/01
+N1  - doi: 10.1061/(ASCE)WR.1943-5452.0001325
+DO  - 10.1061/(ASCE)WR.1943-5452.0001325
+T2  - Journal of Water Resources Planning and Management
+JF  - Journal of Water Resources Planning and Management
+JO  - Journal of Water Resources Planning and Management
+SP  - 04021004
+VL  - 147
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/(ASCE)WR.1943-5452.0001325
+UR  - https://doi.org/10.1061/(ASCE)WR.1943-5452.0001325
+Y2  - 2025/09/05
+N2  - This study utilizes a rich UK data set of smart demand metering data, household characteristics, and weather data to develop a demand forecasting methodology that combines the high accuracy of machine learning models with the interpretability of statistical methods. For this reason, a random forest model is used to predict daily demands 1 day ahead for groups of properties (mean of 3.8??households/group) with homogenous characteristics. A variety of interpretable machine learning techniques [variable permutation, accumulated local effects (ALE) plots, and individual conditional expectation (ICE) curves] are used to quantify the influence of these predictors (temporal, weather, and household characteristics) on water consumption. Results show that when past consumption data are available, they are the most important explanatory factor. However, when they are not, a combination of household and temporal characteristics can be used to produce a credible model with similar forecasting accuracy. Weather input has overall a mild to no effect on the model?s output, although this effect can become significant under certain conditions.
+AB  - This study utilizes a rich UK data set of smart demand metering data, household characteristics, and weather data to develop a demand forecasting methodology that combines the high accuracy of machine learning models with the interpretability of statistical methods. For this reason, a random forest model is used to predict daily demands 1 day ahead for groups of properties (mean of 3.8??households/group) with homogenous characteristics. A variety of interpretable machine learning techniques [variable permutation, accumulated local effects (ALE) plots, and individual conditional expectation (ICE) curves] are used to quantify the influence of these predictors (temporal, weather, and household characteristics) on water consumption. Results show that when past consumption data are available, they are the most important explanatory factor. However, when they are not, a combination of household and temporal characteristics can be used to produce a credible model with similar forecasting accuracy. Weather input has overall a mild to no effect on the model?s output, although this effect can become significant under certain conditions.
+ER  - 
+
+TY  - JOUR
+T1  - Explainable Machine-Learning Leak Identification Framework for Water Distribution Networks
+AU  - Liu Rongsheng
+AU  - Zayed Tarek
+AU  - Xiao Rui
+Y1  - 2025/11/01
+PY  - 2025
+DA  - 2025/11/01
+N1  - doi: 10.1061/JCCEE5.CPENG-6119
+DO  - 10.1061/JCCEE5.CPENG-6119
+T2  - Journal of Computing in Civil Engineering
+JF  - Journal of Computing in Civil Engineering
+JO  - Journal of Computing in Civil Engineering
+SP  - 04025090
+VL  - 39
+IS  - 6
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCCEE5.CPENG-6119
+UR  - https://doi.org/10.1061/JCCEE5.CPENG-6119
+Y2  - 2025/09/05
+N2  - Leak identification in urban water distribution networks (WDNs) is a critical task with potential consequences. Acoustic-based convolutional neural networks (CNNs) have been widely employed for leak identification, leveraging its advantages with fast processing and advanced pattern recognition capabilities. However, CNN exhibits a deficiency in interpretability, which hinders a comprehensive understanding of its decision-making processes. This limitation may reduce their reliability and impede further improvements. To address this issue, this study proposes an explainable CNN-based water leak identification model that incorporates gradient-weighted class activation mapping (Grad-CAM) for improved interpretability. For data collection, acoustic signals were collected from WDNs in Hong Kong. Besides, variational mode decomposition (VMD) was employed to denoise the signals. Three CNN-based models [residual network (ResNet), visual geometry group (VGG), and AlexNet] were developed and assessed based on their leak identification performance. After training, Grad-CAM analysis was employed on the above models to reveal their working mechanism for better interpretability. The results demonstrate that, among the developed models, AlexNet and VGG-19 demonstrated superior identification performance on testing data sets and out-of-sample testing. The Grad-CAM visualization results revealed that VGG-19 and Grad-CAM?s attention regions effectively captured essential signal components. Furthermore, a comparison of Grad-CAM results for different leakage conditions indicated that the model primarily relied on the frequency components of 750?1,250 Hz to classify signals as leaks, while frequency components below 500 Hz were the primary focus for noleak signals. These insights shed light on the decision-making process of the model and highlighted the specific frequency bandwidth associated with different identification models and leakage scenarios. Overall, the proposed method offers an innovative approach to enhance and explain acoustic CNN-based leak identification models, potentially advancing their effectiveness and interpretability.
+AB  - Leak identification in urban water distribution networks (WDNs) is a critical task with potential consequences. Acoustic-based convolutional neural networks (CNNs) have been widely employed for leak identification, leveraging its advantages with fast processing and advanced pattern recognition capabilities. However, CNN exhibits a deficiency in interpretability, which hinders a comprehensive understanding of its decision-making processes. This limitation may reduce their reliability and impede further improvements. To address this issue, this study proposes an explainable CNN-based water leak identification model that incorporates gradient-weighted class activation mapping (Grad-CAM) for improved interpretability. For data collection, acoustic signals were collected from WDNs in Hong Kong. Besides, variational mode decomposition (VMD) was employed to denoise the signals. Three CNN-based models [residual network (ResNet), visual geometry group (VGG), and AlexNet] were developed and assessed based on their leak identification performance. After training, Grad-CAM analysis was employed on the above models to reveal their working mechanism for better interpretability. The results demonstrate that, among the developed models, AlexNet and VGG-19 demonstrated superior identification performance on testing data sets and out-of-sample testing. The Grad-CAM visualization results revealed that VGG-19 and Grad-CAM?s attention regions effectively captured essential signal components. Furthermore, a comparison of Grad-CAM results for different leakage conditions indicated that the model primarily relied on the frequency components of 750?1,250 Hz to classify signals as leaks, while frequency components below 500 Hz were the primary focus for noleak signals. These insights shed light on the decision-making process of the model and highlighted the specific frequency bandwidth associated with different identification models and leakage scenarios. Overall, the proposed method offers an innovative approach to enhance and explain acoustic CNN-based leak identification models, potentially advancing their effectiveness and interpretability.
+ER  - 
+
+TY  - JOUR
+T1  - Developing a National Data-Driven Construction Safety Management Framework with Interpretable Fatal Accident Prediction
+AU  - Koc Kerim
+AU  - Ekmekcioğlu Ömer
+AU  - Gurgun Asli Pelin
+Y1  - 2023/04/01
+PY  - 2023
+DA  - 2023/04/01
+N1  - doi: 10.1061/JCEMD4.COENG-12848
+DO  - 10.1061/JCEMD4.COENG-12848
+T2  - Journal of Construction Engineering and Management
+JF  - Journal of Construction Engineering and Management
+JO  - Journal of Construction Engineering and Management
+SP  - 04023010
+VL  - 149
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCEMD4.COENG-12848
+UR  - https://doi.org/10.1061/JCEMD4.COENG-12848
+Y2  - 2025/09/05
+N2  - Occupational accidents are frequent in the construction industry, containing significant risks in the working environment. Therefore, early designation, taking preventive actions, and developing a proactive safety risk management plan are of paramount significance in managing safety issues in the construction industry. This study aims to develop a national data-driven safety management framework based on accident outcome prediction, which helps anatomize precursors of fatalities and thereby minimizing fatal accidents on construction sites. A national data set comprising 338,173 occupational accidents recorded in the construction industry across Turkey was used to develop a data-driven model. The random forest algorithm coupled with particle swarm optimization was used for the prediction and the interpretability of the proposed model was augmented through the game theory?based Shapley additive explanations (SHAP) approach. The findings showed that the proposed algorithm achieved satisfactory model performances for detecting construction workers who might face a fatality risk. The SHAP analysis results indicated that both company (such as number of past accidents and workers in the company) and worker-related (such as age, daily wage, experience, shift, and past accident of the workers) attributes were influential in identifying fatalities by detecting which workers might face fatal accidents under which conditions. A construction safety management plan was developed based on the analysis results, which can be used on construction sites to detect workers/conditions that are most susceptible to fatalities. The findings of the present research are expected to contribute to orchestrating effective safety management practices in construction sites by characterizing the root causes of severe accidents.
+AB  - Occupational accidents are frequent in the construction industry, containing significant risks in the working environment. Therefore, early designation, taking preventive actions, and developing a proactive safety risk management plan are of paramount significance in managing safety issues in the construction industry. This study aims to develop a national data-driven safety management framework based on accident outcome prediction, which helps anatomize precursors of fatalities and thereby minimizing fatal accidents on construction sites. A national data set comprising 338,173 occupational accidents recorded in the construction industry across Turkey was used to develop a data-driven model. The random forest algorithm coupled with particle swarm optimization was used for the prediction and the interpretability of the proposed model was augmented through the game theory?based Shapley additive explanations (SHAP) approach. The findings showed that the proposed algorithm achieved satisfactory model performances for detecting construction workers who might face a fatality risk. The SHAP analysis results indicated that both company (such as number of past accidents and workers in the company) and worker-related (such as age, daily wage, experience, shift, and past accident of the workers) attributes were influential in identifying fatalities by detecting which workers might face fatal accidents under which conditions. A construction safety management plan was developed based on the analysis results, which can be used on construction sites to detect workers/conditions that are most susceptible to fatalities. The findings of the present research are expected to contribute to orchestrating effective safety management practices in construction sites by characterizing the root causes of severe accidents.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling the Onset of Drought Periods Using Explainable Machine Learning Models Enhanced by Bayesian Optimization
+AU  - Alsumaiei Abdullah A.
+Y1  - 2025/08/01
+PY  - 2025
+DA  - 2025/08/01
+N1  - doi: 10.1061/JHYEFF.HEENG-6515
+DO  - 10.1061/JHYEFF.HEENG-6515
+T2  - Journal of Hydrologic Engineering
+JF  - Journal of Hydrologic Engineering
+JO  - Journal of Hydrologic Engineering
+SP  - 04025023
+VL  - 30
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JHYEFF.HEENG-6515
+UR  - https://doi.org/10.1061/JHYEFF.HEENG-6515
+Y2  - 2025/09/05
+N2  - This study develops an optimized machine learning-based computational framework for assessing drought conditions in water-scarce regions. The pattern of drought periods is highly non-linear, especially in arid climates, hindering water management planning. The proposed framework integrates a precipitation index (PI) with Gaussian process regression, regression tree, and ensemble tree models to predict drought occurrences using an optimal autoregressive modeling approach specifically designed for areas with limited precipitation. A historical precipitation data set from Kuwait International Airport (1958?2020) was used. Kuwait is characterized by insufficient rainfall and vulnerability to water shortages. To validate the autoregressive model, the historical PI time series data sets were analyzed for stationarity using the Mann?Kendall test. The partial autocorrelation function test revealed a strong relationship with lagged PI back to 4 and 3 months for 12- and 24-month drought monitoring periods, respectively. Partial autocorrelation was compared to other feature selection techniques such as RReliefF and minimal redundancy maximal relevance. A Bayesian optimization algorithm tuned the model parameters to boost results reliability. The Gaussian process regression model outperformed other machine learning (ML) models, achieving a strong correlation between observed and predicted drought events, with coefficients of determination (R2) ranging from 0.87 to 0.92, and mean absolute error ranging from 0.107 to 0.052 for the respective 12- and 24-month monitoring periods. The SHapley Additive exPlanations (SHAP) technique was used to interpret the relevance of model forcing and enhance the transparency of the results. The SHAP analysis results emphasize the sensitivity of the PI value to previous months? drought status, in particular, the 1-month lagged index exhibited the most significant contribution to the ML models? performance at the 12- and 24-month timescales. This computational framework aims to provide water managers in water-scarce regions with effective and reliable tools for drought monitoring to assist in developing resilient predictive water management strategies.
+AB  - This study develops an optimized machine learning-based computational framework for assessing drought conditions in water-scarce regions. The pattern of drought periods is highly non-linear, especially in arid climates, hindering water management planning. The proposed framework integrates a precipitation index (PI) with Gaussian process regression, regression tree, and ensemble tree models to predict drought occurrences using an optimal autoregressive modeling approach specifically designed for areas with limited precipitation. A historical precipitation data set from Kuwait International Airport (1958?2020) was used. Kuwait is characterized by insufficient rainfall and vulnerability to water shortages. To validate the autoregressive model, the historical PI time series data sets were analyzed for stationarity using the Mann?Kendall test. The partial autocorrelation function test revealed a strong relationship with lagged PI back to 4 and 3 months for 12- and 24-month drought monitoring periods, respectively. Partial autocorrelation was compared to other feature selection techniques such as RReliefF and minimal redundancy maximal relevance. A Bayesian optimization algorithm tuned the model parameters to boost results reliability. The Gaussian process regression model outperformed other machine learning (ML) models, achieving a strong correlation between observed and predicted drought events, with coefficients of determination (R2) ranging from 0.87 to 0.92, and mean absolute error ranging from 0.107 to 0.052 for the respective 12- and 24-month monitoring periods. The SHapley Additive exPlanations (SHAP) technique was used to interpret the relevance of model forcing and enhance the transparency of the results. The SHAP analysis results emphasize the sensitivity of the PI value to previous months? drought status, in particular, the 1-month lagged index exhibited the most significant contribution to the ML models? performance at the 12- and 24-month timescales. This computational framework aims to provide water managers in water-scarce regions with effective and reliable tools for drought monitoring to assist in developing resilient predictive water management strategies.
+ER  - 
+
+TY  - JOUR
+T1  - Role of National Conditions in Occupational Fatal Accidents in the Construction Industry Using Interpretable Machine Learning Approach
+AU  - Koc Kerim
+Y1  - 2023/11/01
+PY  - 2023
+DA  - 2023/11/01
+N1  - doi: 10.1061/JMENEA.MEENG-5516
+DO  - 10.1061/JMENEA.MEENG-5516
+T2  - Journal of Management in Engineering
+JF  - Journal of Management in Engineering
+JO  - Journal of Management in Engineering
+SP  - 04023037
+VL  - 39
+IS  - 6
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JMENEA.MEENG-5516
+UR  - https://doi.org/10.1061/JMENEA.MEENG-5516
+Y2  - 2025/09/05
+N2  - Current national occupational safety and health (OSH) initiatives follow reactive approaches, i.e., if it breaks, fix it. Existing accounts, however, failed to improve national OSH performances substantially, which imposes the need for an in-depth and proactive (fix it so it will not break) investigation of national occupational fatality risks. Despite many studies examining the fatality risk of workers based on project-, company-, and/or behavior-related factors, the role of national conditions on the countrywide fatality risk of workers has not been explored. The present research leverages the national statistics of Turkey to examine their influence on construction workers? fatality risk through a machine learning?based prediction model. Several widely used machine learning methods were adopted for determining whether the upcoming month poses a significant fatality risk for construction workers or not based on national statistics of the previous month. According to analysis results, the gradient boosting decision tree algorithm yielded the highest prediction performance in terms of f1-score. The recently developed game theory?based Shapley Additive Explanations (SHAP) algorithm was used to identify whether and how national conditions affect countrywide fatality risk of construction workers. Findings illustrate that the share of the construction sector in employment, market demand, and labor shortage are the most significant national factors in determining the fatality risk. SHAP summary and SHAP dependence plots are further presented to provide decision makers with a clearer understanding of hidden relationships between fatality risk and national conditions. In addition, a framework that can be practically used by policy makers and governmental authorities is developed to help minimize national occupational fatality risk. Overall, predicting national fatality risk in the industry and identifying the national precursors of occupational fatalities contribute to the development of macrolevel safety improvements based on country-specific conditions.
+AB  - Current national occupational safety and health (OSH) initiatives follow reactive approaches, i.e., if it breaks, fix it. Existing accounts, however, failed to improve national OSH performances substantially, which imposes the need for an in-depth and proactive (fix it so it will not break) investigation of national occupational fatality risks. Despite many studies examining the fatality risk of workers based on project-, company-, and/or behavior-related factors, the role of national conditions on the countrywide fatality risk of workers has not been explored. The present research leverages the national statistics of Turkey to examine their influence on construction workers? fatality risk through a machine learning?based prediction model. Several widely used machine learning methods were adopted for determining whether the upcoming month poses a significant fatality risk for construction workers or not based on national statistics of the previous month. According to analysis results, the gradient boosting decision tree algorithm yielded the highest prediction performance in terms of f1-score. The recently developed game theory?based Shapley Additive Explanations (SHAP) algorithm was used to identify whether and how national conditions affect countrywide fatality risk of construction workers. Findings illustrate that the share of the construction sector in employment, market demand, and labor shortage are the most significant national factors in determining the fatality risk. SHAP summary and SHAP dependence plots are further presented to provide decision makers with a clearer understanding of hidden relationships between fatality risk and national conditions. In addition, a framework that can be practically used by policy makers and governmental authorities is developed to help minimize national occupational fatality risk. Overall, predicting national fatality risk in the industry and identifying the national precursors of occupational fatalities contribute to the development of macrolevel safety improvements based on country-specific conditions.
+ER  - 
+
+TY  - JOUR
+T1  - Predicting the Residual Compressive Strength of Concrete Exposed to Elevated Temperatures Using Interpretable Machine Learning
+AU  - Noman Muhammad
+AU  - Khattak Afaq
+AU  - Alam Zeshan
+AU  - Yaqub Muhammad
+AU  - Noroozinejad Farsangi Ehsan
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+N1  - doi: 10.1061/PPSCFX.SCENG-1536
+DO  - 10.1061/PPSCFX.SCENG-1536
+T2  - Practice Periodical on Structural Design and Construction
+JF  - Practice Periodical on Structural Design and Construction
+JO  - Practice Periodical on Structural Design and Construction
+SP  - 04024055
+VL  - 29
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/PPSCFX.SCENG-1536
+UR  - https://doi.org/10.1061/PPSCFX.SCENG-1536
+Y2  - 2025/09/05
+N2  - The accurate prediction of residual compressive strength (RCS) of concrete plays a critical role in assessing concrete constructions? safety and structural integrity following exposure to elevated temperatures. Existing ensemble models exhibit RCS prediction capabilities, yet they are constrained by their opaque nature. This research endeavors to develop an intelligible model for RCS by employing five ensemble machine-learning models, namely, random forest (RF), adaptive boosting (AdaBoost), gradient boosting (GBoost), light gradient boosting (LGBoost), and extreme gradient boosting (XGBoost), and integrating Shapley additive explanations (SHAP) to ascertain the precise importance of each input variable in forecasting the RCS of concrete under elevated temperature conditions. The input variables encompass concrete type, compressive strength, aggregate type, water-cement ratio, heating type, heating rate, maximum core temperature, and cooling type. Model performance is appraised using established performance metrics such as mean absolute error (MAE), mean squared error (MSE), root-mean squared error (RMSE), and coefficient of determination (R2). The analytical results exhibit the efficacy of employing machine-learning models in accurately predicting the RCS of concrete under elevated temperature conditions. Among the implemented models, XGBoost demonstrated the highest performance, yielding an R2 value of 0.876, closely trailed by the LGBoost model at 0.871. The SHAP analysis elucidates the crucial role of core temperature, water-cement ratio, heating rate, and compressive strength in determining the RCS of concrete.
+AB  - The accurate prediction of residual compressive strength (RCS) of concrete plays a critical role in assessing concrete constructions? safety and structural integrity following exposure to elevated temperatures. Existing ensemble models exhibit RCS prediction capabilities, yet they are constrained by their opaque nature. This research endeavors to develop an intelligible model for RCS by employing five ensemble machine-learning models, namely, random forest (RF), adaptive boosting (AdaBoost), gradient boosting (GBoost), light gradient boosting (LGBoost), and extreme gradient boosting (XGBoost), and integrating Shapley additive explanations (SHAP) to ascertain the precise importance of each input variable in forecasting the RCS of concrete under elevated temperature conditions. The input variables encompass concrete type, compressive strength, aggregate type, water-cement ratio, heating type, heating rate, maximum core temperature, and cooling type. Model performance is appraised using established performance metrics such as mean absolute error (MAE), mean squared error (MSE), root-mean squared error (RMSE), and coefficient of determination (R2). The analytical results exhibit the efficacy of employing machine-learning models in accurately predicting the RCS of concrete under elevated temperature conditions. Among the implemented models, XGBoost demonstrated the highest performance, yielding an R2 value of 0.876, closely trailed by the LGBoost model at 0.871. The SHAP analysis elucidates the crucial role of core temperature, water-cement ratio, heating rate, and compressive strength in determining the RCS of concrete.
+ER  - 

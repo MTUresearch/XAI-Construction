@@ -1,0 +1,478 @@
+
+TY  - BOOK
+PY  - 2023
+AU  - Ching Jianye
+AU  - Najjar Shadi
+AU  - Medina-Cetina Zenon
+Y1  - 2023/07/20
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784484982
+UR  - https://doi.org/10.1061/9780784484982
+N1  - doi:10.1061/9780784484982
+M3  - doi:10.1061/9780784484982
+SP  - 0
+T3  - Proceedings
+C1  - Developments in Reliability, Risk, and Resilience 
+ER  - 
+
+TY  - JOUR
+T1  - Closure to “Modeling High Pan Evaporation Losses Using Support Vector Machine, Gaussian Processes, and Regression Tree Models”
+AU  - Alsumaiei Abdullah A.
+Y1  - 2025/08/01
+PY  - 2025
+DA  - 2025/08/01
+N1  - doi: 10.1061/JHYEFF.HEENG-6545
+DO  - 10.1061/JHYEFF.HEENG-6545
+T2  - Journal of Hydrologic Engineering
+JF  - Journal of Hydrologic Engineering
+JO  - Journal of Hydrologic Engineering
+SP  - 07025006
+VL  - 30
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JHYEFF.HEENG-6545
+UR  - https://doi.org/10.1061/JHYEFF.HEENG-6545
+Y2  - 2025/09/05
+ER  - 
+
+TY  - JOUR
+T1  - Deep Learning for Visual Analytics of the Spread of COVID-19 Infection in Crowded Urban Environments
+AU  - Pi Yalong
+AU  - Nath Nipun D.
+AU  - Sampathkumar Shruthi
+AU  - Behzadan Amir H.
+Y1  - 2021/08/01
+PY  - 2021
+DA  - 2021/08/01
+N1  - doi: 10.1061/(ASCE)NH.1527-6996.0000492
+DO  - 10.1061/(ASCE)NH.1527-6996.0000492
+T2  - Natural Hazards Review
+JF  - Natural Hazards Review
+JO  - Natural Hazards Review
+SP  - 04021019
+VL  - 22
+IS  - 3
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/(ASCE)NH.1527-6996.0000492
+UR  - https://doi.org/10.1061/(ASCE)NH.1527-6996.0000492
+Y2  - 2025/09/05
+N2  - The novel SARS-CoV-2 coronavirus caused a global pandemic in 2020 with millions of diagnosed cases and a staggering number of deaths. As a preventive measure, many governments issued social distancing and shelter-in-place mandates to limit human contact and slow the rate of infection. The large extent and duration of the crisis is poised to transform the health sector and alter current practices in retail, business, manufacturing, and construction. While medical researchers are working on antidote and vaccine solutions, contact tracing and self-isolation are deemed effective methods to control community spread. This paper presents a visual analysis approach that uses convolutional neural networks (CNNs) to generate quantifiable metrics of contact tracing. In particular, the YOLO-v3 architecture was trained on an annotated video dataset containing pedestrians. Network pruning and non-maximum suppression were applied to optimize model performance, resulting in 69.41% average precision. The fully trained model was then tested on sample crosswalk video data from Xiamen, China, recorded during the COVID-19 pandemic, followed by projecting detected pedestrians onto an orthogonal map for contact tracing by tracking movement trajectories and simulating the spread of droplets among the healthy population. Results demonstrate that the proposed technique is capable of tracing and documenting infection sources, times, and locations.
+AB  - The novel SARS-CoV-2 coronavirus caused a global pandemic in 2020 with millions of diagnosed cases and a staggering number of deaths. As a preventive measure, many governments issued social distancing and shelter-in-place mandates to limit human contact and slow the rate of infection. The large extent and duration of the crisis is poised to transform the health sector and alter current practices in retail, business, manufacturing, and construction. While medical researchers are working on antidote and vaccine solutions, contact tracing and self-isolation are deemed effective methods to control community spread. This paper presents a visual analysis approach that uses convolutional neural networks (CNNs) to generate quantifiable metrics of contact tracing. In particular, the YOLO-v3 architecture was trained on an annotated video dataset containing pedestrians. Network pruning and non-maximum suppression were applied to optimize model performance, resulting in 69.41% average precision. The fully trained model was then tested on sample crosswalk video data from Xiamen, China, recorded during the COVID-19 pandemic, followed by projecting detected pedestrians onto an orthogonal map for contact tracing by tracking movement trajectories and simulating the spread of droplets among the healthy population. Results demonstrate that the proposed technique is capable of tracing and documenting infection sources, times, and locations.
+ER  - 
+
+TY  - JOUR
+T1  - Study on Carbon Emissions of Typical Campus Buildings during the Use Stage
+AU  - Xu Aiyan
+AU  - Zhu Yiyun
+AU  - Li Wenqing
+Y1  - 2025/09/01
+PY  - 2025
+DA  - 2025/09/01
+N1  - doi: 10.1061/JOEEDU.EEENG-7867
+DO  - 10.1061/JOEEDU.EEENG-7867
+T2  - Journal of Environmental Engineering
+JF  - Journal of Environmental Engineering
+JO  - Journal of Environmental Engineering
+SP  - 05025008
+VL  - 151
+IS  - 9
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JOEEDU.EEENG-7867
+UR  - https://doi.org/10.1061/JOEEDU.EEENG-7867
+Y2  - 2025/09/05
+N2  - Universities are considered as a small society and play a critical role in mitigating global warming and promoting sustainable development. Although COVID-19 has obviously changed the education model, few studies have examined how the pandemic has impacted the carbon emissions of campus buildings. Based on life cycle assessment (LCA) theory, a building information model, energy, LCA (BIM-E-LCA) model is established to calculate and predict carbon emissions in the use stage of campus buildings. The findings indicate that the carbon emissions of the classroom, office, and library buildings in 2023 were 20.22, 37.58, and 25.67??kgCO2/m2, respectively. Compared to 2019, carbon emissions decreased by 10.30%, ?1.10%, and 8.85% compared in 2022, and increased by ?2.42%, 10.00%, and 6.25% in 2023, respectively. The influencing factors for the three buildings were ranked as lighting > cooling > heating > appliance > hot water. In addition, the calculated values closely meet with the simulated values, indicating that the model established in this study can be accurately used to calculate and predict the carbon emissions of campus buildings. The findings of this study will assist university administrators and policymakers to accurately evaluate carbon emissions and provide reference for the future development of campus emission reduction strategies.
+AB  - Universities are considered as a small society and play a critical role in mitigating global warming and promoting sustainable development. Although COVID-19 has obviously changed the education model, few studies have examined how the pandemic has impacted the carbon emissions of campus buildings. Based on life cycle assessment (LCA) theory, a building information model, energy, LCA (BIM-E-LCA) model is established to calculate and predict carbon emissions in the use stage of campus buildings. The findings indicate that the carbon emissions of the classroom, office, and library buildings in 2023 were 20.22, 37.58, and 25.67??kgCO2/m2, respectively. Compared to 2019, carbon emissions decreased by 10.30%, ?1.10%, and 8.85% compared in 2022, and increased by ?2.42%, 10.00%, and 6.25% in 2023, respectively. The influencing factors for the three buildings were ranked as lighting > cooling > heating > appliance > hot water. In addition, the calculated values closely meet with the simulated values, indicating that the model established in this study can be accurately used to calculate and predict the carbon emissions of campus buildings. The findings of this study will assist university administrators and policymakers to accurately evaluate carbon emissions and provide reference for the future development of campus emission reduction strategies.
+ER  - 
+
+TY  - JOUR
+T1  - Use of Ensemble-Based Forecasting Methods in Reservoir Operation: Issues and Implementation Challenges
+AU  - Teegavarapu Ramesh S. V.
+AU  - Pathak Chandra S.
+AU  - Curtis David
+AU  - Yadav Sanjaykumar M.
+AU  - Patel Anant
+AU  - Panchal Ayushi
+Y1  - 2025/08/01
+PY  - 2025
+DA  - 2025/08/01
+N1  - doi: 10.1061/JHYEFF.HEENG-6467
+DO  - 10.1061/JHYEFF.HEENG-6467
+T2  - Journal of Hydrologic Engineering
+JF  - Journal of Hydrologic Engineering
+JO  - Journal of Hydrologic Engineering
+SP  - 03125001
+VL  - 30
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JHYEFF.HEENG-6467
+UR  - https://doi.org/10.1061/JHYEFF.HEENG-6467
+Y2  - 2025/09/05
+N2  - Reservoir operations, water resources, and flood control management rely on accurate and reliable forecasting of stream flows. Ensemble streamflow forecasting (ESF) approaches in reservoir operations for flood control, hydropower, and water supply applications are increasingly used to improve real-time operations. Despite their advantages over standard operating procedure-based operations, limited applications of these in practice are noted. The present study discusses the global challenges in reservoir operations. It highlights that reservoir management issues are not effectively addressed by relying solely on optimization techniques based on ESFs. Instead, the key to effective management is transforming ESF results into reliable metrics that management can use directly for making multiobjective, multisite decisions across various time horizons. This paper provides a state-of-the-art review of ESF approaches and their applications, discusses advantages and limitations, and critically assesses implementation issues. Based on lessons from multiple pilot studies, recommendations are provided for implementing these approaches for various reservoir operations.
+AB  - Reservoir operations, water resources, and flood control management rely on accurate and reliable forecasting of stream flows. Ensemble streamflow forecasting (ESF) approaches in reservoir operations for flood control, hydropower, and water supply applications are increasingly used to improve real-time operations. Despite their advantages over standard operating procedure-based operations, limited applications of these in practice are noted. The present study discusses the global challenges in reservoir operations. It highlights that reservoir management issues are not effectively addressed by relying solely on optimization techniques based on ESFs. Instead, the key to effective management is transforming ESF results into reliable metrics that management can use directly for making multiobjective, multisite decisions across various time horizons. This paper provides a state-of-the-art review of ESF approaches and their applications, discusses advantages and limitations, and critically assesses implementation issues. Based on lessons from multiple pilot studies, recommendations are provided for implementing these approaches for various reservoir operations.
+ER  - 
+
+TY  - JOUR
+T1  - Application of Machine Learning Algorithms to Predict Urban Expansion
+AU  - Robi Rejira K.
+AU  - George Jain K.
+Y1  - 2025/06/01
+PY  - 2025
+DA  - 2025/06/01
+N1  - doi: 10.1061/JUPDDM.UPENG-5466
+DO  - 10.1061/JUPDDM.UPENG-5466
+T2  - Journal of Urban Planning and Development
+JF  - Journal of Urban Planning and Development
+JO  - Journal of Urban Planning and Development
+SP  - 03125001
+VL  - 151
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JUPDDM.UPENG-5466
+UR  - https://doi.org/10.1061/JUPDDM.UPENG-5466
+Y2  - 2025/09/05
+N2  - Urban expansion presents significant challenges for sustainable development. Predicting urban growth patterns is crucial for effective urban planning and resource management. This review explores the application of machine learning models in predicting urban expansion. This study aims to systematically review existing literature on using machine learning models for urban expansion prediction. We hypothesize that machine learning, particularly deep learning techniques, can offer valuable insights and improve the accuracy of urban growth predictions compared to traditional methods. A comprehensive literature search was conducted using relevant databases to identify research articles addressing urban expansion prediction with machine learning models. The search strategy included keywords related to urban growth, expansion, machine learning, and various model types. Inclusion and exclusion criteria were established to ensure the relevance and quality of the retrieved studies. Data extraction focused on the types of urban growth models, variables considered, machine learning methodologies employed, and the effectiveness of the models in predicting urban expansion. The review identified various types of machine learning models used for urban expansion prediction, including shallow learning (e.g., random forest, support vector machines) and deep learning (e.g., convolutional neural networks, long short-term memory) architectures. Studies analyzed the influence of diverse variables such as infrastructure, demographics, and environmental factors on urban growth patterns. The review found that deep learning models generally demonstrated superior performance to shallow learning models in predicting urban expansion due to their ability to handle complex spatial data and relationships. Case studies from China and Korea provided practical examples of applying these models and showcased their potential for real-world urban planning applications. This review highlights the growing potential of machine learning models, particularly deep learning, for predicting urban expansion. By incorporating various urban growth indicators and leveraging advanced learning algorithms, these models offer a data-driven approach for informed urban planning decisions. Further research is needed to explore the integration of explainability techniques within these models and their application in diverse geographic contexts.
+AB  - Urban expansion presents significant challenges for sustainable development. Predicting urban growth patterns is crucial for effective urban planning and resource management. This review explores the application of machine learning models in predicting urban expansion. This study aims to systematically review existing literature on using machine learning models for urban expansion prediction. We hypothesize that machine learning, particularly deep learning techniques, can offer valuable insights and improve the accuracy of urban growth predictions compared to traditional methods. A comprehensive literature search was conducted using relevant databases to identify research articles addressing urban expansion prediction with machine learning models. The search strategy included keywords related to urban growth, expansion, machine learning, and various model types. Inclusion and exclusion criteria were established to ensure the relevance and quality of the retrieved studies. Data extraction focused on the types of urban growth models, variables considered, machine learning methodologies employed, and the effectiveness of the models in predicting urban expansion. The review identified various types of machine learning models used for urban expansion prediction, including shallow learning (e.g., random forest, support vector machines) and deep learning (e.g., convolutional neural networks, long short-term memory) architectures. Studies analyzed the influence of diverse variables such as infrastructure, demographics, and environmental factors on urban growth patterns. The review found that deep learning models generally demonstrated superior performance to shallow learning models in predicting urban expansion due to their ability to handle complex spatial data and relationships. Case studies from China and Korea provided practical examples of applying these models and showcased their potential for real-world urban planning applications. This review highlights the growing potential of machine learning models, particularly deep learning, for predicting urban expansion. By incorporating various urban growth indicators and leveraging advanced learning algorithms, these models offer a data-driven approach for informed urban planning decisions. Further research is needed to explore the integration of explainability techniques within these models and their application in diverse geographic contexts.
+ER  - 
+
+TY  - JOUR
+T1  - Optimization Methodology for Bus Garage Locations
+AU  - Maze T. H.
+AU  - Khasnabis Snehamay
+AU  - Kutsal Mehmet D.
+Y1  - 1982/11/01
+PY  - 1982
+DA  - 1982/11/01
+N1  - doi: 10.1061/TPEJAN.0001009
+DO  - 10.1061/TPEJAN.0001009
+T2  - Transportation Engineering Journal of ASCE
+JF  - Transportation Engineering Journal of ASCE
+JO  - Transportation Engineering Journal of ASCE
+SP  - 550
+EP  - 569
+VL  - 108
+IS  - 6
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/TPEJAN.0001009
+UR  - https://doi.org/10.1061/TPEJAN.0001009
+Y2  - 2025/09/05
+N2  - An optimization model is developed for determining both the optimal bus garage locations and optimal assignment of buses to those garages. The model uses a list of candidate garage sites, the transit system's service and operational characteristics and the characteristics of the regional highway system as input. As output, it produces the optimal number, sizes and locations of bus garage additions or changes. The model considers garage operating and garage construction cost and the costs of deadheading and driver relief under separate operating schedules for morning, all day, and evening route assignments on weekdays, Sundays and Saturdays. In the methodology development, the problem is first formulated as a discrete solution-space fixed-charge facility location problem. The fixed charge problem is formulated as a mixed integer program. However, because of the difficulty involved in solving a large-scale problem with a general purpose mixed-integer program, the problem is solved by a special purpose branch-and-bound process. This process utilizes an efficient sequence of classical transportation problem (a quick solving, special class of linear program). The methodology is demonstrated with a small-scale sample problem.
+AB  - An optimization model is developed for determining both the optimal bus garage locations and optimal assignment of buses to those garages. The model uses a list of candidate garage sites, the transit system's service and operational characteristics and the characteristics of the regional highway system as input. As output, it produces the optimal number, sizes and locations of bus garage additions or changes. The model considers garage operating and garage construction cost and the costs of deadheading and driver relief under separate operating schedules for morning, all day, and evening route assignments on weekdays, Sundays and Saturdays. In the methodology development, the problem is first formulated as a discrete solution-space fixed-charge facility location problem. The fixed charge problem is formulated as a mixed integer program. However, because of the difficulty involved in solving a large-scale problem with a general purpose mixed-integer program, the problem is solved by a special purpose branch-and-bound process. This process utilizes an efficient sequence of classical transportation problem (a quick solving, special class of linear program). The methodology is demonstrated with a small-scale sample problem.
+ER  - 
+
+TY  - JOUR
+T1  - Beyond Development: Challenges in Deploying Machine-Learning Models for Structural Engineering Applications
+AU  - Zaker Esteghamati Mohsen
+AU  - Bean Brennan
+AU  - Burton Henry V.
+AU  - Naser M. Z.
+Y1  - 2025/06/01
+PY  - 2025
+DA  - 2025/06/01
+N1  - doi: 10.1061/JSENDH.STENG-13301
+DO  - 10.1061/JSENDH.STENG-13301
+T2  - Journal of Structural Engineering
+JF  - Journal of Structural Engineering
+JO  - Journal of Structural Engineering
+SP  - 04025059
+VL  - 151
+IS  - 6
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JSENDH.STENG-13301
+UR  - https://doi.org/10.1061/JSENDH.STENG-13301
+Y2  - 2025/09/05
+N2  - Machine learning (ML) solutions are rapidly changing the landscape of many fields, including structural engineering. Despite their promising performance, these approaches are usually only demonstrated as proofs of concept in structural engineering, and are rarely deployed for real-world applications. This paper illustrates the challenges of developing ML models suitable for deployment with a focus on generalizability and explainability. Among various pitfalls, the paper discusses the impact of model overfitting, underfitting, and underspecification, training data non-representativeness, variable omission bias, and possible shortcomings of conventional cross-validation and feature importance?based explainability for correlated random variables. Two structural engineering?specific illustrative examples highlight the importance of implementing rigorous model validation techniques through adaptive sampling, careful physics-informed feature selection, and considerations of both model complexity and generalizability.
+AB  - Machine learning (ML) solutions are rapidly changing the landscape of many fields, including structural engineering. Despite their promising performance, these approaches are usually only demonstrated as proofs of concept in structural engineering, and are rarely deployed for real-world applications. This paper illustrates the challenges of developing ML models suitable for deployment with a focus on generalizability and explainability. Among various pitfalls, the paper discusses the impact of model overfitting, underfitting, and underspecification, training data non-representativeness, variable omission bias, and possible shortcomings of conventional cross-validation and feature importance?based explainability for correlated random variables. Two structural engineering?specific illustrative examples highlight the importance of implementing rigorous model validation techniques through adaptive sampling, careful physics-informed feature selection, and considerations of both model complexity and generalizability.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating Machine Learning Models into Building Codes and Standards: Establishing Equivalence through Engineering Intuition and Causal Logic
+AU  - Naser M. Z.
+Y1  - 2024/05/01
+PY  - 2024
+DA  - 2024/05/01
+N1  - doi: 10.1061/JSENDH.STENG-12934
+DO  - 10.1061/JSENDH.STENG-12934
+T2  - Journal of Structural Engineering
+JF  - Journal of Structural Engineering
+JO  - Journal of Structural Engineering
+SP  - 04024039
+VL  - 150
+IS  - 5
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JSENDH.STENG-12934
+UR  - https://doi.org/10.1061/JSENDH.STENG-12934
+Y2  - 2025/09/05
+N2  - The traditional approach to formulating building codes often is slow and labor-intensive, and may struggle to keep pace with the rapid evolution of technology and domain findings. Overcoming such challenges necessitates a methodology that streamlines the modernization of codal provisions. This paper proposes a machine learning (ML) approach to append a variety of codal provisions, including those of empirical, statistical, and theoretical natures. In this approach, a codal provision (i.e., equation) is analyzed to trace its properties (e.g., engineering intuition and causal logic). Then a ML model is tailored to preserve the same properties and satisfy a collection of similarity and performance measures until declared equivalent to the provision at hand. The resulting ML model harnesses the predictive capabilities of ML while arriving at predictions similar to the codal provision used to train the ML model, and hence it becomes possible to use in lieu of the codal expression. This approach was examined successfully for seven structural engineering phenomena contained within various building codes, including those in North America and Australia. The findings suggest that the proposed approach could lay the groundwork for implementing ML in the development of future building codes.
+AB  - The traditional approach to formulating building codes often is slow and labor-intensive, and may struggle to keep pace with the rapid evolution of technology and domain findings. Overcoming such challenges necessitates a methodology that streamlines the modernization of codal provisions. This paper proposes a machine learning (ML) approach to append a variety of codal provisions, including those of empirical, statistical, and theoretical natures. In this approach, a codal provision (i.e., equation) is analyzed to trace its properties (e.g., engineering intuition and causal logic). Then a ML model is tailored to preserve the same properties and satisfy a collection of similarity and performance measures until declared equivalent to the provision at hand. The resulting ML model harnesses the predictive capabilities of ML while arriving at predictions similar to the codal provision used to train the ML model, and hence it becomes possible to use in lieu of the codal expression. This approach was examined successfully for seven structural engineering phenomena contained within various building codes, including those in North America and Australia. The findings suggest that the proposed approach could lay the groundwork for implementing ML in the development of future building codes.
+ER  - 
+
+TY  - JOUR
+T1  - Framework for Developing Prediction Models for Boundary Conditions of Slabs in Girders Considering Interpretability: An Application for Deck Slabs in Composite Box Girders
+AU  - Zhu Yingjie
+AU  - Chen Liying
+Y1  - 2025/04/01
+PY  - 2025
+DA  - 2025/04/01
+N1  - doi: 10.1061/JBENF2.BEENG-6935
+DO  - 10.1061/JBENF2.BEENG-6935
+T2  - Journal of Bridge Engineering
+JF  - Journal of Bridge Engineering
+JO  - Journal of Bridge Engineering
+SP  - 04025010
+VL  - 30
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JBENF2.BEENG-6935
+UR  - https://doi.org/10.1061/JBENF2.BEENG-6935
+Y2  - 2025/09/05
+N2  - The boundary conditions are critical for analyzing the behavior of the deck slabs in girders. However, the boundary conditions of slabs are hard to predict due to complex influencing factors. Recently, machine learning (ML) has been extensively used in structural analysis, while the lack of interpretability prevents their practical application. This paper innovatively proposes a framework that integrates analytical models with interpretable ML techniques, aiming at explainable prediction of bridge deck slab boundary conditions. The rotational and lateral restraint stiffnesses are each divided into two parts. Analytical models tackle analytically solvable structural behaviors, while ML models address complex behaviors, complemented by interpretive approaches to ensure prediction reliability. Ultimately, by integrating the solutions of these two parts, a prediction model for slab boundary conditions can be established. Taking the reinforced concrete deck slabs in steel?concrete composite box girders as an example, analytical models are established for restraint stiffness under simplified conditions. For restraint stiffness considering spatial effect and material nonlinearity, a validated finite-element model is employed for parametric analysis to construct the data set. Subsequently, three ML models are utilized to predict this part of restraint stiffness, incorporating three interpretability approaches to guarantee model reliability. After a comprehensive assessment of both interpretability and accuracy, the optimal ML models are integrated with the analytical models, creating the interpretable prediction models for boundary conditions of deck slabs in composite box girders. Examples and evidence demonstrate that the combination of theoretical analysis and artificial intelligence can effectively improve the reliability of the entire algorithm when considering the spatial effect of the structure as well as the nonlinearity of the material, providing a new perspective and method for calculating boundary conditions.
+AB  - The boundary conditions are critical for analyzing the behavior of the deck slabs in girders. However, the boundary conditions of slabs are hard to predict due to complex influencing factors. Recently, machine learning (ML) has been extensively used in structural analysis, while the lack of interpretability prevents their practical application. This paper innovatively proposes a framework that integrates analytical models with interpretable ML techniques, aiming at explainable prediction of bridge deck slab boundary conditions. The rotational and lateral restraint stiffnesses are each divided into two parts. Analytical models tackle analytically solvable structural behaviors, while ML models address complex behaviors, complemented by interpretive approaches to ensure prediction reliability. Ultimately, by integrating the solutions of these two parts, a prediction model for slab boundary conditions can be established. Taking the reinforced concrete deck slabs in steel?concrete composite box girders as an example, analytical models are established for restraint stiffness under simplified conditions. For restraint stiffness considering spatial effect and material nonlinearity, a validated finite-element model is employed for parametric analysis to construct the data set. Subsequently, three ML models are utilized to predict this part of restraint stiffness, incorporating three interpretability approaches to guarantee model reliability. After a comprehensive assessment of both interpretability and accuracy, the optimal ML models are integrated with the analytical models, creating the interpretable prediction models for boundary conditions of deck slabs in composite box girders. Examples and evidence demonstrate that the combination of theoretical analysis and artificial intelligence can effectively improve the reliability of the entire algorithm when considering the spatial effect of the structure as well as the nonlinearity of the material, providing a new perspective and method for calculating boundary conditions.
+ER  - 
+
+TY  - JOUR
+T1  - Decoding the Spatial Heterogeneity of Bike-Sharing Impacts: Machine Learning Model of Meteorology, Epidemic, and Urban Factors
+AU  - Yao Jiawei
+AU  - Jian Yixin
+AU  - Shen Yanting
+AU  - Wen Wen
+AU  - Huang Chenyu
+AU  - Wang Jinyu
+AU  - Fu Jiayan
+AU  - Yu Zhongqi
+AU  - Zhang Yecheng
+Y1  - 2025/06/01
+PY  - 2025
+DA  - 2025/06/01
+N1  - doi: 10.1061/JUPDDM.UPENG-5192
+DO  - 10.1061/JUPDDM.UPENG-5192
+T2  - Journal of Urban Planning and Development
+JF  - Journal of Urban Planning and Development
+JO  - Journal of Urban Planning and Development
+SP  - 04025009
+VL  - 151
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JUPDDM.UPENG-5192
+UR  - https://doi.org/10.1061/JUPDDM.UPENG-5192
+Y2  - 2025/09/05
+N2  - Previous studies on the factors affecting bike-sharing travel (BST) have not considered spatial differences, leading to insufficient understanding of the complex impacts of variables in different geographical locations. This study aims to reveal the differential spatial impacts of meteorological conditions, epidemics, and urban spatial variables on BST. Firstly, New York was selected as the study area, and the period from 2020 to 2021 was chosen for the study. Secondly, a high-precision urban information data set, including meteorological, epidemic, and urban spatial variables, was constructed using weighted Thiessen polygons as the segmentation method. Finally, machine learning was conducted, and the XGBoost ensemble learning algorithm, which yielded the best training results, was chosen for interpretable analysis. This examined the nonlinear correlations and spatial benefits of each variable with BST. The results show that (1) the impact of average temperature on shared bicycle travel is most significant among all factors, accounting for 26.15% of the total impact; (2) there is significant spatial heterogeneity in the influence of factors, and office closeness is negatively correlated with BST, contributing positively in the west and negatively in the east; (3) the southern part of Manhattan is significantly affected by meteorological (?SHAP value? = 484.18) and urban spatial sector (?SHAP value? = 122.65), while the central part of Manhattan is most significantly influenced by epidemic variables (?SHAP value? = 469.27). In summary, this study takes New York as an example to analyze the nonlinear effects and spatial benefits of meteorology, epidemics, and urban space on shared bicycle travel. Based on this, more targeted and effective urban traffic intervention strategies are provided for different regions of the city. This study provides valuable insights into how different factors influence bike-sharing travel in New York City, offering practical implications for urban planners and policymakers. Firstly, we found that temperature has the most significant impact on bike-sharing, highlighting the necessity for climate-conscious dynamic urban planning. Secondly, our research reveals that the effects of meteorological, epidemic, and urban space factors vary greatly across different regions. The study identifies that the areas most sensitive to these factors are in Midtown and Lower Manhattan, which should be prioritized for interventions. Additionally, southern Manhattan is significantly affected by meteorology and urban space factors, while central Manhattan is more influenced by the number of confirmed COVID-19 cases. This underscores the importance of targeted policies. In southern Manhattan, measures such as improving the microclimate through street shading and increasing the accessibility of public and commercial spaces can encourage bike-sharing. Conversely, in central Manhattan, monitoring epidemic trends and managing the number of cases is crucial. By considering the spatial differences in factors affecting bike-sharing travel, cities can develop more effective, region-specific transportation strategies, ultimately enhancing urban resilience and reducing the impact of epidemics.
+AB  - Previous studies on the factors affecting bike-sharing travel (BST) have not considered spatial differences, leading to insufficient understanding of the complex impacts of variables in different geographical locations. This study aims to reveal the differential spatial impacts of meteorological conditions, epidemics, and urban spatial variables on BST. Firstly, New York was selected as the study area, and the period from 2020 to 2021 was chosen for the study. Secondly, a high-precision urban information data set, including meteorological, epidemic, and urban spatial variables, was constructed using weighted Thiessen polygons as the segmentation method. Finally, machine learning was conducted, and the XGBoost ensemble learning algorithm, which yielded the best training results, was chosen for interpretable analysis. This examined the nonlinear correlations and spatial benefits of each variable with BST. The results show that (1) the impact of average temperature on shared bicycle travel is most significant among all factors, accounting for 26.15% of the total impact; (2) there is significant spatial heterogeneity in the influence of factors, and office closeness is negatively correlated with BST, contributing positively in the west and negatively in the east; (3) the southern part of Manhattan is significantly affected by meteorological (?SHAP value? = 484.18) and urban spatial sector (?SHAP value? = 122.65), while the central part of Manhattan is most significantly influenced by epidemic variables (?SHAP value? = 469.27). In summary, this study takes New York as an example to analyze the nonlinear effects and spatial benefits of meteorology, epidemics, and urban space on shared bicycle travel. Based on this, more targeted and effective urban traffic intervention strategies are provided for different regions of the city. This study provides valuable insights into how different factors influence bike-sharing travel in New York City, offering practical implications for urban planners and policymakers. Firstly, we found that temperature has the most significant impact on bike-sharing, highlighting the necessity for climate-conscious dynamic urban planning. Secondly, our research reveals that the effects of meteorological, epidemic, and urban space factors vary greatly across different regions. The study identifies that the areas most sensitive to these factors are in Midtown and Lower Manhattan, which should be prioritized for interventions. Additionally, southern Manhattan is significantly affected by meteorology and urban space factors, while central Manhattan is more influenced by the number of confirmed COVID-19 cases. This underscores the importance of targeted policies. In southern Manhattan, measures such as improving the microclimate through street shading and increasing the accessibility of public and commercial spaces can encourage bike-sharing. Conversely, in central Manhattan, monitoring epidemic trends and managing the number of cases is crucial. By considering the spatial differences in factors affecting bike-sharing travel, cities can develop more effective, region-specific transportation strategies, ultimately enhancing urban resilience and reducing the impact of epidemics.
+ER  - 
+
+TY  - JOUR
+T1  - Traffic Order Analysis of Intersection Entrance Based on Aggressive Driving Behavior Data Using CatBoost and SHAP
+AU  - Zhao Xiaohua
+AU  - Qi Hang
+AU  - Yao Ying
+AU  - Guo Miao
+AU  - Su Yuelong
+Y1  - 2023/06/01
+PY  - 2023
+DA  - 2023/06/01
+N1  - doi: 10.1061/JTEPBS.0000769
+DO  - 10.1061/JTEPBS.0000769
+T2  - Journal of Transportation Engineering, Part A: Systems
+JF  - Journal of Transportation Engineering, Part A: Systems
+JO  - Journal of Transportation Engineering, Part A: Systems
+SP  - 04023037
+VL  - 149
+IS  - 6
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JTEPBS.0000769
+UR  - https://doi.org/10.1061/JTEPBS.0000769
+Y2  - 2025/09/05
+N2  - Analyzing road risks and developing targeted countermeasures are essential for a safe and orderly traffic flow. However, previous intersection safety analyses were conducted based on crash data. Little research has been conducted on surrogate safety measures based on risky driving behavior. In this study, categorical boosting (CatBoost) and Shapley additive explanation (SHAP) were used to analyze the impact of features on traffic order using a set of multisource data that include roadway geometry, signal control, and land use. The traffic data for intersection entrances in Beijing were collected from navigation systems, field investigations, and application programming interfaces. The model results showed that CatBoost exhibits a prediction accuracy of 83.5%, a recall of 83.5%, and an F1 score of 81.1%. Moreover, the importance, total effects, main effects, and interaction effects of influence factors were analyzed by using SHAP. It was found that the congestion index (CI) has significant negative effects on traffic order. A larger number of lanes and more electronic traffic control were found to have a positive effect on traffic order. Intersection entrances with three-phase signals or off-peak intersection entrances helped increase traffic order. Moreover, a high green ratio for through vehicles can reduce the positive impact of CI on traffic order when the value of CI is 1.1?1.4, and the signal control scheme with a high left-turn green ratio would result in a safe and orderly traffic flow. The results from this study can be used for further studies on improving traffic safety at signalized intersections.
+AB  - Analyzing road risks and developing targeted countermeasures are essential for a safe and orderly traffic flow. However, previous intersection safety analyses were conducted based on crash data. Little research has been conducted on surrogate safety measures based on risky driving behavior. In this study, categorical boosting (CatBoost) and Shapley additive explanation (SHAP) were used to analyze the impact of features on traffic order using a set of multisource data that include roadway geometry, signal control, and land use. The traffic data for intersection entrances in Beijing were collected from navigation systems, field investigations, and application programming interfaces. The model results showed that CatBoost exhibits a prediction accuracy of 83.5%, a recall of 83.5%, and an F1 score of 81.1%. Moreover, the importance, total effects, main effects, and interaction effects of influence factors were analyzed by using SHAP. It was found that the congestion index (CI) has significant negative effects on traffic order. A larger number of lanes and more electronic traffic control were found to have a positive effect on traffic order. Intersection entrances with three-phase signals or off-peak intersection entrances helped increase traffic order. Moreover, a high green ratio for through vehicles can reduce the positive impact of CI on traffic order when the value of CI is 1.1?1.4, and the signal control scheme with a high left-turn green ratio would result in a safe and orderly traffic flow. The results from this study can be used for further studies on improving traffic safety at signalized intersections.
+ER  - 
+
+TY  - JOUR
+T1  - Machine Learning for Predicting Prehurricane Structural Damage
+AU  - Leach Samuel
+AU  - Paal Stephanie
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+N1  - doi: 10.1061/NHREFO.NHENG-1950
+DO  - 10.1061/NHREFO.NHENG-1950
+T2  - Natural Hazards Review
+JF  - Natural Hazards Review
+JO  - Natural Hazards Review
+SP  - 04024044
+VL  - 25
+IS  - 4
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/NHREFO.NHENG-1950
+UR  - https://doi.org/10.1061/NHREFO.NHENG-1950
+Y2  - 2025/09/05
+N2  - This study proposes a novel framework for the prediction of structural damages caused by extreme weather and climate events. In current practice, following a weather event, inspectors manually evaluate damaged structures and assign a damage state classification according to FEMA guidelines. The application of machine learning methods to postevent damage classification has received significant attention in the past decade. Current state-of-the-art applications in automating the assigning of damage states have focused on postevent unmanned aerial system (UAS)-driven image classification. These works have achieved moderate success using damage classes with varying similarities to established FEMA guidelines. This work proposes a framework for predicting FEMA damage states at a single structure level prior to an event. Using a precurated data set of structural characteristics and predicted best track storm data, a novel approach can be used to optimize postevent response efforts. The methodology was validated using a data set of structural features and best track storm data gathered following Hurricanes Harvey, Michael, Irma, and Dorian. The trained model achieved a 48.08% single damage state classification accuracy and an 84.24%±1 class damage state classification accuracy. These results show that the proposed framework can perform pre-event damage prediction with performance on par with the current postevent damage classification methods. This study provides a framework for the prediction of hurricane-induced structural damage states prior to an event. Based on a lightweight artificial intelligence model, the framework is designed to be accessible to homeowners, municipalities, and relief organizations that do not have access to sophisticated hardware. The framework utilizes structural characteristics and storm information to generate structure-by-structure damage predictions based on FEMA hurricane damage states. A data set consisting of structures impacted by Hurricanes Harvey, Michael, Irma, and Dorian was used to validate the framework and provide an estimate of its capabilities. The trained model achieved an overall single state classification accuracy of 48.08% and a ±1 class accuracy of 84.24%. These results show that the proposed framework can provide homeowners with prehurricane predictions of the damage state their unique home is likely to suffer with the same level of performance as current state-of-the-art image-based postevent damage classification artificial intelligence models.
+AB  - This study proposes a novel framework for the prediction of structural damages caused by extreme weather and climate events. In current practice, following a weather event, inspectors manually evaluate damaged structures and assign a damage state classification according to FEMA guidelines. The application of machine learning methods to postevent damage classification has received significant attention in the past decade. Current state-of-the-art applications in automating the assigning of damage states have focused on postevent unmanned aerial system (UAS)-driven image classification. These works have achieved moderate success using damage classes with varying similarities to established FEMA guidelines. This work proposes a framework for predicting FEMA damage states at a single structure level prior to an event. Using a precurated data set of structural characteristics and predicted best track storm data, a novel approach can be used to optimize postevent response efforts. The methodology was validated using a data set of structural features and best track storm data gathered following Hurricanes Harvey, Michael, Irma, and Dorian. The trained model achieved a 48.08% single damage state classification accuracy and an 84.24%±1 class damage state classification accuracy. These results show that the proposed framework can perform pre-event damage prediction with performance on par with the current postevent damage classification methods. This study provides a framework for the prediction of hurricane-induced structural damage states prior to an event. Based on a lightweight artificial intelligence model, the framework is designed to be accessible to homeowners, municipalities, and relief organizations that do not have access to sophisticated hardware. The framework utilizes structural characteristics and storm information to generate structure-by-structure damage predictions based on FEMA hurricane damage states. A data set consisting of structures impacted by Hurricanes Harvey, Michael, Irma, and Dorian was used to validate the framework and provide an estimate of its capabilities. The trained model achieved an overall single state classification accuracy of 48.08% and a ±1 class accuracy of 84.24%. These results show that the proposed framework can provide homeowners with prehurricane predictions of the damage state their unique home is likely to suffer with the same level of performance as current state-of-the-art image-based postevent damage classification artificial intelligence models.
+ER  - 
+
+TY  - BOOK
+PY  - 2023
+AU  - Wei Heng
+Y1  - 2023/06/13
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784484883
+UR  - https://doi.org/10.1061/9780784484883
+N1  - doi:10.1061/9780784484883
+M3  - doi:10.1061/9780784484883
+SP  - 0
+T3  - Proceedings
+C1  - Transportation Planning, Operations, and Transit
+ER  - 
+
+TY  - JOUR
+T1  - Managing Railway Bridges Crossing Waterways through a Machine Learning-Based Maintenance Policy
+AU  - Wang Tianyu
+AU  - Takayanagi Tsuyoshi
+AU  - Chen Chi-Wei
+AU  - Reiffsteck Philippe
+AU  - Chevalier Christophe
+AU  - Schmidt Franziska
+Y1  - 2025/02/01
+PY  - 2025
+DA  - 2025/02/01
+N1  - doi: 10.1061/JBENF2.BEENG-6922
+DO  - 10.1061/JBENF2.BEENG-6922
+T2  - Journal of Bridge Engineering
+JF  - Journal of Bridge Engineering
+JO  - Journal of Bridge Engineering
+SP  - 04024114
+VL  - 30
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JBENF2.BEENG-6922
+UR  - https://doi.org/10.1061/JBENF2.BEENG-6922
+Y2  - 2025/09/05
+N2  - Recently, more frequent and severe natural hazards that are caused by climate change have posed a great threat to the safety of transport systems worldwide. To enhance bridges? resilience to natural hazards, this paper proposes a new maintenance policy that is based on machine learning (ML) for managing bridges that cross waterways in France. Two ML models, for example, random forest (RF) and extreme gradient boosting (XGBoost) classifiers, are tested on bridges in France and Japan to investigate the model?s practicality and robustness. Data from these bridges has never been seen by the model before; however, it is in the same range as the original data set. To verify the test results on the unseen data, predictions from the French cases are compared with engineering judgment, and they are in agreement (95% between the senior engineer and the XGBoost model). When comparing the Japanese case test results with the Japanese guideline?s scoring table (ST), predictions are not as accurate as in the French cases. This might be caused by the different data distribution between the two countries and the lower threshold for high scour risk cases in the Japanese guidelines. Based on the results of the original and unseen data sets, application scenarios are suggested for each model. Finally, to facilitate the use of the proposed model, a friendly web application was demonstrated to reduce computational complexity. The outcome of this paper could help to identify bridges that are vulnerable to scour in an effective yet intelligent way, which will, in the end, ensure the safety of the rail network. In addition, it could provide insights to other countries? transport agencies who want to develop their ML-based maintenance policy. Scour has been identified as one of the major causes of bridge failures worldwide. This refers to a process of erosion or removal of material from the riverbed. Several factors could contribute to the occurrence of bridge scour, such as high-velocity water flow, sediment transport, channel alignment, and sediment composition. A practical process for identifying the railway bridges that are vulnerable to scour has not been developed in France. To address this issue, this paper provides a novel maintenance policy that is based on machine learning (ML). The proposed ML models are tested on bridges in France and Japan. Data from these cases has never been seen before; however, it is in the same range as the original data set. The predictions from the unseen data are compared with the engineering judgment and Japanese practical guideline, the scoring table (ST). Based on the results, application scenarios are suggested for the models. This paper aims to improve the inspection and maintenance process at the French National Railway Company [Société Nationale des Chemins de fer Français (SNCF)]. A user-friendly web application is built at SNCF to ensure the accessibility of the research outcome.
+AB  - Recently, more frequent and severe natural hazards that are caused by climate change have posed a great threat to the safety of transport systems worldwide. To enhance bridges? resilience to natural hazards, this paper proposes a new maintenance policy that is based on machine learning (ML) for managing bridges that cross waterways in France. Two ML models, for example, random forest (RF) and extreme gradient boosting (XGBoost) classifiers, are tested on bridges in France and Japan to investigate the model?s practicality and robustness. Data from these bridges has never been seen by the model before; however, it is in the same range as the original data set. To verify the test results on the unseen data, predictions from the French cases are compared with engineering judgment, and they are in agreement (95% between the senior engineer and the XGBoost model). When comparing the Japanese case test results with the Japanese guideline?s scoring table (ST), predictions are not as accurate as in the French cases. This might be caused by the different data distribution between the two countries and the lower threshold for high scour risk cases in the Japanese guidelines. Based on the results of the original and unseen data sets, application scenarios are suggested for each model. Finally, to facilitate the use of the proposed model, a friendly web application was demonstrated to reduce computational complexity. The outcome of this paper could help to identify bridges that are vulnerable to scour in an effective yet intelligent way, which will, in the end, ensure the safety of the rail network. In addition, it could provide insights to other countries? transport agencies who want to develop their ML-based maintenance policy. Scour has been identified as one of the major causes of bridge failures worldwide. This refers to a process of erosion or removal of material from the riverbed. Several factors could contribute to the occurrence of bridge scour, such as high-velocity water flow, sediment transport, channel alignment, and sediment composition. A practical process for identifying the railway bridges that are vulnerable to scour has not been developed in France. To address this issue, this paper provides a novel maintenance policy that is based on machine learning (ML). The proposed ML models are tested on bridges in France and Japan. Data from these cases has never been seen before; however, it is in the same range as the original data set. The predictions from the unseen data are compared with the engineering judgment and Japanese practical guideline, the scoring table (ST). Based on the results, application scenarios are suggested for the models. This paper aims to improve the inspection and maintenance process at the French National Railway Company [Société Nationale des Chemins de fer Français (SNCF)]. A user-friendly web application is built at SNCF to ensure the accessibility of the research outcome.
+ER  - 
+
+TY  - JOUR
+T1  - Reliable Prediction of the Aeration Efficiency of Venturi Flumes Using Intelligent Approaches
+AU  - Panwar Dinesh
+AU  - Tiwari Nand Kumar
+Y1  - 2025/02/01
+PY  - 2025
+DA  - 2025/02/01
+N1  - doi: 10.1061/JOEEDU.EEENG-7766
+DO  - 10.1061/JOEEDU.EEENG-7766
+T2  - Journal of Environmental Engineering
+JF  - Journal of Environmental Engineering
+JO  - Journal of Environmental Engineering
+SP  - 04024073
+VL  - 151
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JOEEDU.EEENG-7766
+UR  - https://doi.org/10.1061/JOEEDU.EEENG-7766
+Y2  - 2025/09/05
+N2  - This research utilizes experimental data derived from various Venturi flume setups to assess the Venturi flume aeration efficiency (VFAE20). This evaluation encompasses dimensional factors (such as discharge per unit width denoted as q, throat width as W, throat length as F, flume length as L, flume height as H, and submergence ratio as S) as well as nondimensional parameters including the ratio of throat length to width denoted as F/W, the ratio between flume length and throat width as L/W, the ratio of flume height to throat width as H/W, the reciprocal of the submergence ratio as 1/S, and functions incorporating the Reynolds number R, Hb gauge, and hydraulic radius R represented as RHb/R, and another function incorporates the Froude number F, Hb gauge, and throat width W represented as [(F23/W)Hb]3. The study compares empirical relations from multiple nonlinear regression (MNLR) and multiple linear regression (MLR) with proposed artificial intelligence (AI) models, including neural networks (NN), deep neural networks (DNN), extreme learning machines (ELM), gradient-boosting machines (GBMs), and neuro-fuzzy systems (NFS). Using performance metrics and graphical evaluators, GBM consistently outperforms all models (dimensional and nondimensional data), followed by NFS_Tri. Despite minor variances, all the suggested machine learning (ML) models exhibit commendable performance. Uncertainty analysis identifies GBM as the top performer, closely followed by NFS_Tri while existing relations perform poorly. Analysis of variance (ANOVA) results indicate insignificant disparities between experimental and predicted VFAE20 values across all proposed AI models but notable differences within existing relations in dimensional and nondimensional data sets. Sensitivity analysis highlights (q) and (RHb/R) as the most influential factors affecting VFAE20 in dimensional and nondimensional data sets, respectively, supported by correlation diagrams and Shapley values. Further, we also investigated how the flumes performed in terms of aeration discharge and water flow characteristics. Venturi flumes find diverse applications in environmental engineering, aquaculture, hydroelectric power generation, and irrigation systems, providing precise measurement and regulation of water flow rate, oxygen levels, and air infusion. Their effective aeration capabilities bolster treatment efficacy in wastewater facilities, foster the growth of aquatic organisms in aquaculture settings, optimize turbine functionality in hydroelectric plants, and mitigate clogging in irrigation setups. This versatility renders Venturi flumes indispensable across multiple domains where precise water flow and oxygen control are essential.
+AB  - This research utilizes experimental data derived from various Venturi flume setups to assess the Venturi flume aeration efficiency (VFAE20). This evaluation encompasses dimensional factors (such as discharge per unit width denoted as q, throat width as W, throat length as F, flume length as L, flume height as H, and submergence ratio as S) as well as nondimensional parameters including the ratio of throat length to width denoted as F/W, the ratio between flume length and throat width as L/W, the ratio of flume height to throat width as H/W, the reciprocal of the submergence ratio as 1/S, and functions incorporating the Reynolds number R, Hb gauge, and hydraulic radius R represented as RHb/R, and another function incorporates the Froude number F, Hb gauge, and throat width W represented as [(F23/W)Hb]3. The study compares empirical relations from multiple nonlinear regression (MNLR) and multiple linear regression (MLR) with proposed artificial intelligence (AI) models, including neural networks (NN), deep neural networks (DNN), extreme learning machines (ELM), gradient-boosting machines (GBMs), and neuro-fuzzy systems (NFS). Using performance metrics and graphical evaluators, GBM consistently outperforms all models (dimensional and nondimensional data), followed by NFS_Tri. Despite minor variances, all the suggested machine learning (ML) models exhibit commendable performance. Uncertainty analysis identifies GBM as the top performer, closely followed by NFS_Tri while existing relations perform poorly. Analysis of variance (ANOVA) results indicate insignificant disparities between experimental and predicted VFAE20 values across all proposed AI models but notable differences within existing relations in dimensional and nondimensional data sets. Sensitivity analysis highlights (q) and (RHb/R) as the most influential factors affecting VFAE20 in dimensional and nondimensional data sets, respectively, supported by correlation diagrams and Shapley values. Further, we also investigated how the flumes performed in terms of aeration discharge and water flow characteristics. Venturi flumes find diverse applications in environmental engineering, aquaculture, hydroelectric power generation, and irrigation systems, providing precise measurement and regulation of water flow rate, oxygen levels, and air infusion. Their effective aeration capabilities bolster treatment efficacy in wastewater facilities, foster the growth of aquatic organisms in aquaculture settings, optimize turbine functionality in hydroelectric plants, and mitigate clogging in irrigation setups. This versatility renders Venturi flumes indispensable across multiple domains where precise water flow and oxygen control are essential.
+ER  - 
+
+TY  - JOUR
+T1  - Real-Time Conflict Prediction on Freeways under Different Vehicle Interaction Scenarios Using Short-Term Vehicle Kinematic Characteristics with Temporal Variability
+AU  - Wang Chenwei
+AU  - He Jie
+AU  - Yan Xintong
+AU  - Zhang Changjian
+AU  - Ye Yuntao
+AU  - Qin Pengcheng
+Y1  - 2025/05/01
+PY  - 2025
+DA  - 2025/05/01
+N1  - doi: 10.1061/JTEPBS.TEENG-8350
+DO  - 10.1061/JTEPBS.TEENG-8350
+T2  - Journal of Transportation Engineering, Part A: Systems
+JF  - Journal of Transportation Engineering, Part A: Systems
+JO  - Journal of Transportation Engineering, Part A: Systems
+SP  - 04025021
+VL  - 151
+IS  - 5
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JTEPBS.TEENG-8350
+UR  - https://doi.org/10.1061/JTEPBS.TEENG-8350
+Y2  - 2025/09/05
+N2  - Real-time conflict prediction is an emerging research perspective of proactive road safety measures that can prevent potential risk situations. Previous research used macroscopic traffic flow data while underestimating the relationship between conflict events and conflict vehicle trajectories. This study introduced kinematics and status-related data of conflict vehicles to explore whether there would be a potential conflict in the near future. Prediction models were developed utilizing vehicle trajectories from the Shanxi Wuyu Freeway in China. Considering both rear-end and sideswipe conflicts, extended time-to-collision was proposed to categorize vehicle interactions into three distinct types: conflicts, normal interactions, and undisturbed passings. This classification formed the basis for three distinct prediction tasks. Sixteen predictor variables were derived from vehicle trajectories within a 15-second time window before conflict events. Predictor variables, which captured vehicle velocity and surrounding traffic conditions, were used to build conflict prediction models based on random forest, support vector machine, and artificial neural network. An undersampling algorithm was employed to solve the sample imbalance. Twelve conflict prediction models were compared in terms of precision, recall, specificity, F1-score, and area under the curve. The results indicated that binary conflict prediction models based on support vector machines presented the best prediction performance, achieving higher scores across multiple evaluation metrics. Among the predictor variables, the mean of longitudinal velocity emerged as the most significant factor, while the hour of conflict occurrence was also identified as an essential state variable. The exploration of different time windows indicated that shorter timeframes before conflict events enhance the performance of real-time conflict prediction models. Finally, the proposed real-time conflict prediction models and contributing factors provide a novel approach for simplifying conflict estimation by eliminating the need to analyze complex kinematic relationships among vehicles. It also contributes to designing further proactive safety systems for conflict warnings implemented on vehicle dashboards.
+AB  - Real-time conflict prediction is an emerging research perspective of proactive road safety measures that can prevent potential risk situations. Previous research used macroscopic traffic flow data while underestimating the relationship between conflict events and conflict vehicle trajectories. This study introduced kinematics and status-related data of conflict vehicles to explore whether there would be a potential conflict in the near future. Prediction models were developed utilizing vehicle trajectories from the Shanxi Wuyu Freeway in China. Considering both rear-end and sideswipe conflicts, extended time-to-collision was proposed to categorize vehicle interactions into three distinct types: conflicts, normal interactions, and undisturbed passings. This classification formed the basis for three distinct prediction tasks. Sixteen predictor variables were derived from vehicle trajectories within a 15-second time window before conflict events. Predictor variables, which captured vehicle velocity and surrounding traffic conditions, were used to build conflict prediction models based on random forest, support vector machine, and artificial neural network. An undersampling algorithm was employed to solve the sample imbalance. Twelve conflict prediction models were compared in terms of precision, recall, specificity, F1-score, and area under the curve. The results indicated that binary conflict prediction models based on support vector machines presented the best prediction performance, achieving higher scores across multiple evaluation metrics. Among the predictor variables, the mean of longitudinal velocity emerged as the most significant factor, while the hour of conflict occurrence was also identified as an essential state variable. The exploration of different time windows indicated that shorter timeframes before conflict events enhance the performance of real-time conflict prediction models. Finally, the proposed real-time conflict prediction models and contributing factors provide a novel approach for simplifying conflict estimation by eliminating the need to analyze complex kinematic relationships among vehicles. It also contributes to designing further proactive safety systems for conflict warnings implemented on vehicle dashboards.
+ER  - 
+
+TY  - BOOK
+PY  - 2022
+AU  - null null
+AU  - Wei Heng
+AU  - Wang Yinhai
+AU  - Ma Jianming
+AU  - Avery Paul A.
+AU  - Yang Ken
+AU  - Tang Ming
+AU  - Liu Hao
+AU  - Kashyap Gaurav
+AU  - Corey Jonathan
+AU  - Dey Kakan
+AU  - Eustace Deogratias
+AU  - Rahman Md Tawhidur
+AU  - Qawasmeh Baraah
+AU  - Chen Na
+AU  - Zuo Ting
+AU  - Li Zhixia
+AU  - Kumar Rumit
+AU  - Deshpande Aditya M.
+AU  - Scott Drew
+AU  - Wells James Z.
+AU  - Kumar Manish
+AU  - Abdallah Shaaban
+Y1  - 2022/04/08
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784415986
+UR  - https://doi.org/10.1061/9780784415986
+N1  - doi:10.1061/9780784415986
+M3  - doi:10.1061/9780784415986
+SP  - 0
+T3  - Books
+SN  - 9780784415986
+ER  - 
+
+TY  - BOOK
+PY  - 2023
+AU  - Chen Yanyan
+AU  - Ma Jianming
+AU  - Zhang Guohui
+AU  - Wang Haizhong
+AU  - Sun Lijun
+AU  - He Zhengbing
+Y1  - 2023/12/14
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485040
+UR  - https://doi.org/10.1061/9780784485040
+N1  - doi:10.1061/9780784485040
+M3  - doi:10.1061/9780784485040
+SP  - 0
+T3  - Proceedings
+C1  - Emerging Data-Driven Sustainable Technological Innovation in
+                Transportation
+ER  - 
+
+TY  - JOUR
+T1  - What Geotechnical Engineers Want to Know about Reliability
+AU  - Phoon Kok-Kwang
+Y1  - 2023/06/01
+PY  - 2023
+DA  - 2023/06/01
+N1  - doi: 10.1061/AJRUA6.RUENG-1002
+DO  - 10.1061/AJRUA6.RUENG-1002
+T2  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+JF  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+JO  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+SP  - 03123001
+VL  - 9
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/AJRUA6.RUENG-1002
+UR  - https://doi.org/10.1061/AJRUA6.RUENG-1002
+Y2  - 2025/09/05
+N2  - The purpose of this paper is to address the ?what,? ?why,? and ?how? questions posed by engineers who are not familiar with geotechnical reliability and have not kept abreast of recent rapid developments in this field. Geotechnical reliability can be broadly defined as a methodology that enhances decision making at different life-cycle stages covering design, construction, operation and maintenance, retrofit, and decommission/reuse by exploiting the richer characterization of data using probabilistic models. Besides engineered systems, it also covers the risk assessment and management of geohazards such as earthquakes and landslides. Various application areas related to the design and construction stages of engineered systems can be put in context in the form of an uncertainty-informed Burland Triangle. Among these application areas, the estimation of a characteristic value, load and resistance factor design (LRFD), resistance factor calibration for simplified reliability-based design (RBD), and first-order second-moment (FOSM) reliability analysis do not need in-depth knowledge/expertise in reliability and a significant amount of information exists to support these applications in practice. This paper argues for their adoption because they will nudge a mindset shift to be more responsive to data. Data infrastructure is now considered to be as important as physical infrastructure. The concern that there are insufficient data for probabilistic analysis has also been largely and comprehensively resolved by recent advances in Bayesian machine learning methods that can deal with MUSIC-3X (Multivariate, Uncertain and Unique, Sparse, Incomplete, and potentially Corrupted with ?3X? denoting 3D spatial variability) site data directly. Sparsity (insufficient data) is only one out of six attributes in a real-world MUSIC-3X data set. Geotechnical reliability is now pictured as one important step toward digital transformation and engaging complex new challenges posed by climate change and resilience engineering. This paper urges the geotechnical engineering profession to lay aside its questions on quantity, quality, and/or other ?ugly? attributes and offer our data an opportunity to speak for itself. There is prima facie evidence to warrant a thorough exploration of data-centric geotechnics.
+AB  - The purpose of this paper is to address the ?what,? ?why,? and ?how? questions posed by engineers who are not familiar with geotechnical reliability and have not kept abreast of recent rapid developments in this field. Geotechnical reliability can be broadly defined as a methodology that enhances decision making at different life-cycle stages covering design, construction, operation and maintenance, retrofit, and decommission/reuse by exploiting the richer characterization of data using probabilistic models. Besides engineered systems, it also covers the risk assessment and management of geohazards such as earthquakes and landslides. Various application areas related to the design and construction stages of engineered systems can be put in context in the form of an uncertainty-informed Burland Triangle. Among these application areas, the estimation of a characteristic value, load and resistance factor design (LRFD), resistance factor calibration for simplified reliability-based design (RBD), and first-order second-moment (FOSM) reliability analysis do not need in-depth knowledge/expertise in reliability and a significant amount of information exists to support these applications in practice. This paper argues for their adoption because they will nudge a mindset shift to be more responsive to data. Data infrastructure is now considered to be as important as physical infrastructure. The concern that there are insufficient data for probabilistic analysis has also been largely and comprehensively resolved by recent advances in Bayesian machine learning methods that can deal with MUSIC-3X (Multivariate, Uncertain and Unique, Sparse, Incomplete, and potentially Corrupted with ?3X? denoting 3D spatial variability) site data directly. Sparsity (insufficient data) is only one out of six attributes in a real-world MUSIC-3X data set. Geotechnical reliability is now pictured as one important step toward digital transformation and engaging complex new challenges posed by climate change and resilience engineering. This paper urges the geotechnical engineering profession to lay aside its questions on quantity, quality, and/or other ?ugly? attributes and offer our data an opportunity to speak for itself. There is prima facie evidence to warrant a thorough exploration of data-centric geotechnics.
+ER  - 

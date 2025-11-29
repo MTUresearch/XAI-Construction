@@ -1,0 +1,94 @@
+
+TY  - JOUR
+T1  - Material In Bridges of Different Kinds
+AU  - Emery Charles E.
+Y1  - 1877/01/01
+PY  - 1877
+DA  - 1877/01/01
+N1  - doi: 10.1061/TACEAT.0000284
+DO  - 10.1061/TACEAT.0000284
+T2  - Transactions of the American Society of Civil Engineers
+JF  - Transactions of the American Society of Civil Engineers
+JO  - Transactions of the American Society of Civil Engineers
+SP  - 277
+EP  - 288
+VL  - 6
+IS  - 1
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/TACEAT.0000284
+UR  - https://doi.org/10.1061/TACEAT.0000284
+Y2  - 2025/09/05
+N2  - In the previous paper on this subject in August Transactions is outlined a method of investigation, in which the volume or weight of each member of a skeleton girder is expressed in terms of the volume of a vertical and of a horizontal member having jointly the same volume as a standard diagonal supporting a given load.
+AB  - In the previous paper on this subject in August Transactions is outlined a method of investigation, in which the volume or weight of each member of a skeleton girder is expressed in terms of the volume of a vertical and of a horizontal member having jointly the same volume as a standard diagonal supporting a given load.
+ER  - 
+
+TY  - JOUR
+T1  - Harnessing Bayesian Deep Learning to Tackle Unseen and Uncertain Scenarios in Diagnosis of Machinery Systems
+AU  - Kai Zhou
+AU  - Zhou Qianyu
+AU  - Tang Jiong
+Y1  - 2025/03/01
+PY  - 2025
+DA  - 2025/03/01
+N1  - doi: 10.1115/1.4067001
+DO  - 10.1115/1.4067001
+T2  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering
+JF  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering
+JO  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering
+SP  - 011106
+VL  - 11
+IS  - 1
+PB  - American Society of Mechanical Engineers
+M3  - doi: 10.1115/1.4067001
+UR  - https://doi.org/10.1115/1.4067001
+Y2  - 2025/09/05
+N2  - Direct inverse analysis of faults in machinery systems such as gears using first principle is intrinsically difficult, owing to the multiple time- and length-scales involved in vibration modeling. As such, data-driven approaches have been the mainstream, whereas supervised trainings are deemed effective. Nevertheless, existing techniques often fall short in their ability to generalize from discrete data labels to the continuous spectrum of possible faults, which is further compounded by various uncertainties. This research proposes an interpretability-enhanced deep learning framework that incorporates Bayesian principles, effectively transforming convolutional neural networks (CNNs) into dynamic predictive models and significantly amplifying their generalizability with more accessible insights of the model's reasoning processes. Our approach is distinguished by a novel implementation of Bayesian inference, enabling the navigation of the probabilistic nuances of gear fault severities. By integrating variational inference into the deep learning architecture, we present a methodology that excels in leveraging limited data labels to reveal insights into both observed and unobserved fault conditions. This approach improves the model's capacity for uncertainty estimation and probabilistic generalization. Experimental validation on a lab-scale gear setup demonstrated the framework's superior performance, achieving nearly 100% accuracy in classifying known fault conditions, even in the presence of significant noise, and maintaining 96.15% accuracy when dealing with unseen fault severities. These results underscore the method's capability in discovering implicit relations between known and unseen faults, facilitating extended fault diagnosis, and effectively managing large degrees of measurement uncertainties. This article is available in the ASME Digital Collection at https://doi.org/10.1115/1.4067001.
+AB  - Direct inverse analysis of faults in machinery systems such as gears using first principle is intrinsically difficult, owing to the multiple time- and length-scales involved in vibration modeling. As such, data-driven approaches have been the mainstream, whereas supervised trainings are deemed effective. Nevertheless, existing techniques often fall short in their ability to generalize from discrete data labels to the continuous spectrum of possible faults, which is further compounded by various uncertainties. This research proposes an interpretability-enhanced deep learning framework that incorporates Bayesian principles, effectively transforming convolutional neural networks (CNNs) into dynamic predictive models and significantly amplifying their generalizability with more accessible insights of the model's reasoning processes. Our approach is distinguished by a novel implementation of Bayesian inference, enabling the navigation of the probabilistic nuances of gear fault severities. By integrating variational inference into the deep learning architecture, we present a methodology that excels in leveraging limited data labels to reveal insights into both observed and unobserved fault conditions. This approach improves the model's capacity for uncertainty estimation and probabilistic generalization. Experimental validation on a lab-scale gear setup demonstrated the framework's superior performance, achieving nearly 100% accuracy in classifying known fault conditions, even in the presence of significant noise, and maintaining 96.15% accuracy when dealing with unseen fault severities. These results underscore the method's capability in discovering implicit relations between known and unseen faults, facilitating extended fault diagnosis, and effectively managing large degrees of measurement uncertainties. This article is available in the ASME Digital Collection at https://doi.org/10.1115/1.4067001.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic Green's Functions of Homogeneous Poroelastic Half‐Plane
+AU  - Senjuntichai T.
+AU  - Rajapakse R. K. N. D.
+Y1  - 1994/11/01
+PY  - 1994
+DA  - 1994/11/01
+N1  - doi: 10.1061/(ASCE)0733-9399(1994)120:11(2381)
+DO  - 10.1061/(ASCE)0733-9399(1994)120:11(2381)
+T2  - Journal of Engineering Mechanics
+JF  - Journal of Engineering Mechanics
+JO  - Journal of Engineering Mechanics
+SP  - 2381
+EP  - 2404
+VL  - 120
+IS  - 11
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/(ASCE)0733-9399(1994)120:11(2381)
+UR  - https://doi.org/10.1061/(ASCE)0733-9399(1994)120:11(2381)
+Y2  - 2025/09/05
+N2  - This paper presents a comprehensive analytical and numerical treatment of two?dimensional dynamic response of a dissipative poroelastic half?plane under time?harmonic internal loads and fluid sources. General solutions for poroelastodynamic equations corresponding to Biot's theory are obtained by using Fourier integral transforms in the x?direction. These general solutions are used to solve boundary?value problems corresponding to vertical and horizontal loads, and fluid sources applied at a finite depth below the surface of a poroelastic half?plane. Explicit analytical solutions corresponding to above?boundary?value problems are presented. The solutions for poroelastic fields of a half?plane subjected to internal excitations are expressed in terms of semiinfinite Fourier type integrals that can only be evaluated by numerical quadrature. The integration path is free from any singularities due to the dissipative nature of the elastic waves propagating in a poroelastic medium, and the Fourier integrals are evaluated by using an adaptive version of the trapezoidal rule. The accuracy of present numerical solutions are confirmed by comparison with existing solutions for ideal elasticity and poroelasticity. Selected numerical results are presented to portray the influence of the frequency of excitation, poroelastic material properties and types of loadings on the dynamic response of a poroelastic half?plane. Green's functions presented in this paper can be used to solve a variety of elastodynamic boundary?value problems and as the kernel functions in the boundary integral equation method.
+AB  - This paper presents a comprehensive analytical and numerical treatment of two?dimensional dynamic response of a dissipative poroelastic half?plane under time?harmonic internal loads and fluid sources. General solutions for poroelastodynamic equations corresponding to Biot's theory are obtained by using Fourier integral transforms in the x?direction. These general solutions are used to solve boundary?value problems corresponding to vertical and horizontal loads, and fluid sources applied at a finite depth below the surface of a poroelastic half?plane. Explicit analytical solutions corresponding to above?boundary?value problems are presented. The solutions for poroelastic fields of a half?plane subjected to internal excitations are expressed in terms of semiinfinite Fourier type integrals that can only be evaluated by numerical quadrature. The integration path is free from any singularities due to the dissipative nature of the elastic waves propagating in a poroelastic medium, and the Fourier integrals are evaluated by using an adaptive version of the trapezoidal rule. The accuracy of present numerical solutions are confirmed by comparison with existing solutions for ideal elasticity and poroelasticity. Selected numerical results are presented to portray the influence of the frequency of excitation, poroelastic material properties and types of loadings on the dynamic response of a poroelastic half?plane. Green's functions presented in this paper can be used to solve a variety of elastodynamic boundary?value problems and as the kernel functions in the boundary integral equation method.
+ER  - 
+
+TY  - JOUR
+T1  - The Compensated Arch Dam
+AU  - Karpov A. V.
+Y1  - 1933/01/01
+PY  - 1933
+DA  - 1933/01/01
+N1  - doi: 10.1061/TACEAT.0004448
+DO  - 10.1061/TACEAT.0004448
+T2  - Transactions of the American Society of Civil Engineers
+JF  - Transactions of the American Society of Civil Engineers
+JO  - Transactions of the American Society of Civil Engineers
+SP  - 1309
+EP  - 1345
+VL  - 98
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/TACEAT.0004448
+UR  - https://doi.org/10.1061/TACEAT.0004448
+Y2  - 2025/09/05
+N2  - The paper is a theoretical analysis of an arch dam that is intended to simplify present-day design methods and bring to light the proper relationship between the profile of the clam site and the shape of the arch dam. Conditions are investigated under which the dam can be relieved of unnecessary stresses. The compensate d dam that is introduced, carries the stresses due to dead weight and water load, but it is relieved from stresses due to contraction or expansion of concrete and deflections of the foundations and abutments. This investigation indicates a design that is believed to result in a safer and more economical structure.
+AB  - The paper is a theoretical analysis of an arch dam that is intended to simplify present-day design methods and bring to light the proper relationship between the profile of the clam site and the shape of the arch dam. Conditions are investigated under which the dam can be relieved of unnecessary stresses. The compensate d dam that is introduced, carries the stresses due to dead weight and water load, but it is relieved from stresses due to contraction or expansion of concrete and deflections of the foundations and abutments. This investigation indicates a design that is believed to result in a safer and more economical structure.
+ER  - 

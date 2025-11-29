@@ -1,0 +1,429 @@
+
+TY  - BOOK
+PY  - 2024
+AU  - Wei Heng
+Y1  - 2024/06/13
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485514
+UR  - https://doi.org/10.1061/9780784485514
+N1  - doi:10.1061/9780784485514
+M3  - doi:10.1061/9780784485514
+SP  - 0
+T3  - Proceedings
+C1  - Transportation Safety and Emerging Technologies
+ER  - 
+
+TY  - JOUR
+T1  - Seafarer Fatigue Identification Based on PSO-ACLSTM
+AU  - Lv Mina
+AU  - Shi Guoyou
+AU  - Li Weifeng
+AU  - Ma Xiaofei
+Y1  - 2025/06/01
+PY  - 2025
+DA  - 2025/06/01
+N1  - doi: 10.1061/AJRUA6.RUENG-1447
+DO  - 10.1061/AJRUA6.RUENG-1447
+T2  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+JF  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+JO  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+SP  - 04025015
+VL  - 11
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/AJRUA6.RUENG-1447
+UR  - https://doi.org/10.1061/AJRUA6.RUENG-1447
+Y2  - 2025/09/05
+N2  - The rapid development of the shipping industry and the increasingly complex maritime traffic pose potential risks, potentially leading to serious accidents and substantial economic losses. Identifying seafarer fatigue is crucial for maritime traffic safety. However, extracting discriminative electroencephalogram (EEG) features for fatigue identification remains challenging, because most methods overlook basic data in both temporal and spatial dimensions. This paper presents a novel EEG identification algorithm model, PSO-ACLSTM, which is based on the combination of particle swarm optimization (PSO), convolutional neural network (CNN), long short-term memory network (LSTM), and attention mechanism. The purpose of this method is to obtain efficient discrimination characteristics from EEGs and improve the precision of fatigue identification. Firstly, using EEG data collected from seafarers on a training vessel, we adopt a channel-wise attention mechanism to assign the weights to each channel, and then CNN is applied to extract the spatial information of the EEG signal. Then we incorporate a self-attention mechanism into LSTM to obtain temporal information from EEG samples. Finally, the spatial and temporal attention characteristics are applied to identify seafarer fatigue. Using the particle swarm optimization algorithm, we modify the hyperparameters of the neural network training and search for optimum parameters. Experiments proved that the model presented in this paper can increase the accuracy of seafarer fatigue identification compared with other models.
+AB  - The rapid development of the shipping industry and the increasingly complex maritime traffic pose potential risks, potentially leading to serious accidents and substantial economic losses. Identifying seafarer fatigue is crucial for maritime traffic safety. However, extracting discriminative electroencephalogram (EEG) features for fatigue identification remains challenging, because most methods overlook basic data in both temporal and spatial dimensions. This paper presents a novel EEG identification algorithm model, PSO-ACLSTM, which is based on the combination of particle swarm optimization (PSO), convolutional neural network (CNN), long short-term memory network (LSTM), and attention mechanism. The purpose of this method is to obtain efficient discrimination characteristics from EEGs and improve the precision of fatigue identification. Firstly, using EEG data collected from seafarers on a training vessel, we adopt a channel-wise attention mechanism to assign the weights to each channel, and then CNN is applied to extract the spatial information of the EEG signal. Then we incorporate a self-attention mechanism into LSTM to obtain temporal information from EEG samples. Finally, the spatial and temporal attention characteristics are applied to identify seafarer fatigue. Using the particle swarm optimization algorithm, we modify the hyperparameters of the neural network training and search for optimum parameters. Experiments proved that the model presented in this paper can increase the accuracy of seafarer fatigue identification compared with other models.
+ER  - 
+
+TY  - JOUR
+T1  - Data-Driven Design of Thermoplastic Composites with Tailored Compliance
+AU  - Upadhyay Nilay
+AU  - Zawaski Callie
+AU  - Peco Christian
+AU  - Reinhart Wesley F.
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+N1  - doi: 10.1061/JENMDT.EMENG-7824
+DO  - 10.1061/JENMDT.EMENG-7824
+T2  - Journal of Engineering Mechanics
+JF  - Journal of Engineering Mechanics
+JO  - Journal of Engineering Mechanics
+SP  - 04025023
+VL  - 151
+IS  - 7
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JENMDT.EMENG-7824
+UR  - https://doi.org/10.1061/JENMDT.EMENG-7824
+Y2  - 2025/09/05
+N2  - Continued advances in manufacturing processes have rapidly increased the complexity of composite parts that can be manufactured, consequently increasing the number of variables that must be considered during design. Traditional computational methods struggle with time efficiency and complex relations in large design spaces, especially for composite materials with intricate, multivariate, and nonlinear process?structure?property connections. Among computational tools, machine learning methods excel at interpreting complex relationships and efficiently generating designs for target properties. In this study, we systematically built and deployed machine learning models to explore the design space of a layered composite material. We modeled two grades of thermoplastics and generated a data set of the compliance of different layered composite geometries using finite-element simulations. A random forest model utilizing a token-counting featurization scheme was selected based on its exceptional performance. It was used to perform a detailed feature importance analysis and then a series of design tasks. We show that this method can reliably obtain single-objective and multiobjective designs. This work demonstrates the feasibility of a simple data-driven approach to designing composite parts with many design variables and highly nonlinear mechanical behavior.
+AB  - Continued advances in manufacturing processes have rapidly increased the complexity of composite parts that can be manufactured, consequently increasing the number of variables that must be considered during design. Traditional computational methods struggle with time efficiency and complex relations in large design spaces, especially for composite materials with intricate, multivariate, and nonlinear process?structure?property connections. Among computational tools, machine learning methods excel at interpreting complex relationships and efficiently generating designs for target properties. In this study, we systematically built and deployed machine learning models to explore the design space of a layered composite material. We modeled two grades of thermoplastics and generated a data set of the compliance of different layered composite geometries using finite-element simulations. A random forest model utilizing a token-counting featurization scheme was selected based on its exceptional performance. It was used to perform a detailed feature importance analysis and then a series of design tasks. We show that this method can reliably obtain single-objective and multiobjective designs. This work demonstrates the feasibility of a simple data-driven approach to designing composite parts with many design variables and highly nonlinear mechanical behavior.
+ER  - 
+
+TY  - BOOK
+PY  - 2025
+AU  - Beauregard Melissa S.
+AU  - Budge Aaron S.
+Y1  - 2025/02/27
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485989
+UR  - https://doi.org/10.1061/9780784485989
+N1  - doi:10.1061/9780784485989
+M3  - doi:10.1061/9780784485989
+SP  - 0
+T3  - Proceedings
+C1  - Emerging Topics and Geotechnologies
+ER  - 
+
+TY  - JOUR
+T1  - Numerical Simulation of Rain Scavenging on Large Release of Water-Soluble Gases
+AU  - Zheng Wei
+AU  - Luna Ronaldo
+AU  - Steinberg Laura J.
+Y1  - 2003/01/01
+PY  - 2003
+DA  - 2003/01/01
+N1  - doi: 10.1061/(ASCE)0733-9372(2003)129:1(59)
+DO  - 10.1061/(ASCE)0733-9372(2003)129:1(59)
+T2  - Journal of Environmental Engineering
+JF  - Journal of Environmental Engineering
+JO  - Journal of Environmental Engineering
+SP  - 59
+EP  - 67
+VL  - 129
+IS  - 1
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/(ASCE)0733-9372(2003)129:1(59)
+UR  - https://doi.org/10.1061/(ASCE)0733-9372(2003)129:1(59)
+Y2  - 2025/09/05
+N2  - A depth-integrated numerical model GP_Rain was developed to calculate the behavior of neutrally buoyant, highly soluble gases subjected to scavenging by rain. A neutrally buoyant release of hydrogen fluoride is used to illustrate the use of the model. The GP_Rain model was developed in two steps. The part without rain scavenging is based on AFTOX, a Gaussian puff/plume model. Then a first-order decay term for rain scavenging, which was developed by assuming a homogeneous rain field, was added to the concentration calculation for the puff. The model can predict the maximum release distance for a certain concentration limitation and a two-dimensional plume with or without rain. 
+AB  - A depth-integrated numerical model GP_Rain was developed to calculate the behavior of neutrally buoyant, highly soluble gases subjected to scavenging by rain. A neutrally buoyant release of hydrogen fluoride is used to illustrate the use of the model. The GP_Rain model was developed in two steps. The part without rain scavenging is based on AFTOX, a Gaussian puff/plume model. Then a first-order decay term for rain scavenging, which was developed by assuming a homogeneous rain field, was added to the concentration calculation for the puff. The model can predict the maximum release distance for a certain concentration limitation and a two-dimensional plume with or without rain. 
+ER  - 
+
+TY  - BOOK
+PY  - 2022
+AU  - Davis Craig A.
+AU  - Yu Kent
+AU  - Taciroglu Ertugrul
+Y1  - 2022/11/16
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784484449
+UR  - https://doi.org/10.1061/9780784484449
+N1  - doi:10.1061/9780784484449
+M3  - doi:10.1061/9780784484449
+SP  - 0
+T3  - Proceedings
+C1  - Advancing Lifeline Engineering for Community Resilience
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of Traffic Efficiency in Highway-Weaving Areas Considering Risky Driving Behaviors Based on Vehicle Trajectory Data
+AU  - Ge Hongcheng
+AU  - Guo Zhongyin
+AU  - Jing Difei
+AU  - Song Cancan
+AU  - Zhao Renjie
+AU  - Sun Qiong
+AU  - Zhou Jinming
+Y1  - 2025/10/01
+PY  - 2025
+DA  - 2025/10/01
+N1  - doi: 10.1061/JTEPBS.TEENG-9141
+DO  - 10.1061/JTEPBS.TEENG-9141
+T2  - Journal of Transportation Engineering, Part A: Systems
+JF  - Journal of Transportation Engineering, Part A: Systems
+JO  - Journal of Transportation Engineering, Part A: Systems
+SP  - 04025082
+VL  - 151
+IS  - 10
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JTEPBS.TEENG-9141
+UR  - https://doi.org/10.1061/JTEPBS.TEENG-9141
+Y2  - 2025/09/05
+N2  - Highway-weaving areas face significant traffic efficiency challenges due to frequent merging and diverging movements. This study quantifies the precise thresholds at which risky driving behaviors impact traffic efficiency, using high-resolution drone data from two weaving sections in Kunming, China, collected during peak hours. The data cover more than 2 h of detailed vehicle motion, including speed, acceleration, and lane-change activities. Four risky driving behaviors?rapid acceleration, rapid deceleration, lane changes, and speeding?were analyzed to assess their impact on traffic flow. A traffic efficiency model was developed using traffic volume and the duration of risky behaviors within a 30-s window, considering both upstream and weaving area conditions. Rapid deceleration was most frequent near merging points, creating bottlenecks, while rapid acceleration and speeding were common after diverging points. High converging ratios were linked to longer travel times and reduced traffic efficiency. Random forest models achieved the highest predictive accuracy (R2=0.612?0.723) among the machine learning approaches tested. SHAP analysis identified specific critical thresholds (e.g., mainline traffic volume > 14.22 pcu, merging traffic > 8.12 pcu) beyond which traffic efficiency significantly deteriorates. Notably, a nonlinear relationship was discovered where moderate levels of rapid deceleration before the weaving area (below 17.74 s) actually improved traffic flow. The study provides actionable parameters for traffic management systems to implement targeted interventions such as extended merging lanes and adaptive speed controls, moving beyond descriptive observations to prescriptive guidance for improving traffic flow in weaving areas.
+AB  - Highway-weaving areas face significant traffic efficiency challenges due to frequent merging and diverging movements. This study quantifies the precise thresholds at which risky driving behaviors impact traffic efficiency, using high-resolution drone data from two weaving sections in Kunming, China, collected during peak hours. The data cover more than 2 h of detailed vehicle motion, including speed, acceleration, and lane-change activities. Four risky driving behaviors?rapid acceleration, rapid deceleration, lane changes, and speeding?were analyzed to assess their impact on traffic flow. A traffic efficiency model was developed using traffic volume and the duration of risky behaviors within a 30-s window, considering both upstream and weaving area conditions. Rapid deceleration was most frequent near merging points, creating bottlenecks, while rapid acceleration and speeding were common after diverging points. High converging ratios were linked to longer travel times and reduced traffic efficiency. Random forest models achieved the highest predictive accuracy (R2=0.612?0.723) among the machine learning approaches tested. SHAP analysis identified specific critical thresholds (e.g., mainline traffic volume > 14.22 pcu, merging traffic > 8.12 pcu) beyond which traffic efficiency significantly deteriorates. Notably, a nonlinear relationship was discovered where moderate levels of rapid deceleration before the weaving area (below 17.74 s) actually improved traffic flow. The study provides actionable parameters for traffic management systems to implement targeted interventions such as extended merging lanes and adaptive speed controls, moving beyond descriptive observations to prescriptive guidance for improving traffic flow in weaving areas.
+ER  - 
+
+TY  - JOUR
+T1  - Effect Mechanism of Wind Barriers on Flutter Characteristics of Closed Box Girders with Different Aspect Ratios
+AU  - Yang Yongxin
+AU  - Zhu Jinbo
+AU  - Hong Lizhu
+AU  - Ge Yaojun
+AU  - Su Rushen
+AU  - Yang Huchen
+AU  - Zhou Rui
+Y1  - 2023/09/01
+PY  - 2023
+DA  - 2023/09/01
+N1  - doi: 10.1061/JBENF2.BEENG-6079
+DO  - 10.1061/JBENF2.BEENG-6079
+T2  - Journal of Bridge Engineering
+JF  - Journal of Bridge Engineering
+JO  - Journal of Bridge Engineering
+SP  - 04023065
+VL  - 28
+IS  - 9
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JBENF2.BEENG-6079
+UR  - https://doi.org/10.1061/JBENF2.BEENG-6079
+Y2  - 2025/09/05
+N2  - Wind barrier is an effective countermeasure to protect vehicles from the lateral wind on sea-crossing bridges. Previous studies focused on the sheltering efficiency of wind barriers and their effects on the aerodynamic/aeroelastic characteristics but ignored the analysis of intrinsic mechanism for dynamic stability, especially for flutter instability, which results only in a vague understanding of the role of wind barriers in flutter. Hence, this study paid attention to the effect mechanism of wind barriers on the flutter characteristics to generate a comprehensive understanding of the coupled relationship between wind barriers and the main structure. Wind tunnel experiments of closed box girders with different aspect ratios were first conducted to unearth the sensitivity of wind-barrier location, wind-barrier shape, wind-barrier porosity, and aspect ratios of main girders to flutter performance. The positive function of wind barriers was discovered, which was contrary to the common view that wind barriers had an adverse effect on streamlined structures. Then, the overall evolution of flutter process affected by wind barriers was investigated in detail from the flutter derivative contribution and modal participation. Simultaneously, local-region responses on the bridge surface to the installation of wind barriers were also studied by a proposed simplified local effect model based on surface fluctuating pressure. Also, the reason for the different influences of wind barriers was revealed according to the analysis from both overall and local levels. Wind barrier is an effective countermeasure to protect vehicles from the lateral wind on sea-crossing bridges. However, a modification of structural aerodynamic shape affected by wind barriers may have an adverse effect on aerodynamic stability, especially flutter instability. This study focuses on the wind-barrier effects on the flutter characteristics of closed box girders with different aspect ratios. The model test shows that there is no obvious positive or negative correspondence between wind barriers and structural flutter performance. If we can make full use of wind barriers, the flutter critical wind velocity can be improved by even 40%. Then, the flutter mechanism of wind barriers is investigated in detail based on the analysis of global derivatives, local derivatives, and unsteady pressure. Finally, the key flutter derivatives and the key function region of the deck surface are obtained, which may provide some references for the application of closed box girders in super long-span bridges.
+AB  - Wind barrier is an effective countermeasure to protect vehicles from the lateral wind on sea-crossing bridges. Previous studies focused on the sheltering efficiency of wind barriers and their effects on the aerodynamic/aeroelastic characteristics but ignored the analysis of intrinsic mechanism for dynamic stability, especially for flutter instability, which results only in a vague understanding of the role of wind barriers in flutter. Hence, this study paid attention to the effect mechanism of wind barriers on the flutter characteristics to generate a comprehensive understanding of the coupled relationship between wind barriers and the main structure. Wind tunnel experiments of closed box girders with different aspect ratios were first conducted to unearth the sensitivity of wind-barrier location, wind-barrier shape, wind-barrier porosity, and aspect ratios of main girders to flutter performance. The positive function of wind barriers was discovered, which was contrary to the common view that wind barriers had an adverse effect on streamlined structures. Then, the overall evolution of flutter process affected by wind barriers was investigated in detail from the flutter derivative contribution and modal participation. Simultaneously, local-region responses on the bridge surface to the installation of wind barriers were also studied by a proposed simplified local effect model based on surface fluctuating pressure. Also, the reason for the different influences of wind barriers was revealed according to the analysis from both overall and local levels. Wind barrier is an effective countermeasure to protect vehicles from the lateral wind on sea-crossing bridges. However, a modification of structural aerodynamic shape affected by wind barriers may have an adverse effect on aerodynamic stability, especially flutter instability. This study focuses on the wind-barrier effects on the flutter characteristics of closed box girders with different aspect ratios. The model test shows that there is no obvious positive or negative correspondence between wind barriers and structural flutter performance. If we can make full use of wind barriers, the flutter critical wind velocity can be improved by even 40%. Then, the flutter mechanism of wind barriers is investigated in detail based on the analysis of global derivatives, local derivatives, and unsteady pressure. Finally, the key flutter derivatives and the key function region of the deck surface are obtained, which may provide some references for the application of closed box girders in super long-span bridges.
+ER  - 
+
+TY  - BOOK
+PY  - 2025
+AU  - Najafzadeh Mohammad
+Y1  - 2025/06/12
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784486061
+UR  - https://doi.org/10.1061/9780784486061
+N1  - doi:10.1061/9780784486061
+M3  - doi:10.1061/9780784486061
+SP  - 0
+T3  - Books
+SN  - 9780784416334
+C1  - Implementation and Prediction
+ER  - 
+
+TY  - BOOK
+PY  - 1993
+AU  - Edge Billy L.
+Y1  - 1993/06/24
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780872629332
+UR  - https://doi.org/10.1061/9780872629332
+N1  - doi:10.1061/9780872629332
+M3  - doi:10.1061/9780872629332
+SP  - 0
+T3  - Proceedings
+SN  - 9780872629332
+ER  - 
+
+TY  - JOUR
+T1  - Balancing Interpretability and Uncertainty in Prognostic Models: A TOPSIS-Based Comparative Analysis of N-CMAPSS DS02 Methods
+AU  - Mallamo Declan P.
+AU  - Hoang Helene P.
+AU  - Azarian Michael H.
+AU  - Pecht Michael G.
+Y1  - 2025/06/01
+PY  - 2025
+DA  - 2025/06/01
+N1  - doi: 10.1115/1.4068151
+DO  - 10.1115/1.4068151
+T2  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering
+JF  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering
+JO  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering
+SP  - 021106
+VL  - 11
+IS  - 2
+PB  - American Society of Mechanical Engineers
+SN  - 9780872629332
+M3  - doi: 10.1115/1.4068151
+UR  - https://doi.org/10.1115/1.4068151
+Y2  - 2025/09/05
+N2  - Prognostic models are vital for predictive maintenance, enabling accurate prediction of remaining useful life (RUL) in complex systems. However, balancing model interpretability, accuracy, and robust uncertainty quantification remains a significant challenge. This study addresses these issues using the DS02 dataset of New Commercial Modular Aero-Propulsion System Simulation (N-CMAPSS) by developing a systematic framework that integrates interpretability, predictive accuracy, and uncertainty quantification. A key contribution is the use of the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) to rank and evaluate prognostic models based on accuracy, interpretability, and uncertainty. Additionally, the study introduces methods to separately quantify aleatory and epistemic uncertainties, offering deeper insights into model reliability. By analyzing 62 methods from 21 literature sources, this research identifies gaps, synthesizes best practices, and introduces an interpretability-accuracy map to guide model selection. Recommendations for hybrid data-driven and physics-informed approaches further enhance model robustness and applicability. This work advances the development of interpretable, accurate, and reliable prognostic systems aligned with real-world operational needs. This article is available in the ASME Digital Collection at https://doi.org/10.1115/1.4068151.
+AB  - Prognostic models are vital for predictive maintenance, enabling accurate prediction of remaining useful life (RUL) in complex systems. However, balancing model interpretability, accuracy, and robust uncertainty quantification remains a significant challenge. This study addresses these issues using the DS02 dataset of New Commercial Modular Aero-Propulsion System Simulation (N-CMAPSS) by developing a systematic framework that integrates interpretability, predictive accuracy, and uncertainty quantification. A key contribution is the use of the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) to rank and evaluate prognostic models based on accuracy, interpretability, and uncertainty. Additionally, the study introduces methods to separately quantify aleatory and epistemic uncertainties, offering deeper insights into model reliability. By analyzing 62 methods from 21 literature sources, this research identifies gaps, synthesizes best practices, and introduces an interpretability-accuracy map to guide model selection. Recommendations for hybrid data-driven and physics-informed approaches further enhance model robustness and applicability. This work advances the development of interpretable, accurate, and reliable prognostic systems aligned with real-world operational needs. This article is available in the ASME Digital Collection at https://doi.org/10.1115/1.4068151.
+ER  - 
+
+TY  - BOOK
+PY  - 2025
+AU  - Ahmad Sajjad
+AU  - Struck Scott
+AU  - Drummond Chad
+Y1  - 2025/05/15
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784486184
+UR  - https://doi.org/10.1061/9780784486184
+N1  - doi:10.1061/9780784486184
+M3  - doi:10.1061/9780784486184
+SP  - 0
+T3  - Proceedings
+C1  - Cool Solutions to Hot Topics
+ER  - 
+
+TY  - JOUR
+T1  - Experimental Study and Multiscale Finite-Element Analysis on the Flexural Behavior of Precast Bridge Slabs with Headed Bar Joints
+AU  - Zhao Qiliang
+AU  - Wang Lingmao
+AU  - Yuan Linlin
+AU  - Zhao Weijian
+AU  - Watanabe Takahiko
+AU  - Kawaguchi Tetsuo
+AU  - Takeda Hitoshi
+Y1  - 2025/05/01
+PY  - 2025
+DA  - 2025/05/01
+N1  - doi: 10.1061/JBENF2.BEENG-7107
+DO  - 10.1061/JBENF2.BEENG-7107
+T2  - Journal of Bridge Engineering
+JF  - Journal of Bridge Engineering
+JO  - Journal of Bridge Engineering
+SP  - 04025022
+VL  - 30
+IS  - 5
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JBENF2.BEENG-7107
+UR  - https://doi.org/10.1061/JBENF2.BEENG-7107
+Y2  - 2025/09/05
+N2  - To reduce the construction complexity of concrete bridge slabs, a novel-headed bar joint with high-performance fiber reinforced mortar (HPFRM) was proposed. In this study, the flexural performance of connected precast bridge slabs under different joint configurations was investigated through structural-level experiments, with a focus on the overlapping length of headed bar and the strength of the HPFRM. Four-point flexural tests were conducted considering five different parameter combinations. Furthermore, three 3D numerical simulation approaches, namely, the normal multiscale model, refined multiscale model, and normal solid model, were proposed and validated against the tests. Based on the test and numerical results, the failure mechanisms and force transmission patterns of the headed bar joint connections were analyzed. The test results indicate that higher material strength improves the flexural performance of precast bridge slabs. Given joints with the same filling material strength, the improvement of joint flexural capacity is subjected to a threshold value of overlapping length. The recommended joint width for high-strength HPFRM joints should not be <100 mm in practical design, corresponding to an overlapping length of 45.6 mm. Similarly, for medium-strength HPFRM joints, the recommended joint width should be at least 150 mm, with a corresponding overlapping length of 95 mm. Compared with the test results, all the three proposed numerical simulation methods exhibited good reliability in simulating the failure modes of the precast bridge slabs with headed bar joint connections. Moreover, the refined multiscale model exhibited higher accuracy and generalizability in simulating the interaction behavior between deformed reinforcement and the HPFRM without assuming bond?slip relationships.
+AB  - To reduce the construction complexity of concrete bridge slabs, a novel-headed bar joint with high-performance fiber reinforced mortar (HPFRM) was proposed. In this study, the flexural performance of connected precast bridge slabs under different joint configurations was investigated through structural-level experiments, with a focus on the overlapping length of headed bar and the strength of the HPFRM. Four-point flexural tests were conducted considering five different parameter combinations. Furthermore, three 3D numerical simulation approaches, namely, the normal multiscale model, refined multiscale model, and normal solid model, were proposed and validated against the tests. Based on the test and numerical results, the failure mechanisms and force transmission patterns of the headed bar joint connections were analyzed. The test results indicate that higher material strength improves the flexural performance of precast bridge slabs. Given joints with the same filling material strength, the improvement of joint flexural capacity is subjected to a threshold value of overlapping length. The recommended joint width for high-strength HPFRM joints should not be <100 mm in practical design, corresponding to an overlapping length of 45.6 mm. Similarly, for medium-strength HPFRM joints, the recommended joint width should be at least 150 mm, with a corresponding overlapping length of 95 mm. Compared with the test results, all the three proposed numerical simulation methods exhibited good reliability in simulating the failure modes of the precast bridge slabs with headed bar joint connections. Moreover, the refined multiscale model exhibited higher accuracy and generalizability in simulating the interaction behavior between deformed reinforcement and the HPFRM without assuming bond?slip relationships.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring Spatiotemporally Varying and Nonlinear Relationships between Ride-Hailing and Metro Ridership: A Case Study in Chicago
+AU  - Cen Xuekai
+AU  - Huang Ximin
+AU  - Li Chuanyao
+Y1  - 2025/10/01
+PY  - 2025
+DA  - 2025/10/01
+N1  - doi: 10.1061/JTEPBS.TEENG-9001
+DO  - 10.1061/JTEPBS.TEENG-9001
+T2  - Journal of Transportation Engineering, Part A: Systems
+JF  - Journal of Transportation Engineering, Part A: Systems
+JO  - Journal of Transportation Engineering, Part A: Systems
+SP  - 04025075
+VL  - 151
+IS  - 10
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JTEPBS.TEENG-9001
+UR  - https://doi.org/10.1061/JTEPBS.TEENG-9001
+Y2  - 2025/09/05
+N2  - Ride-hailing services have become major contributors to urban transportation systems and may influence traditional modes such as metro systems. While previous studies have explored how ride-hailing services either complement or substitute public transportation, limited research has investigated the nonlinear relationship between ride-hailing and metro ridership across different urban land uses. To fill this research gap, this study examined the nonlinear relationship between ride-hailing and metro ridership among six specific areas (commercial, green space, office, university, healthcare, and transportation hub) from global and local perspectives. We employed the light gradient boosting machine (LightGBM) model to predict metro ridership and capture the nonlinear effects of ride-hailing ridership. The Shapley additive explanations (SHAP) method was then utilized to interpret the model predictions. Using data from the case of Chicago, the feature importance analysis demonstrated that ride-hailing ridership had an important effect on predicting metro ridership. Additionally, the highest relative importance of ride-hailing on metro ridership was observed in commercial areas on Saturday. In contrast, ride-hailing?s influence was most pronounced on Friday for other land-use types. Furthermore, the results uncovered varying degrees of nonlinearity in the relationship between ride-hailing and metro ridership across commercial, green space, office, university, and healthcare areas.
+AB  - Ride-hailing services have become major contributors to urban transportation systems and may influence traditional modes such as metro systems. While previous studies have explored how ride-hailing services either complement or substitute public transportation, limited research has investigated the nonlinear relationship between ride-hailing and metro ridership across different urban land uses. To fill this research gap, this study examined the nonlinear relationship between ride-hailing and metro ridership among six specific areas (commercial, green space, office, university, healthcare, and transportation hub) from global and local perspectives. We employed the light gradient boosting machine (LightGBM) model to predict metro ridership and capture the nonlinear effects of ride-hailing ridership. The Shapley additive explanations (SHAP) method was then utilized to interpret the model predictions. Using data from the case of Chicago, the feature importance analysis demonstrated that ride-hailing ridership had an important effect on predicting metro ridership. Additionally, the highest relative importance of ride-hailing on metro ridership was observed in commercial areas on Saturday. In contrast, ride-hailing?s influence was most pronounced on Friday for other land-use types. Furthermore, the results uncovered varying degrees of nonlinearity in the relationship between ride-hailing and metro ridership across commercial, green space, office, university, and healthcare areas.
+ER  - 
+
+TY  - JOUR
+T1  - Resetting Semiactive Stiffness Damper for Seismic Response Control
+AU  - Yang Jann N.
+AU  - Kim Jin-H.
+AU  - Agrawal Anil K.
+Y1  - 2000/12/01
+PY  - 2000
+DA  - 2000/12/01
+N1  - doi: 10.1061/(ASCE)0733-9445(2000)126:12(1427)
+DO  - 10.1061/(ASCE)0733-9445(2000)126:12(1427)
+T2  - Journal of Structural Engineering
+JF  - Journal of Structural Engineering
+JO  - Journal of Structural Engineering
+SP  - 1427
+EP  - 1433
+VL  - 126
+IS  - 12
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/(ASCE)0733-9445(2000)126:12(1427)
+UR  - https://doi.org/10.1061/(ASCE)0733-9445(2000)126:12(1427)
+Y2  - 2025/09/05
+N2  - Recently, a semiactive hydraulic stiffness damper operating in the resetting mode, referred to as the resetting semiactive stiffness damper (RSASD), was shown to be effective in reducing the structural response due to dynamic loads. In this paper, a general resetting control law based on the Lyapunov theory is proposed for an RSASD. The performance of such a resetting controller and of a switching control method are investigated through extensive numerical simulations using different types of earthquake excitations. Simulation results indicate that an RSASD is more effective in suppressing the building response subject to earthquakes than a switching semiactive stiffness damper. Likewise, the performance of a particular control method depends on the types of earthquake excitations.
+AB  - Recently, a semiactive hydraulic stiffness damper operating in the resetting mode, referred to as the resetting semiactive stiffness damper (RSASD), was shown to be effective in reducing the structural response due to dynamic loads. In this paper, a general resetting control law based on the Lyapunov theory is proposed for an RSASD. The performance of such a resetting controller and of a switching control method are investigated through extensive numerical simulations using different types of earthquake excitations. Simulation results indicate that an RSASD is more effective in suppressing the building response subject to earthquakes than a switching semiactive stiffness damper. Likewise, the performance of a particular control method depends on the types of earthquake excitations.
+ER  - 
+
+TY  - JOUR
+T1  - Maneuverability-Based Approach for Ship–Bank Collision Probability under Strong Wind and Ship–Bank Interaction
+AU  - Liu Han
+AU  - Ma Ning
+AU  - Gu Xie-Chong
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - doi: 10.1061/(ASCE)WW.1943-5460.0000594
+DO  - 10.1061/(ASCE)WW.1943-5460.0000594
+T2  - Journal of Waterway, Port, Coastal, and Ocean Engineering
+JF  - Journal of Waterway, Port, Coastal, and Ocean Engineering
+JO  - Journal of Waterway, Port, Coastal, and Ocean Engineering
+SP  - 04020032
+VL  - 146
+IS  - 5
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/(ASCE)WW.1943-5460.0000594
+UR  - https://doi.org/10.1061/(ASCE)WW.1943-5460.0000594
+Y2  - 2025/09/05
+N2  - Ship?bank collisions linked to strong wind and ship?bank interaction pose a great threat to ships with large windage areas in restricted waters. In the analysis of ship?bank collision probability, maneuvering simulations with reasonable estimates of wind conditions and ship routes are important but have had little investigation. This paper presents a maneuverability-based analytical approach for evaluating the probability of a container ship colliding with a channel bank under strong wind. The Monte Carlo simulation technique is applied to conduct numerous runs of the maneuvering simulation. The steady state equations of ship motion and the time-domain simulation method are combined in this approach to detect a ship?bank collision. The input data for the simulation including wind speeds, wind directions, and ships' positions relative to the channel centerline are obtained from the meteorological data and the Automatic Identification System. The proposed approach is applied to a probabilistic analysis of a 10,000 TEU container ship entering Yangshan port, and discussion is given on the feasible ship speed and stacking configuration for reducing the probability of ship?bank collisions.
+AB  - Ship?bank collisions linked to strong wind and ship?bank interaction pose a great threat to ships with large windage areas in restricted waters. In the analysis of ship?bank collision probability, maneuvering simulations with reasonable estimates of wind conditions and ship routes are important but have had little investigation. This paper presents a maneuverability-based analytical approach for evaluating the probability of a container ship colliding with a channel bank under strong wind. The Monte Carlo simulation technique is applied to conduct numerous runs of the maneuvering simulation. The steady state equations of ship motion and the time-domain simulation method are combined in this approach to detect a ship?bank collision. The input data for the simulation including wind speeds, wind directions, and ships' positions relative to the channel centerline are obtained from the meteorological data and the Automatic Identification System. The proposed approach is applied to a probabilistic analysis of a 10,000 TEU container ship entering Yangshan port, and discussion is given on the feasible ship speed and stacking configuration for reducing the probability of ship?bank collisions.
+ER  - 
+
+TY  - BOOK
+PY  - 2025
+AU  - Wei Heng
+Y1  - 2025/06/05
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784486191
+UR  - https://doi.org/10.1061/9780784486191
+N1  - doi:10.1061/9780784486191
+M3  - doi:10.1061/9780784486191
+SP  - 0
+T3  - Proceedings
+C1  - Transportation Safety and Emerging Technologies
+ER  - 
+
+TY  - BOOK
+PY  - 2002
+AU  - Wang Kelvin C. P.
+AU  - Madanat Samer
+AU  - Nambisan Shashi
+AU  - Spring Gary
+Y1  - 2002/07/31
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784406328
+UR  - https://doi.org/10.1061/9780784406328
+N1  - doi:10.1061/9780784406328
+M3  - doi:10.1061/9780784406328
+SP  - 0
+T3  - Proceedings
+SN  - 9780784406328
+ER  - 
+
+TY  - JOUR
+T1  - Physics-Informed Neural Networks for Settlement Analysis of the Immersed Tunnel of the Hong Kong–Zhuhai–Macau Bridge
+AU  - He Shu-Yu
+AU  - Zhou Wan-Huan
+AU  - Tang Cong
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1061/IJGNAI.GMENG-8689
+DO  - 10.1061/IJGNAI.GMENG-8689
+T2  - International Journal of Geomechanics
+JF  - International Journal of Geomechanics
+JO  - International Journal of Geomechanics
+SP  - 04023241
+VL  - 24
+IS  - 1
+PB  - American Society of Civil Engineers
+SN  - 9780784406328
+M3  - doi: 10.1061/IJGNAI.GMENG-8689
+UR  - https://doi.org/10.1061/IJGNAI.GMENG-8689
+Y2  - 2025/09/05
+N2  - In this study, we propose a physics-informed neural networks algorithm that integrates a simplified physical model and neural networks for the settlement analysis and prediction of the immersed tunnel of the Hong Kong?Zhuhai?Macau Bridge (HZMB). The proposed method has high flexibility and generalizability because it integrates physical information into the loss function as a soft penalty constraint for neural network models. The uncertainty quantification is also realized with the Bayesian theorem and Markov chain Monte Carlo algorithm. A synthetic case study shows that the newly proposed method has high feasibility and efficiency for the inverse analysis of the tunnel settlement. The analysis of field data on the HZMB tunnel shows that the proposed method is applicable to practical engineering. The effect of the postconstruction settlement on the settlement prediction is discussed.
+AB  - In this study, we propose a physics-informed neural networks algorithm that integrates a simplified physical model and neural networks for the settlement analysis and prediction of the immersed tunnel of the Hong Kong?Zhuhai?Macau Bridge (HZMB). The proposed method has high flexibility and generalizability because it integrates physical information into the loss function as a soft penalty constraint for neural network models. The uncertainty quantification is also realized with the Bayesian theorem and Markov chain Monte Carlo algorithm. A synthetic case study shows that the newly proposed method has high feasibility and efficiency for the inverse analysis of the tunnel settlement. The analysis of field data on the HZMB tunnel shows that the proposed method is applicable to practical engineering. The effect of the postconstruction settlement on the settlement prediction is discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Probability Models for Live-Load Survey Results
+AU  - Corotis Ross B.
+AU  - Doshi Viresh A.
+Y1  - 1977/06/01
+PY  - 1977
+DA  - 1977/06/01
+N1  - doi: 10.1061/JSDEAG.0004651
+DO  - 10.1061/JSDEAG.0004651
+T2  - Journal of the Structural Division
+JF  - Journal of the Structural Division
+JO  - Journal of the Structural Division
+SP  - 1257
+EP  - 1274
+VL  - 103
+IS  - 6
+PB  - American Society of Civil Engineers
+SN  - 9780784406328
+M3  - doi: 10.1061/JSDEAG.0004651
+UR  - https://doi.org/10.1061/JSDEAG.0004651
+Y2  - 2025/09/05
+N2  - Structural floor load data from five major live-load surveys are analyzed probabilistically in order to determine the accuracy of fitted normal, lognormal, and gamma distributions. Histograms and scaled cumulative graphs are made for every use type from each survey and statistical goodness-of-fit tests made on the assumed distributions. Data from the surveys are combined by occupancy type to compute load levels with high probabilities of nonexceedance, and comparisons are made among conservative levels of observed loads, present design values, and the computed loads. Results indicate that the gamma distribution provides a realistic approximation to the observed data, and in particular yields excellent prediction of observed office load data up to the 99.9% cumulative level. Present design loads for offices, domestic dwellings, and mercantile occupancies appear to approximate the 99.99% cumulative level.
+AB  - Structural floor load data from five major live-load surveys are analyzed probabilistically in order to determine the accuracy of fitted normal, lognormal, and gamma distributions. Histograms and scaled cumulative graphs are made for every use type from each survey and statistical goodness-of-fit tests made on the assumed distributions. Data from the surveys are combined by occupancy type to compute load levels with high probabilities of nonexceedance, and comparisons are made among conservative levels of observed loads, present design values, and the computed loads. Results indicate that the gamma distribution provides a realistic approximation to the observed data, and in particular yields excellent prediction of observed office load data up to the 99.9% cumulative level. Present design loads for offices, domestic dwellings, and mercantile occupancies appear to approximate the 99.99% cumulative level.
+ER  - 

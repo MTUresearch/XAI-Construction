@@ -1,0 +1,419 @@
+
+TY  - JOUR
+T1  - Explainable Machine-Learning Model for Rapid Damage Assessment of CFST Columns after Close-In Explosion
+AU  - Li Jie
+AU  - Pang Yanfen
+AU  - Wang Kansheng
+AU  - Zhang Xuejie
+AU  - Wang Ning
+Y1  - 2024/06/01
+PY  - 2024
+DA  - 2024/06/01
+N1  - doi: 10.1061/JPCFEV.CFENG-4592
+DO  - 10.1061/JPCFEV.CFENG-4592
+T2  - Journal of Performance of Constructed Facilities
+JF  - Journal of Performance of Constructed Facilities
+JO  - Journal of Performance of Constructed Facilities
+SP  - 04024010
+VL  - 38
+IS  - 3
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JPCFEV.CFENG-4592
+UR  - https://doi.org/10.1061/JPCFEV.CFENG-4592
+Y2  - 2025/09/05
+N2  - In the present study, the dynamic response and damage of concrete-filled steel tubular (CFST) columns under close-in explosion were numerically studied. An extensive parametric study was carried out to investigate the effects of column height, diameter, wall thickness, yield strength of steel, compressive strength of concrete, and axial load ratio on the residual midheight displacement (RMHD) and residual axial load-bearing capacity (RALBC). It was found that the RALBC is strongly correlated with the RMHD under different explosion scenarios. Three models were developed using Extreme Gradient Boosting (XGBoost) based on a database comprising 1,708 circular CFST column samples. These models aimed to predict the relationship between RMHD and RALBC, utilizing different combinations of input variables. Accurate prediction results can be obtained from all the models, and the selection of a model can be based on the availability of known input variables. The third prediction model, which does not require knowledge of the blast loading parameters and axial load ratio, which are usually difficult to obtain, can yield accurate results. Therefore, it can be used to quickly evaluate the RALBC of CFST columns. Finally, the prediction model was further interpreted locally and globally using the additive feature attribution method Shapley Additive Explanation (SHAP). Through the SHAP interpretation, the contribution of each input variable to the RALBC of CFST columns was analyzed. This provided valuable insights into the impact of individual variables on the prediction results.
+AB  - In the present study, the dynamic response and damage of concrete-filled steel tubular (CFST) columns under close-in explosion were numerically studied. An extensive parametric study was carried out to investigate the effects of column height, diameter, wall thickness, yield strength of steel, compressive strength of concrete, and axial load ratio on the residual midheight displacement (RMHD) and residual axial load-bearing capacity (RALBC). It was found that the RALBC is strongly correlated with the RMHD under different explosion scenarios. Three models were developed using Extreme Gradient Boosting (XGBoost) based on a database comprising 1,708 circular CFST column samples. These models aimed to predict the relationship between RMHD and RALBC, utilizing different combinations of input variables. Accurate prediction results can be obtained from all the models, and the selection of a model can be based on the availability of known input variables. The third prediction model, which does not require knowledge of the blast loading parameters and axial load ratio, which are usually difficult to obtain, can yield accurate results. Therefore, it can be used to quickly evaluate the RALBC of CFST columns. Finally, the prediction model was further interpreted locally and globally using the additive feature attribution method Shapley Additive Explanation (SHAP). Through the SHAP interpretation, the contribution of each input variable to the RALBC of CFST columns was analyzed. This provided valuable insights into the impact of individual variables on the prediction results.
+ER  - 
+
+TY  - JOUR
+T1  - The Future of AI in  Asset Management
+AU  - Stahl Matt
+Y1  - 2024/11/01
+PY  - 2024
+DA  - 2024/11/01
+N1  - doi: 10.1061/ciegag.0001751
+DO  - 10.1061/ciegag.0001751
+T2  - Civil Engineering Magazine
+JF  - Civil Engineering Magazine
+JO  - Civil Engineering Magazine
+SP  - 52
+EP  - 59
+VL  - 94
+IS  - 6
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/ciegag.0001751
+UR  - https://doi.org/10.1061/ciegag.0001751
+Y2  - 2025/09/05
+N2  - Artificial intelligence will transform utility asset management, helping even the most complex infrastructure cases.
+AB  - Artificial intelligence will transform utility asset management, helping even the most complex infrastructure cases.
+ER  - 
+
+TY  - JOUR
+T1  - Data-Driven Bridge Maintenance Cost Estimation Framework for Annual Expenditure Planning
+AU  - Lee Gyueun
+AU  - Chang Taeyeon
+AU  - Chi Seokho
+Y1  - 2024/03/01
+PY  - 2024
+DA  - 2024/03/01
+N1  - doi: 10.1061/JMENEA.MEENG-5706
+DO  - 10.1061/JMENEA.MEENG-5706
+T2  - Journal of Management in Engineering
+JF  - Journal of Management in Engineering
+JO  - Journal of Management in Engineering
+SP  - 04023068
+VL  - 40
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JMENEA.MEENG-5706
+UR  - https://doi.org/10.1061/JMENEA.MEENG-5706
+Y2  - 2025/09/05
+N2  - Bridge maintenance costs have increased due to the growth in the number of facilities and their extended periods of use. The distribution of the limited maintenance budget by considering the conditions and properties of the bridge is highly required. While much research exists to provide rough estimates of maintenance costs based on indicators, there has been a lack of a framework that incorporates historical management data at the bridge element and repair method levels. This study proposed a framework for estimating bridge maintenance costs using historical records collected in the Korean bridge management system (BMS), involving several phases of data integration. First, unit cost estimation models by repair methods were generated using the extreme gradient boosting algorithm, utilizing repair project records. A total of 31 models were developed with the average weighted f1-score of 0.82. Subsequently, these models were employed to update expected repair costs for each bridge defect recorded in the inspection reports. As a result, the updated individual costs were aggregated to estimate the required expenditure of the bridge maintenance based on its condition grade, which can be used to estimate the annual maintenance expenditure for the following years. The proposed framework underwent validation focusing on bridge elements such as deck, pier/abutment, and pavement. The error rates differed with 25.37% for deck, 8.27% for pier/abutment, and 27.18% for pavement, influenced by data availability and variation element characteristics. This framework contributes to the body of knowledge regarding bridge maintenance by incorporating historical data with data-driven approaches. As a result, it assists decision-makers in gaining a better understanding of the required cost information, ultimately enhancing the decision-making process.
+AB  - Bridge maintenance costs have increased due to the growth in the number of facilities and their extended periods of use. The distribution of the limited maintenance budget by considering the conditions and properties of the bridge is highly required. While much research exists to provide rough estimates of maintenance costs based on indicators, there has been a lack of a framework that incorporates historical management data at the bridge element and repair method levels. This study proposed a framework for estimating bridge maintenance costs using historical records collected in the Korean bridge management system (BMS), involving several phases of data integration. First, unit cost estimation models by repair methods were generated using the extreme gradient boosting algorithm, utilizing repair project records. A total of 31 models were developed with the average weighted f1-score of 0.82. Subsequently, these models were employed to update expected repair costs for each bridge defect recorded in the inspection reports. As a result, the updated individual costs were aggregated to estimate the required expenditure of the bridge maintenance based on its condition grade, which can be used to estimate the annual maintenance expenditure for the following years. The proposed framework underwent validation focusing on bridge elements such as deck, pier/abutment, and pavement. The error rates differed with 25.37% for deck, 8.27% for pier/abutment, and 27.18% for pavement, influenced by data availability and variation element characteristics. This framework contributes to the body of knowledge regarding bridge maintenance by incorporating historical data with data-driven approaches. As a result, it assists decision-makers in gaining a better understanding of the required cost information, ultimately enhancing the decision-making process.
+ER  - 
+
+TY  - JOUR
+T1  - Physics-Informed Explainable AI and SMOTE-GPC for the Classification of Surrounding Rock Mass in Tunneling
+AU  - Song Chao
+AU  - Zhao Tengyuan
+AU  - Xu Ling
+Y1  - 2025/06/01
+PY  - 2025
+DA  - 2025/06/01
+N1  - doi: 10.1061/AJRUA6.RUENG-1519
+DO  - 10.1061/AJRUA6.RUENG-1519
+T2  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+JF  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+JO  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+SP  - 04025021
+VL  - 11
+IS  - 2
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/AJRUA6.RUENG-1519
+UR  - https://doi.org/10.1061/AJRUA6.RUENG-1519
+Y2  - 2025/09/05
+N2  - The classification of surrounding rock mass is essential for characterizing rock properties and geological conditions in tunneling engineering. While numerous empirical rock mass classification systems have been proposed (e.g., rock mass rating system, rock structure rating system), they tend to heavily rely on engineers? experience, which is unfavorable for tunnel construction, particularly in deep-buried and ultralong tunnels. Alternatively, machine learning, i.e., artificial intelligence (AI), methods estimate the classification of the surrounding rock mass using certain readily available rock indices (e.g., volumetric joint count). However, most machine learning models are considered black box models, leading to unexplainable predictions. In addition, employing all measurements of readily available rock indices as input may lead to excessive model complexity and a reduction in generalization performance. In this case, a Gaussian process classification (GPC) approach combined with the synthetic minority oversampling technique (SMOTE), Bayesian framework, and SHapley Additive exPlanations is proposed in this study for the probabilistic classification of the surrounding rock mass and selection of the optimal GPC model based on imbalanced and sparse measurement data. It is worth noting that the proposed method can also provide physics-informed explanations for the prediction and model class selection results and determine the significant input variables for each grade of the surrounding rock mass. A real-life example is employed to illustrate and validate the proposed approach. The results show that the F1 score of the optimal GPC model reaches 0.93, which is comparable with those of the GPC model with all input variables.
+AB  - The classification of surrounding rock mass is essential for characterizing rock properties and geological conditions in tunneling engineering. While numerous empirical rock mass classification systems have been proposed (e.g., rock mass rating system, rock structure rating system), they tend to heavily rely on engineers? experience, which is unfavorable for tunnel construction, particularly in deep-buried and ultralong tunnels. Alternatively, machine learning, i.e., artificial intelligence (AI), methods estimate the classification of the surrounding rock mass using certain readily available rock indices (e.g., volumetric joint count). However, most machine learning models are considered black box models, leading to unexplainable predictions. In addition, employing all measurements of readily available rock indices as input may lead to excessive model complexity and a reduction in generalization performance. In this case, a Gaussian process classification (GPC) approach combined with the synthetic minority oversampling technique (SMOTE), Bayesian framework, and SHapley Additive exPlanations is proposed in this study for the probabilistic classification of the surrounding rock mass and selection of the optimal GPC model based on imbalanced and sparse measurement data. It is worth noting that the proposed method can also provide physics-informed explanations for the prediction and model class selection results and determine the significant input variables for each grade of the surrounding rock mass. A real-life example is employed to illustrate and validate the proposed approach. The results show that the F1 score of the optimal GPC model reaches 0.93, which is comparable with those of the GPC model with all input variables.
+ER  - 
+
+TY  - JOUR
+T1  - Investigation into Explainable Regression Trees for Construction Engineering Applications
+AU  - Naumets Serhii
+AU  - Lu Ming
+Y1  - 2021/08/01
+PY  - 2021
+DA  - 2021/08/01
+N1  - doi: 10.1061/(ASCE)CO.1943-7862.0002083
+DO  - 10.1061/(ASCE)CO.1943-7862.0002083
+T2  - Journal of Construction Engineering and Management
+JF  - Journal of Construction Engineering and Management
+JO  - Journal of Construction Engineering and Management
+SP  - 04021084
+VL  - 147
+IS  - 8
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/(ASCE)CO.1943-7862.0002083
+UR  - https://doi.org/10.1061/(ASCE)CO.1943-7862.0002083
+Y2  - 2025/09/05
+N2  - The logic of an artificial intelligence (AI) model derived from machine learning algorithms and domain-specific data is analogous to an expert?s perception of a complex problem. Human insight based on know-how and experience also provides the best clue to verify such analytical models generalized from data. To facilitate the acceptance and implementation of AI by industry professionals, we explored the least complicated form of model that still is sufficient to represent the complexities of real-world problems. This research established a framework to apply the M5P model tree in the context of producing explainable AI for practical applications. The explanatory information derived from M5P (a decision tree with linear regressions at leaf nodes) is instrumental in explaining how the more complicated AI model reasons for the same problem, illuminating the sufficiency of problem definition and data quality, and distinguishing valid submodels from invalid ones in the obtained model tree. A steel fabrication labor cost?estimating case and a concrete strength development case were given for method validation and application demonstration.
+AB  - The logic of an artificial intelligence (AI) model derived from machine learning algorithms and domain-specific data is analogous to an expert?s perception of a complex problem. Human insight based on know-how and experience also provides the best clue to verify such analytical models generalized from data. To facilitate the acceptance and implementation of AI by industry professionals, we explored the least complicated form of model that still is sufficient to represent the complexities of real-world problems. This research established a framework to apply the M5P model tree in the context of producing explainable AI for practical applications. The explanatory information derived from M5P (a decision tree with linear regressions at leaf nodes) is instrumental in explaining how the more complicated AI model reasons for the same problem, illuminating the sufficiency of problem definition and data quality, and distinguishing valid submodels from invalid ones in the obtained model tree. A steel fabrication labor cost?estimating case and a concrete strength development case were given for method validation and application demonstration.
+ER  - 
+
+TY  - BOOK
+PY  - 2024
+AU  - Turkan Yelda
+AU  - Louis Joseph
+AU  - Leite Fernanda
+AU  - Ergan Semiha
+Y1  - 2024/01/25
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485248
+UR  - https://doi.org/10.1061/9780784485248
+N1  - doi:10.1061/9780784485248
+M3  - doi:10.1061/9780784485248
+SP  - 0
+T3  - Proceedings
+C1  - Resilience, Safety, and Sustainability
+ER  - 
+
+TY  - BOOK
+PY  - 2024
+AU  - Turkan Yelda
+AU  - Louis Joseph
+AU  - Leite Fernanda
+AU  - Ergan Semiha
+Y1  - 2024/01/25
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485248
+UR  - https://doi.org/10.1061/9780784485248
+N1  - doi:10.1061/9780784485248
+M3  - doi:10.1061/9780784485248
+SP  - 0
+T3  - Proceedings
+C1  - Resilience, Safety, and Sustainability
+ER  - 
+
+TY  - JOUR
+T1  - Estimating Belief Updates in AI-Driven Drone Controls for Urban Search and Rescue Operations
+AU  - Sun Bowen
+AU  - Wu Jiahao
+AU  - You Hengxu
+AU  - Du Jing
+Y1  - 2025/09/01
+PY  - 2025
+DA  - 2025/09/01
+N1  - doi: 10.1061/JCEMD4.COENG-15747
+DO  - 10.1061/JCEMD4.COENG-15747
+T2  - Journal of Construction Engineering and Management
+JF  - Journal of Construction Engineering and Management
+JO  - Journal of Construction Engineering and Management
+SP  - 04025128
+VL  - 151
+IS  - 9
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCEMD4.COENG-15747
+UR  - https://doi.org/10.1061/JCEMD4.COENG-15747
+Y2  - 2025/09/05
+N2  - Recent advancements in artificial intelligence (AI) have significantly enhanced the capabilities of autonomous systems in complex decision making within challenging built environments, particularly in urban search and rescue (USAR) operations, a critical component of postdisaster response. These operations require swift decision making to balance conflicting objectives, such as optimizing path planning while ensuring comprehensive environmental mapping. Current Explainable AI (XAI) approaches often focus on rationalizing or explaining the decision outcomes of AI agents but do not adequately address the methodologies needed to understand how AI systems adapt their belief systems based on real-time, limited local data, such as wind disturbances and obstacle distributions. This paper introduces an evidence accumulation model inspired by cognitive psychology, designed to estimate AI belief updates. Utilizing multiobjective reinforcement learning (MORL), this model trains drones in simulated urban settings characterized by dynamic wind fields. A reverse reasoning approach is then applied to interpret AI decisions using collected behavioral data and environmental observations. A comprehensive simulation study was conducted to assess the effectiveness of this model. The results demonstrate that the model effectively identifies how limited local information influences AI behavior after belief updates, offering a human cognitive analysis perspective to rationalize AI actions. This research contributes innovative methodologies for explaining the sophisticated cognitive flow of AI systems, laying the groundwork for improved human-AI alignment in postdisaster applications in urban settings.
+AB  - Recent advancements in artificial intelligence (AI) have significantly enhanced the capabilities of autonomous systems in complex decision making within challenging built environments, particularly in urban search and rescue (USAR) operations, a critical component of postdisaster response. These operations require swift decision making to balance conflicting objectives, such as optimizing path planning while ensuring comprehensive environmental mapping. Current Explainable AI (XAI) approaches often focus on rationalizing or explaining the decision outcomes of AI agents but do not adequately address the methodologies needed to understand how AI systems adapt their belief systems based on real-time, limited local data, such as wind disturbances and obstacle distributions. This paper introduces an evidence accumulation model inspired by cognitive psychology, designed to estimate AI belief updates. Utilizing multiobjective reinforcement learning (MORL), this model trains drones in simulated urban settings characterized by dynamic wind fields. A reverse reasoning approach is then applied to interpret AI decisions using collected behavioral data and environmental observations. A comprehensive simulation study was conducted to assess the effectiveness of this model. The results demonstrate that the model effectively identifies how limited local information influences AI behavior after belief updates, offering a human cognitive analysis perspective to rationalize AI actions. This research contributes innovative methodologies for explaining the sophisticated cognitive flow of AI systems, laying the groundwork for improved human-AI alignment in postdisaster applications in urban settings.
+ER  - 
+
+TY  - JOUR
+T1  - Global Sensitivity Analysis Methodology for Construction Simulation Models: Multiple Linear Regressions versus Multilayer Perceptions
+AU  - Wang Sida
+AU  - Hasan Monjurul
+AU  - Lu Ming
+Y1  - 2024/05/01
+PY  - 2024
+DA  - 2024/05/01
+N1  - doi: 10.1061/JCEMD4.COENG-14059
+DO  - 10.1061/JCEMD4.COENG-14059
+T2  - Journal of Construction Engineering and Management
+JF  - Journal of Construction Engineering and Management
+JO  - Journal of Construction Engineering and Management
+SP  - 04024035
+VL  - 150
+IS  - 5
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCEMD4.COENG-14059
+UR  - https://doi.org/10.1061/JCEMD4.COENG-14059
+Y2  - 2025/09/05
+N2  - In this research, the multilayer perceptron (MLP), also known as error backpropagation neural networks, is made transparent and explainable by contrasting with the commonly applied multiple linear regression (MLR). A novel MLP-based method for performing global sensitivity analysis is formalized to tackle complicated, nonexplainable simulation models or artificial intelligence (AI) models, which were developed to support critical decisions in construction engineering. The sensitivity analysis results serve as further evidence to validate the decision support models and lend new insights into the problems under investigation. The proposed new method was applied in two case studies in construction engineering, they are: precast viaduct installation cycles and concrete strength development. In both applications, the results of sensitivity analysis were represented in straightforward forms and effectively cross-checked with the existing knowledge of the problem domain or the experiences of construction practitioners.
+AB  - In this research, the multilayer perceptron (MLP), also known as error backpropagation neural networks, is made transparent and explainable by contrasting with the commonly applied multiple linear regression (MLR). A novel MLP-based method for performing global sensitivity analysis is formalized to tackle complicated, nonexplainable simulation models or artificial intelligence (AI) models, which were developed to support critical decisions in construction engineering. The sensitivity analysis results serve as further evidence to validate the decision support models and lend new insights into the problems under investigation. The proposed new method was applied in two case studies in construction engineering, they are: precast viaduct installation cycles and concrete strength development. In both applications, the results of sensitivity analysis were represented in straightforward forms and effectively cross-checked with the existing knowledge of the problem domain or the experiences of construction practitioners.
+ER  - 
+
+TY  - JOUR
+T1  - Role of Shapley Additive Explanations and Resampling Algorithms for Contract Failure Prediction of Public–Private Partnership Projects
+AU  - Koc Kerim
+Y1  - 2023/09/01
+PY  - 2023
+DA  - 2023/09/01
+N1  - doi: 10.1061/JMENEA.MEENG-5492
+DO  - 10.1061/JMENEA.MEENG-5492
+T2  - Journal of Management in Engineering
+JF  - Journal of Management in Engineering
+JO  - Journal of Management in Engineering
+SP  - 04023031
+VL  - 39
+IS  - 5
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JMENEA.MEENG-5492
+UR  - https://doi.org/10.1061/JMENEA.MEENG-5492
+Y2  - 2025/09/05
+N2  - A public?private partnership (PPP) is a common procurement model implemented worldwide as a catalyst for economic growth and improved public infrastructure. However, due to their inherent characteristics, the risk of failure in some PPP projects is high, causing heavy losses to both entities. Despite distinctive progress being made in PPP projects to reduce their failure probability, there is no proper and effective framework to predict PPP project failure in advance in either developing or in developed countries. The present study aims to develop a machine learning (ML) model to predict the failure of PPP projects to prosper in adverse conditions. This research addresses two critical issues, i.e., class imbalance and interpretability of ML models, that differentiate the current study from data-driven studies to date. First, existing studies usually focused on comparing and selecting the most adequate ML methods, but this study distinctively compared the performances of nine data resampling algorithms. Besides, in order to enhance the interpretability and visibility of the proposed model, a game theory?based feature investigation algorithm, Shapley additive explanations (SHAP), was used to identify not only the most significant features, but also the conditions of the features that cause failure or success in PPP projects. The findings illustrate that the proposed model yielded the highest prediction performance once the data set was resampled with the support vector machine-synthetic minority oversampling technique (SVM-SMOTE). SHAP analysis further shows that unsolicited proposals, domestic credit to the private sector, and project type/subtype have significant impacts on the prediction rationale. Overall, this study contributes to theory through incorporating resampling methods and SHAP algorithm into ML models as well as to practice with an advanced and reliable model to predict the status of PPP projects. The data-driven model and findings are expected to respond to current policy and industry needs by proposing a robust decision-making input for detecting risky PPP projects, allocating resources more effectively based on the most critical failure factors, and promoting the transparency of PPP project outcomes.
+AB  - A public?private partnership (PPP) is a common procurement model implemented worldwide as a catalyst for economic growth and improved public infrastructure. However, due to their inherent characteristics, the risk of failure in some PPP projects is high, causing heavy losses to both entities. Despite distinctive progress being made in PPP projects to reduce their failure probability, there is no proper and effective framework to predict PPP project failure in advance in either developing or in developed countries. The present study aims to develop a machine learning (ML) model to predict the failure of PPP projects to prosper in adverse conditions. This research addresses two critical issues, i.e., class imbalance and interpretability of ML models, that differentiate the current study from data-driven studies to date. First, existing studies usually focused on comparing and selecting the most adequate ML methods, but this study distinctively compared the performances of nine data resampling algorithms. Besides, in order to enhance the interpretability and visibility of the proposed model, a game theory?based feature investigation algorithm, Shapley additive explanations (SHAP), was used to identify not only the most significant features, but also the conditions of the features that cause failure or success in PPP projects. The findings illustrate that the proposed model yielded the highest prediction performance once the data set was resampled with the support vector machine-synthetic minority oversampling technique (SVM-SMOTE). SHAP analysis further shows that unsolicited proposals, domestic credit to the private sector, and project type/subtype have significant impacts on the prediction rationale. Overall, this study contributes to theory through incorporating resampling methods and SHAP algorithm into ML models as well as to practice with an advanced and reliable model to predict the status of PPP projects. The data-driven model and findings are expected to respond to current policy and industry needs by proposing a robust decision-making input for detecting risky PPP projects, allocating resources more effectively based on the most critical failure factors, and promoting the transparency of PPP project outcomes.
+ER  - 
+
+TY  - BOOK
+PY  - 2022
+AU  - Raymond A. Issa R.
+Y1  - 2022/05/24
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784483893
+UR  - https://doi.org/10.1061/9780784483893
+N1  - doi:10.1061/9780784483893
+M3  - doi:10.1061/9780784483893
+SP  - 0
+T3  - Proceedings
+ER  - 
+
+TY  - JOUR
+T1  - CLEMSON: An Automated Machine-Learning Virtual Assistant for Accelerated, Simulation-Free, Transparent, Reduced-Order, and Inference-Based Reconstruction of Fire Response of Structural Members
+AU  - Naser M. Z.
+Y1  - 2022/09/01
+PY  - 2022
+DA  - 2022/09/01
+N1  - doi: 10.1061/(ASCE)ST.1943-541X.0003399
+DO  - 10.1061/(ASCE)ST.1943-541X.0003399
+T2  - Journal of Structural Engineering
+JF  - Journal of Structural Engineering
+JO  - Journal of Structural Engineering
+SP  - 04022120
+VL  - 148
+IS  - 9
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/(ASCE)ST.1943-541X.0003399
+UR  - https://doi.org/10.1061/(ASCE)ST.1943-541X.0003399
+Y2  - 2025/09/05
+N2  - This paper introduces CLEMSON, an automated machine-learning (AutoML) virtual assistant (VA) that enables engineers to carry acCeLErated, siMulation-free, tranSparent, reduced-Order, and infereNce-based fire resistance analysis with ease. This VA learns from physical observations taken from real fire tests to bypass bottlenecks and ab initio calculations associated with traditional structural fire engineering methods. CLEMSON leverages a competitive ML algorithm search to identify those most suited for a given problem and then blend them into a cohesive ensemble to realize faster and reduced-order assimilation of predictions, thereby attaining higher accuracy and reliability. In addition, this VA is designed to be transparent and hence is supplemented with explainability measures to allow users to identify key factors driving its rationale and predictions. Once fully realized, CLEMSON augments its inner workings into a graphical user interface that can be used in a coding-free manner and with enriched visualization tools to allow users to directly harness the power of ML without the need for special software. To showcase the merit of the proposed VA, CLEMSON is applied to assess classification and regression problems by means of evaluating fire resistance rating, as well as temperature rise history and deformation history of concrete-filled steel tubular (CFST) columns via five algorithms, namely: extreme gradient boosted trees, light gradient boosted trees, neural networks, random forest, and TensorFlow. Finally, this work also introduces three new and functional performance metrics that are explicitly derived for structural fire engineering applications and hence can be used to cross-check the validity of ML models.
+AB  - This paper introduces CLEMSON, an automated machine-learning (AutoML) virtual assistant (VA) that enables engineers to carry acCeLErated, siMulation-free, tranSparent, reduced-Order, and infereNce-based fire resistance analysis with ease. This VA learns from physical observations taken from real fire tests to bypass bottlenecks and ab initio calculations associated with traditional structural fire engineering methods. CLEMSON leverages a competitive ML algorithm search to identify those most suited for a given problem and then blend them into a cohesive ensemble to realize faster and reduced-order assimilation of predictions, thereby attaining higher accuracy and reliability. In addition, this VA is designed to be transparent and hence is supplemented with explainability measures to allow users to identify key factors driving its rationale and predictions. Once fully realized, CLEMSON augments its inner workings into a graphical user interface that can be used in a coding-free manner and with enriched visualization tools to allow users to directly harness the power of ML without the need for special software. To showcase the merit of the proposed VA, CLEMSON is applied to assess classification and regression problems by means of evaluating fire resistance rating, as well as temperature rise history and deformation history of concrete-filled steel tubular (CFST) columns via five algorithms, namely: extreme gradient boosted trees, light gradient boosted trees, neural networks, random forest, and TensorFlow. Finally, this work also introduces three new and functional performance metrics that are explicitly derived for structural fire engineering applications and hence can be used to cross-check the validity of ML models.
+ER  - 
+
+TY  - JOUR
+T1  - Formulation of Feature and Label Space Using Modified Delphi in Support of Developing a Machine-Learning Algorithm to Automate Clash Resolution
+AU  - Harode Ashit
+AU  - Thabet Walid
+AU  - Leite Fernanda
+Y1  - 2024/03/01
+PY  - 2024
+DA  - 2024/03/01
+N1  - doi: 10.1061/JCEMD4.COENG-14167
+DO  - 10.1061/JCEMD4.COENG-14167
+T2  - Journal of Construction Engineering and Management
+JF  - Journal of Construction Engineering and Management
+JO  - Journal of Construction Engineering and Management
+SP  - 04023173
+VL  - 150
+IS  - 3
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCEMD4.COENG-14167
+UR  - https://doi.org/10.1061/JCEMD4.COENG-14167
+Y2  - 2025/09/05
+N2  - To improve the current manual and iterative nature of clash resolution on construction projects, current research efforts continue to explore and test the utilization of machine-learning algorithms to automate the process. Though current research shows significant accuracy in automating clash resolution, many have failed to provide clear explanation and justification for the selection of their feature and label space. Since this is critical in developing an effective and explainable solution in machine learning, it is crucial to address this research gap. In this paper, the authors utilize an in-depth literature review and industry interviews to capture domain knowledge on how design clashes are resolved by industry experts. From analysis of the knowledge captured, we identified 23 factors considered by experts when resolving clashes and five alternative solutions/options to resolve a clash. Using a pool of industry experts, a modified Delphi approach was conducted to validate the factors and options and to determine a priority ranking. The authors identified 94 industry experts based on a predetermined qualification matrix to take part in the modified Delphi. Twelve participants responded and took part in the first round, and 11 completed the second round. A consensus was reached on all clash factors and resolution options. Factors including ?clashing elements type,? ?constrained slope,? ?critical element in the clash,? ?location of the clash,? ?code compliance,? and ?project stage clashing element is in? were ranked as the most important factors, while ?clashing element material? and ?insulation type? were considered the least important. Participants also showed more preference to the ?moving the clashing element with low priority in/along x-y-z directions? option to resolve clashes. These identified factors and options will be utilized to collect specific clash data to train and test effective and explainable machine-learning algorithms toward automating clash resolution.
+AB  - To improve the current manual and iterative nature of clash resolution on construction projects, current research efforts continue to explore and test the utilization of machine-learning algorithms to automate the process. Though current research shows significant accuracy in automating clash resolution, many have failed to provide clear explanation and justification for the selection of their feature and label space. Since this is critical in developing an effective and explainable solution in machine learning, it is crucial to address this research gap. In this paper, the authors utilize an in-depth literature review and industry interviews to capture domain knowledge on how design clashes are resolved by industry experts. From analysis of the knowledge captured, we identified 23 factors considered by experts when resolving clashes and five alternative solutions/options to resolve a clash. Using a pool of industry experts, a modified Delphi approach was conducted to validate the factors and options and to determine a priority ranking. The authors identified 94 industry experts based on a predetermined qualification matrix to take part in the modified Delphi. Twelve participants responded and took part in the first round, and 11 completed the second round. A consensus was reached on all clash factors and resolution options. Factors including ?clashing elements type,? ?constrained slope,? ?critical element in the clash,? ?location of the clash,? ?code compliance,? and ?project stage clashing element is in? were ranked as the most important factors, while ?clashing element material? and ?insulation type? were considered the least important. Participants also showed more preference to the ?moving the clashing element with low priority in/along x-y-z directions? option to resolve clashes. These identified factors and options will be utilized to collect specific clash data to train and test effective and explainable machine-learning algorithms toward automating clash resolution.
+ER  - 
+
+TY  - BOOK
+PY  - 2024
+AU  - Evans T. Matthew
+AU  - Stark Nina
+AU  - Chang Susan
+Y1  - 2024/02/22
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485347
+UR  - https://doi.org/10.1061/9780784485347
+N1  - doi:10.1061/9780784485347
+M3  - doi:10.1061/9780784485347
+SP  - 0
+T3  - Proceedings
+C1  - Geotechnical Data Analysis and Computation
+ER  - 
+
+TY  - BOOK
+PY  - 2025
+AU  - Wei Heng
+Y1  - 2025/06/05
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784486191
+UR  - https://doi.org/10.1061/9780784486191
+N1  - doi:10.1061/9780784486191
+M3  - doi:10.1061/9780784486191
+SP  - 0
+T3  - Proceedings
+C1  - Transportation Safety and Emerging Technologies
+ER  - 
+
+TY  - JOUR
+T1  - Development of Multimodal Recommender System for Advancing Design for Safety with Expert Validation
+AU  - Kumi Louis
+AU  - Jeong Jaewook
+AU  - Jeong Jaemin
+AU  - Mun Hyeongjun
+Y1  - 2025/09/01
+PY  - 2025
+DA  - 2025/09/01
+N1  - doi: 10.1061/JCEMD4.COENG-16802
+DO  - 10.1061/JCEMD4.COENG-16802
+T2  - Journal of Construction Engineering and Management
+JF  - Journal of Construction Engineering and Management
+JO  - Journal of Construction Engineering and Management
+SP  - 04025114
+VL  - 151
+IS  - 9
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCEMD4.COENG-16802
+UR  - https://doi.org/10.1061/JCEMD4.COENG-16802
+Y2  - 2025/09/05
+N2  - Construction projects often struggle to integrate safety considerations effectively and identify hazards comprehensively during the design phase. Design for Safety (DfS) is a promising approach to embedding safety into the design phase, but traditional DfS practices are often subjective, time-consuming, and limited by human error. These challenges result in inconsistent safety outcomes and hinder the adoption of DfS in real-world projects. This study addresses these limitations by developing a novel multimodal recommender system that combines textual and image data to provide tailored DfS recommendations. By employing cosine similarity for feature analysis, the system integrates user input to generate relevant and actionable safety suggestions. User interaction is facilitated through a user-friendly web application, which enables construction professionals to access and apply recommendations efficiently. The system was evaluated by industry experts, achieving an average normalized discounted cumulative gain (NDCG) score of 0.63, demonstrating its strong alignment with expert relevance assessments. Additionally, the system revealed notable strengths, including ease of use (3.37/5), intuitiveness (3.40/5), and relevance of recommendations (3.73/5). Correlation analysis identified strong links between these factors and overall user satisfaction. This study introduces a cutting-edge approach that bridges the gap between theoretical DfS principles and their practical application, contributing to streamlined workflows, enhanced safety outcomes, and empowered decision making for construction professionals.
+AB  - Construction projects often struggle to integrate safety considerations effectively and identify hazards comprehensively during the design phase. Design for Safety (DfS) is a promising approach to embedding safety into the design phase, but traditional DfS practices are often subjective, time-consuming, and limited by human error. These challenges result in inconsistent safety outcomes and hinder the adoption of DfS in real-world projects. This study addresses these limitations by developing a novel multimodal recommender system that combines textual and image data to provide tailored DfS recommendations. By employing cosine similarity for feature analysis, the system integrates user input to generate relevant and actionable safety suggestions. User interaction is facilitated through a user-friendly web application, which enables construction professionals to access and apply recommendations efficiently. The system was evaluated by industry experts, achieving an average normalized discounted cumulative gain (NDCG) score of 0.63, demonstrating its strong alignment with expert relevance assessments. Additionally, the system revealed notable strengths, including ease of use (3.37/5), intuitiveness (3.40/5), and relevance of recommendations (3.73/5). Correlation analysis identified strong links between these factors and overall user satisfaction. This study introduces a cutting-edge approach that bridges the gap between theoretical DfS principles and their practical application, contributing to streamlined workflows, enhanced safety outcomes, and empowered decision making for construction professionals.
+ER  - 
+
+TY  - BOOK
+PY  - 2024
+AU  - Turkan Yelda
+AU  - Louis Joseph
+AU  - Leite Fernanda
+AU  - Ergan Semiha
+Y1  - 2024/01/25
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485224
+UR  - https://doi.org/10.1061/9780784485224
+N1  - doi:10.1061/9780784485224
+M3  - doi:10.1061/9780784485224
+SP  - 0
+T3  - Proceedings
+C1  - Data, Sensing, and Analytics
+ER  - 
+
+TY  - BOOK
+PY  - 2025
+AU  - Wang Yaowu
+AU  - Su Cheng
+AU  - Shen Geoffrey Q. P.
+Y1  - 2025/03/26
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784485910
+UR  - https://doi.org/10.1061/9780784485910
+N1  - doi:10.1061/9780784485910
+M3  - doi:10.1061/9780784485910
+SP  - 0
+T3  - Proceedings
+C1  - ESG Development in the Construction Industry
+ER  - 
+
+TY  - JOUR
+T1  - Biometric Evaluation and Immersive Construction Environments: A Research Overview of the Current Landscape, Challenges, and Future Prospects
+AU  - Chen Hao
+AU  - Dong Zhao
+AU  - Chan Isabelle Y. S.
+Y1  - 2025/07/01
+PY  - 2025
+DA  - 2025/07/01
+N1  - doi: 10.1061/JCEMD4.COENG-15872
+DO  - 10.1061/JCEMD4.COENG-15872
+T2  - Journal of Construction Engineering and Management
+JF  - Journal of Construction Engineering and Management
+JO  - Journal of Construction Engineering and Management
+SP  - 03125005
+VL  - 151
+IS  - 7
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JCEMD4.COENG-15872
+UR  - https://doi.org/10.1061/JCEMD4.COENG-15872
+Y2  - 2025/09/05
+N2  - Immersive technology, a collection of virtual reality, augmented reality, and mixed reality, has been applied to many aspects of the construction industry. To evaluate immersive technology?related experiments, many evaluation approaches have been proposed, which can be categorized as quantitative-based and qualitative-based. With the advancement of the neuroscience discipline, there is an emerging trend in deploying biometric sensors to evaluate physiological responses when participants are exposed to virtual stimuli in an immersive environment, which can be categorized as biometric-based evaluation. This study aims to review state-of-the-art biometric-based evaluations in a variety of immersive technologies (ImTs) in construction. A total of 43 articles published from 2018 to 2024 are included. The systematic review of selected articles produced five research themes: (1) ImT usability evaluation; (2) learning experience and performance; (3) general construction tasks; (4) human?robot collaboration; and (5) hazard identification and risk perceptions. The summarizations revealed that biometric sensors have been increasingly adopted to understand the psychophysiological and cognitive process when exposed to a stimulus in ImT environments without physically exposing workers to danger. This study also summarized limitations and future directions in four aspects, including ImT development, biometric deployment, biometric-based ImT development, and application potentials in the construction industry. The obtained knowledge is expected to benefit the researchers from an overview of the applications of using biometric sensors in immersive environments and promote the integration of biometric and immersive technology in the construction industry.
+AB  - Immersive technology, a collection of virtual reality, augmented reality, and mixed reality, has been applied to many aspects of the construction industry. To evaluate immersive technology?related experiments, many evaluation approaches have been proposed, which can be categorized as quantitative-based and qualitative-based. With the advancement of the neuroscience discipline, there is an emerging trend in deploying biometric sensors to evaluate physiological responses when participants are exposed to virtual stimuli in an immersive environment, which can be categorized as biometric-based evaluation. This study aims to review state-of-the-art biometric-based evaluations in a variety of immersive technologies (ImTs) in construction. A total of 43 articles published from 2018 to 2024 are included. The systematic review of selected articles produced five research themes: (1) ImT usability evaluation; (2) learning experience and performance; (3) general construction tasks; (4) human?robot collaboration; and (5) hazard identification and risk perceptions. The summarizations revealed that biometric sensors have been increasingly adopted to understand the psychophysiological and cognitive process when exposed to a stimulus in ImT environments without physically exposing workers to danger. This study also summarized limitations and future directions in four aspects, including ImT development, biometric deployment, biometric-based ImT development, and application potentials in the construction industry. The obtained knowledge is expected to benefit the researchers from an overview of the applications of using biometric sensors in immersive environments and promote the integration of biometric and immersive technology in the construction industry.
+ER  - 
+
+TY  - JOUR
+T1  - Deconstruction of ESG Impacts on US Corporate Bond Pricing: The Cost of Capital Benefits Across Industry Sectors
+AU  - Li Dan
+AU  - Adriaens Peter
+Y1  - 2024/01/01
+PY  - 2024
+DA  - 2024/01/01
+N1  - doi: 10.1061/JMENEA.MEENG-5521
+DO  - 10.1061/JMENEA.MEENG-5521
+T2  - Journal of Management in Engineering
+JF  - Journal of Management in Engineering
+JO  - Journal of Management in Engineering
+SP  - 04023052
+VL  - 40
+IS  - 1
+PB  - American Society of Civil Engineers
+M3  - doi: 10.1061/JMENEA.MEENG-5521
+UR  - https://doi.org/10.1061/JMENEA.MEENG-5521
+Y2  - 2025/09/05
+N2  - The growing interest in the financial materiality of Environmental, Social, and Governance (ESG) ratings has prompted recent investigations into their risk pricing impact in the corporate bond market. The specific implications for the Architecture, Engineering, and Construction (AEC) industry have not been explored, as prior work has primarily focused on broad-based ESG integration. To fill this gap, our study employed an interpretable machine learning technique using a sample universe of U.S. corporate bonds spanning from 2010 to 2021 to estimate the impact of ESG ratings on corporate bond issuance spreads. The results revealed an average ESG benefit of 10 basis points across all sectors. However, it is important to note that the effects of ESG ratings on bond pricing demonstrate variation across sectors and individual ESG constituent ratings. Significantly, our findings show that social and governance ratings emerge as the primary drivers influencing bond issuance costs, whereas the impact of environmental scores is comparatively less significant. Within AEC-related industries, empirical data on the influence of ESG ratings indicate discounted pricing by the market is particularly channeled through environmental and governance scores. These findings emphasize the value-added impact of enhanced ESG performance on the cost of debt financing, presenting a financially material opportunity for operational and management decision-making. By adopting sustainable strategies to improve ESG performance, organizations in the AEC industry can potentially achieve lower costs of debt when issuing bonds to secure financing for construction projects. The managerial implications extend to policymakers, corporate managers, and creditors, as they all stand to benefit from the financial implications of ESG performance.
+AB  - The growing interest in the financial materiality of Environmental, Social, and Governance (ESG) ratings has prompted recent investigations into their risk pricing impact in the corporate bond market. The specific implications for the Architecture, Engineering, and Construction (AEC) industry have not been explored, as prior work has primarily focused on broad-based ESG integration. To fill this gap, our study employed an interpretable machine learning technique using a sample universe of U.S. corporate bonds spanning from 2010 to 2021 to estimate the impact of ESG ratings on corporate bond issuance spreads. The results revealed an average ESG benefit of 10 basis points across all sectors. However, it is important to note that the effects of ESG ratings on bond pricing demonstrate variation across sectors and individual ESG constituent ratings. Significantly, our findings show that social and governance ratings emerge as the primary drivers influencing bond issuance costs, whereas the impact of environmental scores is comparatively less significant. Within AEC-related industries, empirical data on the influence of ESG ratings indicate discounted pricing by the market is particularly channeled through environmental and governance scores. These findings emphasize the value-added impact of enhanced ESG performance on the cost of debt financing, presenting a financially material opportunity for operational and management decision-making. By adopting sustainable strategies to improve ESG performance, organizations in the AEC industry can potentially achieve lower costs of debt when issuing bonds to secure financing for construction projects. The managerial implications extend to policymakers, corporate managers, and creditors, as they all stand to benefit from the financial implications of ESG performance.
+ER  - 

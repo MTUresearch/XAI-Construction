@@ -1,0 +1,472 @@
+
+TY  - BOOK
+PY  - 2007
+AU  - Kabbes Karen C.
+Y1  - 2007/05/11
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784409275
+UR  - https://doi.org/10.1061/9780784409275
+N1  - doi:10.1061/9780784409275
+M3  - doi:10.1061/9780784409275
+SP  - 0
+T3  - Proceedings
+SN  - 9780784409275
+C1  - Restoring Our Natural Habitat
+ER  - 
+
+TY  - JOUR
+T1  - Exploring Factors Contributing to Pedestrian Injury Severity in Pedestrian–Vehicle Crashes: An Integrated XGBoost–SHAP, Latent Cluster, and Mixed Logit Approach
+AU  - Ouyang Huijie
+AU  - Liu Pengfei
+AU  - Han Yin
+Y1  - 2025/02/01
+PY  - 2025
+DA  - 2025/02/01
+N1  - doi: 10.1061/JTEPBS.TEENG-8829
+DO  - 10.1061/JTEPBS.TEENG-8829
+T2  - Journal of Transportation Engineering, Part A: Systems
+JF  - Journal of Transportation Engineering, Part A: Systems
+JO  - Journal of Transportation Engineering, Part A: Systems
+SP  - 04024115
+VL  - 151
+IS  - 2
+PB  - American Society of Civil Engineers
+SN  - 9780784409275
+M3  - doi: 10.1061/JTEPBS.TEENG-8829
+UR  - https://doi.org/10.1061/JTEPBS.TEENG-8829
+Y2  - 2025/09/05
+N2  - Everyone faces the risk of road safety, making the precision in predicting factors influencing pedestrian injury severity crucial. To accurately explore factors affecting pedestrian injury severity within crashes data, a three-step analytical framework is proposed. A data set containing 6,593 pedestrian-vehicle crashes in North Carolina between 2013 and 2017 is analyzed. Preliminary feature importance screening is conducted using an extreme gradient boosting?Shapley additive explanations (XGBoost-SHAP) model. Then, the entire data set is categorized into six subclasses based on driver age, road class, road type, and light conditions through latent cluster analysis. Subsequently, the six subclasses undergo further analysis using a mixed logit model, and the marginal effect values of key variables are calculated. The results reveal random coefficients in scenarios involving two-way undivided lanes, weekends, and nighttime without lighting; urban and rural areas exhibited distinct accident characteristics; and double yellow lines exert opposite effects during nighttime with lighting and without lighting. This study provides valuable insights for road safety policymakers, offering a comprehensive understanding of the factors influencing pedestrian injury severity and highlighting key considerations for the development of effective safety measures and policies.
+AB  - Everyone faces the risk of road safety, making the precision in predicting factors influencing pedestrian injury severity crucial. To accurately explore factors affecting pedestrian injury severity within crashes data, a three-step analytical framework is proposed. A data set containing 6,593 pedestrian-vehicle crashes in North Carolina between 2013 and 2017 is analyzed. Preliminary feature importance screening is conducted using an extreme gradient boosting?Shapley additive explanations (XGBoost-SHAP) model. Then, the entire data set is categorized into six subclasses based on driver age, road class, road type, and light conditions through latent cluster analysis. Subsequently, the six subclasses undergo further analysis using a mixed logit model, and the marginal effect values of key variables are calculated. The results reveal random coefficients in scenarios involving two-way undivided lanes, weekends, and nighttime without lighting; urban and rural areas exhibited distinct accident characteristics; and double yellow lines exert opposite effects during nighttime with lighting and without lighting. This study provides valuable insights for road safety policymakers, offering a comprehensive understanding of the factors influencing pedestrian injury severity and highlighting key considerations for the development of effective safety measures and policies.
+ER  - 
+
+TY  - BOOK
+PY  - 2006
+AU  - Charney Finley A.
+AU  - Grierson Donald E.
+AU  - Hoit Marc
+Y1  - 2006/10/10
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784408780
+UR  - https://doi.org/10.1061/9780784408780
+N1  - doi:10.1061/9780784408780
+M3  - doi:10.1061/9780784408780
+SP  - 0
+T3  - Proceedings
+SN  - 9780784408780
+C1  - 17th Analysis and Computation Specialty Conference
+ER  - 
+
+TY  - JOUR
+T1  - Plastic Collapse of Folded Plate Structures
+AU  - Fialkow Morris N.
+Y1  - 1975/07/01
+PY  - 1975
+DA  - 1975/07/01
+N1  - doi: 10.1061/JSDEAG.0004106
+DO  - 10.1061/JSDEAG.0004106
+T2  - Journal of the Structural Division
+JF  - Journal of the Structural Division
+JO  - Journal of the Structural Division
+SP  - 1559
+EP  - 1584
+VL  - 101
+IS  - 7
+PB  - American Society of Civil Engineers
+SN  - 9780784408780
+M3  - doi: 10.1061/JSDEAG.0004106
+UR  - https://doi.org/10.1061/JSDEAG.0004106
+Y2  - 2025/09/05
+N2  - Previous methods of finding the modes of collapse with associated collapse loadings for folded plate structures are further developed to obtain more accurate information as to the nature of collapse. It is shown that inclusion of plastic central regions of finite extent in addition to yield lines results in improved upper bounds for the collapse loading. It is also shown that the effect of finite displacement is to increase the calculated carrying capacity of intermediate length folded plate structures to close approximation with actual test results.
+AB  - Previous methods of finding the modes of collapse with associated collapse loadings for folded plate structures are further developed to obtain more accurate information as to the nature of collapse. It is shown that inclusion of plastic central regions of finite extent in addition to yield lines results in improved upper bounds for the collapse loading. It is also shown that the effect of finite displacement is to increase the calculated carrying capacity of intermediate length folded plate structures to close approximation with actual test results.
+ER  - 
+
+TY  - BOOK
+PY  - 2022
+AU  - null null
+AU  - Wei Heng
+AU  - Wang Yinhai
+AU  - Ma Jianming
+AU  - Avery Paul A.
+AU  - Yang Ken
+AU  - Tang Ming
+AU  - Liu Hao
+AU  - Kashyap Gaurav
+AU  - Corey Jonathan
+AU  - Dey Kakan
+AU  - Eustace Deogratias
+AU  - Rahman Md Tawhidur
+AU  - Qawasmeh Baraah
+AU  - Chen Na
+AU  - Zuo Ting
+AU  - Li Zhixia
+AU  - Kumar Rumit
+AU  - Deshpande Aditya M.
+AU  - Scott Drew
+AU  - Wells James Z.
+AU  - Kumar Manish
+AU  - Abdallah Shaaban
+Y1  - 2022/04/08
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784415986
+UR  - https://doi.org/10.1061/9780784415986
+N1  - doi:10.1061/9780784415986
+M3  - doi:10.1061/9780784415986
+SP  - 0
+T3  - Books
+SN  - 9780784415986
+ER  - 
+
+TY  - JOUR
+T1  - Base Isolation Benefits of 3‐D Rocking and Uplift. I: Theory
+AU  - Koh Aik‐Siong
+AU  - Hsiung Chin‐Min
+Y1  - 1991/01/01
+PY  - 1991
+DA  - 1991/01/01
+N1  - doi: 10.1061/(ASCE)0733-9399(1991)117:1(1)
+DO  - 10.1061/(ASCE)0733-9399(1991)117:1(1)
+T2  - Journal of Engineering Mechanics
+JF  - Journal of Engineering Mechanics
+JO  - Journal of Engineering Mechanics
+SP  - 1
+EP  - 18
+VL  - 117
+IS  - 1
+PB  - American Society of Civil Engineers
+SN  - 9780784415986
+M3  - doi: 10.1061/(ASCE)0733-9399(1991)117:1(1)
+UR  - https://doi.org/10.1061/(ASCE)0733-9399(1991)117:1(1)
+Y2  - 2025/09/05
+N2  - Block objects, standing on a shaking foundation, tend to rock and may uplift. Rocking of buildings in earthquakes is of particular interest because human lives and high costs are at stake. Most previous studies on rocking are limited to two?dimensional motion for simplicity. In this paper, a new model is studied, which includes the three?dimensional rocking, rolling, and uplift of a rigid cylinder when subjected to ground motion. The cylinder rests on a Winkler foundation of independent springs and dashpots. To simulate uplift, the springs and dashpots separate from the base of the cylinder when the springs are about to be in tension. The governing equations of this system are derived exactly using the Lagrange equation. Then numerical integration is employed to obtain the motion of any point within the structure, and simple beam theory is used to calculate the 3?D state of stresses within the cylinder. Computer simulations show that 3?D motion is significant under earthquake?like excitations. Near?2?D rocking also occurs and produces very high spikes in accelerations and internal stresses. Moreover, restricting uplift can introduce high stresses and accelerations inside the structure.
+AB  - Block objects, standing on a shaking foundation, tend to rock and may uplift. Rocking of buildings in earthquakes is of particular interest because human lives and high costs are at stake. Most previous studies on rocking are limited to two?dimensional motion for simplicity. In this paper, a new model is studied, which includes the three?dimensional rocking, rolling, and uplift of a rigid cylinder when subjected to ground motion. The cylinder rests on a Winkler foundation of independent springs and dashpots. To simulate uplift, the springs and dashpots separate from the base of the cylinder when the springs are about to be in tension. The governing equations of this system are derived exactly using the Lagrange equation. Then numerical integration is employed to obtain the motion of any point within the structure, and simple beam theory is used to calculate the 3?D state of stresses within the cylinder. Computer simulations show that 3?D motion is significant under earthquake?like excitations. Near?2?D rocking also occurs and produces very high spikes in accelerations and internal stresses. Moreover, restricting uplift can introduce high stresses and accelerations inside the structure.
+ER  - 
+
+TY  - JOUR
+T1  - Multi‐Objective Decision‐Making in Waste Disposal Planning
+AU  - Perlack Robert D.
+AU  - Willis Cleve E.
+Y1  - 1985/06/01
+PY  - 1985
+DA  - 1985/06/01
+N1  - doi: 10.1061/(ASCE)0733-9372(1985)111:3(373)
+DO  - 10.1061/(ASCE)0733-9372(1985)111:3(373)
+T2  - Journal of Environmental Engineering
+JF  - Journal of Environmental Engineering
+JO  - Journal of Environmental Engineering
+SP  - 373
+EP  - 385
+VL  - 111
+IS  - 3
+PB  - American Society of Civil Engineers
+SN  - 9780784415986
+M3  - doi: 10.1061/(ASCE)0733-9372(1985)111:3(373)
+UR  - https://doi.org/10.1061/(ASCE)0733-9372(1985)111:3(373)
+Y2  - 2025/09/05
+N2  - A multiple objective programming model of the Boston sludge disposal problem was formulated in which the objectives of net economic benefits, environmental impact, and variability of impacts were included. A generating technique was used to solve for the noninferior solutions. To reduce information overloading on the part of decision?makers and redundancy among solutions, cluster analysis was used to prune the noninferior set of solutions.
+AB  - A multiple objective programming model of the Boston sludge disposal problem was formulated in which the objectives of net economic benefits, environmental impact, and variability of impacts were included. A generating technique was used to solve for the noninferior solutions. To reduce information overloading on the part of decision?makers and redundancy among solutions, cluster analysis was used to prune the noninferior set of solutions.
+ER  - 
+
+TY  - BOOK
+PY  - 2025
+AU  - Najafzadeh Mohammad
+Y1  - 2025/06/12
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784486061
+UR  - https://doi.org/10.1061/9780784486061
+N1  - doi:10.1061/9780784486061
+M3  - doi:10.1061/9780784486061
+SP  - 0
+T3  - Books
+SN  - 9780784416334
+C1  - Implementation and Prediction
+ER  - 
+
+TY  - JOUR
+T1  - Control of Sliding-Isolated Buildings Using Sliding-Mode Control
+AU  - Yang J. N.
+AU  - Wu J. C.
+AU  - Reinhorn A. M.
+AU  - Riley M.
+Y1  - 1996/02/01
+PY  - 1996
+DA  - 1996/02/01
+N1  - doi: 10.1061/(ASCE)0733-9445(1996)122:2(179)
+DO  - 10.1061/(ASCE)0733-9445(1996)122:2(179)
+T2  - Journal of Structural Engineering
+JF  - Journal of Structural Engineering
+JO  - Journal of Structural Engineering
+SP  - 179
+EP  - 186
+VL  - 122
+IS  - 2
+PB  - American Society of Civil Engineers
+SN  - 9780784416334
+M3  - doi: 10.1061/(ASCE)0733-9445(1996)122:2(179)
+UR  - https://doi.org/10.1061/(ASCE)0733-9445(1996)122:2(179)
+Y2  - 2025/09/05
+N2  - Based on the theory of continuous sliding-mode control, control methods are presented for seismic-excited buildings isolated by a frictional-type sliding-isolation system. The dynamic behavior of the building equipped with a base-sliding-isolation system is highly nonlinear, and the sliding-mode?control method is ideal for such nonlinear systems. In addition to full-state-feedback controllers, a simple static-output-feedback controller using only the measured information from a few sensors installed at strategic locations without an observer is presented. The continuous sliding-mode controllers presented do not have undesirable chattering effect. Simulation results for an eight-story building indicate that (1) the control methods are robust; and (2) the control performance is outstanding. A shaking-table experimental program was conducted to verify the proposed static output control method. For the shaking-table tests, a three-story quarter-scale building model was mounted on a base mate that was supported by four frictional bearings. Experimental test results indicate that the control performance is quite remarkable, although a slight degradation was observed due to noise pollution and system time delays.
+AB  - Based on the theory of continuous sliding-mode control, control methods are presented for seismic-excited buildings isolated by a frictional-type sliding-isolation system. The dynamic behavior of the building equipped with a base-sliding-isolation system is highly nonlinear, and the sliding-mode?control method is ideal for such nonlinear systems. In addition to full-state-feedback controllers, a simple static-output-feedback controller using only the measured information from a few sensors installed at strategic locations without an observer is presented. The continuous sliding-mode controllers presented do not have undesirable chattering effect. Simulation results for an eight-story building indicate that (1) the control methods are robust; and (2) the control performance is outstanding. A shaking-table experimental program was conducted to verify the proposed static output control method. For the shaking-table tests, a three-story quarter-scale building model was mounted on a base mate that was supported by four frictional bearings. Experimental test results indicate that the control performance is quite remarkable, although a slight degradation was observed due to noise pollution and system time delays.
+ER  - 
+
+TY  - JOUR
+T1  - Design of Wood Columns for Flexural and Axial Loading
+AU  - Gurfinkel German
+Y1  - 1970/11/01
+PY  - 1970
+DA  - 1970/11/01
+N1  - doi: 10.1061/JSDEAG.0002749
+DO  - 10.1061/JSDEAG.0002749
+T2  - Journal of the Structural Division
+JF  - Journal of the Structural Division
+JO  - Journal of the Structural Division
+SP  - 2389
+EP  - 2408
+VL  - 96
+IS  - 11
+PB  - American Society of Civil Engineers
+SN  - 9780784416334
+M3  - doi: 10.1061/JSDEAG.0002749
+UR  - https://doi.org/10.1061/JSDEAG.0002749
+Y2  - 2025/09/05
+N2  - Present design practice of wood columns is reviewed. The derivation of the design expression adopted by National Design Specifications for wood structures is given and its limitations and range of applications are analyzed. Two methods of design are given: (1) Hand calculations, which is based on successive approximations; (2) a general computer program, for which the coding is also given. The latter renders all possible solutions in stress graded lumber of laminated wood for a given case. The sections are listed in ascending order of cost, least weight sections being listed first. The design of braced and unbraced columns with various end restraints is examined using the concept of effective length to determine actual slenderness. Present design practice renders conservative results for braced columns. However, in the case of unbraced columns, unless the actual slenderness is used, unsafe sections may result. Therefore, adoption of design provisions calling for use of actual slenderness and a minimum eccentricity of the load about both axes of bending are strongly recommended.
+AB  - Present design practice of wood columns is reviewed. The derivation of the design expression adopted by National Design Specifications for wood structures is given and its limitations and range of applications are analyzed. Two methods of design are given: (1) Hand calculations, which is based on successive approximations; (2) a general computer program, for which the coding is also given. The latter renders all possible solutions in stress graded lumber of laminated wood for a given case. The sections are listed in ascending order of cost, least weight sections being listed first. The design of braced and unbraced columns with various end restraints is examined using the concept of effective length to determine actual slenderness. Present design practice renders conservative results for braced columns. However, in the case of unbraced columns, unless the actual slenderness is used, unsafe sections may result. Therefore, adoption of design provisions calling for use of actual slenderness and a minimum eccentricity of the load about both axes of bending are strongly recommended.
+ER  - 
+
+TY  - BOOK
+PY  - 2005
+AU  - null null
+Y1  - 2005/04/18
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784407530
+UR  - https://doi.org/10.1061/9780784407530
+N1  - doi:10.1061/9780784407530
+M3  - doi:10.1061/9780784407530
+SP  - 0
+T3  - Proceedings
+SN  - 9780784407530
+C1  - Metropolis and Beyond
+ER  - 
+
+TY  - JOUR
+T1  - Sliding Mode Control for Seismically Excited Linear Structures
+AU  - Yang J. N.
+AU  - Wu J. C.
+AU  - Agrawal A. K.
+Y1  - 1995/12/01
+PY  - 1995
+DA  - 1995/12/01
+N1  - doi: 10.1061/(ASCE)0733-9399(1995)121:12(1386)
+DO  - 10.1061/(ASCE)0733-9399(1995)121:12(1386)
+T2  - Journal of Engineering Mechanics
+JF  - Journal of Engineering Mechanics
+JO  - Journal of Engineering Mechanics
+SP  - 1386
+EP  - 1390
+VL  - 121
+IS  - 12
+PB  - American Society of Civil Engineers
+SN  - 9780784407530
+M3  - doi: 10.1061/(ASCE)0733-9399(1995)121:12(1386)
+UR  - https://doi.org/10.1061/(ASCE)0733-9399(1995)121:12(1386)
+Y2  - 2025/09/05
+N2  - Continuous sliding mode control (CSMC) methods, which do not have an undesirable chattering effect, are presented for applications to seismically excited linear structures. These control methods are robust with respect to parametric uncertainties of the structure. The controllers have no adverse effect should actuators be saturated due to unexpected extreme earthquakes. Static output controllers using only a limited number of sensors without an observer are also presented. When a controller is installed in each story unit of a building, a complete compensation of the structural response can be achieved and the response state vector can be reduced to zero. The performance and robustness of the control methods, the applications of the static output controllers, and the control effectiveness in case of actuator saturations are all demonstrated by numerical simulation results. Simulation results demonstrate that the CSMC methods presented are viable and attractive control strategies for applications to seismically excited linear structures.
+AB  - Continuous sliding mode control (CSMC) methods, which do not have an undesirable chattering effect, are presented for applications to seismically excited linear structures. These control methods are robust with respect to parametric uncertainties of the structure. The controllers have no adverse effect should actuators be saturated due to unexpected extreme earthquakes. Static output controllers using only a limited number of sensors without an observer are also presented. When a controller is installed in each story unit of a building, a complete compensation of the structural response can be achieved and the response state vector can be reduced to zero. The performance and robustness of the control methods, the applications of the static output controllers, and the control effectiveness in case of actuator saturations are all demonstrated by numerical simulation results. Simulation results demonstrate that the CSMC methods presented are viable and attractive control strategies for applications to seismically excited linear structures.
+ER  - 
+
+TY  - JOUR
+T1  - Active Control of Transmission Tower under Stochastic Wind
+AU  - Wu J. C.
+AU  - Yang J. N.
+Y1  - 1998/11/01
+PY  - 1998
+DA  - 1998/11/01
+N1  - doi: 10.1061/(ASCE)0733-9445(1998)124:11(1302)
+DO  - 10.1061/(ASCE)0733-9445(1998)124:11(1302)
+T2  - Journal of Structural Engineering
+JF  - Journal of Structural Engineering
+JO  - Journal of Structural Engineering
+SP  - 1302
+EP  - 1312
+VL  - 124
+IS  - 11
+PB  - American Society of Civil Engineers
+SN  - 9780784407530
+M3  - doi: 10.1061/(ASCE)0733-9445(1998)124:11(1302)
+UR  - https://doi.org/10.1061/(ASCE)0733-9445(1998)124:11(1302)
+Y2  - 2025/09/05
+N2  - An active mass driver has been designed for installation on the upper observation deck of the 310 m Nanjing TV transmission tower in China in order to reduce the acceleration response under strong wind gusts. In this paper, the linear quadratic Gaussian (LQG), H∞, and continuous sliding mode control (CSMC) strategies have been applied to the active mass driver system based on the acceleration feedbacks. Emphasis is placed on the practical applications of LQG, H∞, and CSMC controllers, including limitations on the actuator peak force and stroke, the limited number of sensors, and noise pollution. Further, a method for modulating the control effort for the CSMC controller is proposed in this paper to satisfy the practical constraints on the actuator. A state reduced-order system has been established to design the dynamic output feedback controllers. The wind loads acting on the tower are defined by the Davenport cross-power spectral density matrix. Simulation results demonstrate that, when designed appropriately, the LQG, H∞, and CSMC control strategies are suitable for full-scale implementations of the active mass driver, and their control performances are quite remarkable.
+AB  - An active mass driver has been designed for installation on the upper observation deck of the 310 m Nanjing TV transmission tower in China in order to reduce the acceleration response under strong wind gusts. In this paper, the linear quadratic Gaussian (LQG), H∞, and continuous sliding mode control (CSMC) strategies have been applied to the active mass driver system based on the acceleration feedbacks. Emphasis is placed on the practical applications of LQG, H∞, and CSMC controllers, including limitations on the actuator peak force and stroke, the limited number of sensors, and noise pollution. Further, a method for modulating the control effort for the CSMC controller is proposed in this paper to satisfy the practical constraints on the actuator. A state reduced-order system has been established to design the dynamic output feedback controllers. The wind loads acting on the tower are defined by the Davenport cross-power spectral density matrix. Simulation results demonstrate that, when designed appropriately, the LQG, H∞, and CSMC control strategies are suitable for full-scale implementations of the active mass driver, and their control performances are quite remarkable.
+ER  - 
+
+TY  - JOUR
+T1  - Generalization of Optimal Control Theory: Linear and Nonlinear Control
+AU  - Yang J. N.
+AU  - Li Z.
+AU  - Vongchavalitkul S.
+Y1  - 1994/02/01
+PY  - 1994
+DA  - 1994/02/01
+N1  - doi: 10.1061/(ASCE)0733-9399(1994)120:2(266)
+DO  - 10.1061/(ASCE)0733-9399(1994)120:2(266)
+T2  - Journal of Engineering Mechanics
+JF  - Journal of Engineering Mechanics
+JO  - Journal of Engineering Mechanics
+SP  - 266
+EP  - 283
+VL  - 120
+IS  - 2
+PB  - American Society of Civil Engineers
+SN  - 9780784407530
+M3  - doi: 10.1061/(ASCE)0733-9399(1994)120:2(266)
+UR  - https://doi.org/10.1061/(ASCE)0733-9399(1994)120:2(266)
+Y2  - 2025/09/05
+N2  - A generalization of the linear quadratic regulator control theory for seismic?excited linear structures is presented. The generalization includes the effect of actuator dynamics and a penalty for the acceleration response of the structure. A nonlinear control method is also proposed for nonlinear or hysteretic structural systems with emphasis placed on the applications to aseismic hybrid control systems. In protecting nonstructural components housed in the building against strong earthquakes, the reduction of the building acceleration response is important. The adverse effect of a system time delay due to the actuator response can be alleviated by taking into account the actuator dynamics in the optimization process. Simulation results are presented to demonstrate the advantages of generalized optimal control. Numerical results further indicate that the performance of the proposed nonlinear control method is better than that of the linear control law for hybrid control systems.
+AB  - A generalization of the linear quadratic regulator control theory for seismic?excited linear structures is presented. The generalization includes the effect of actuator dynamics and a penalty for the acceleration response of the structure. A nonlinear control method is also proposed for nonlinear or hysteretic structural systems with emphasis placed on the applications to aseismic hybrid control systems. In protecting nonstructural components housed in the building against strong earthquakes, the reduction of the building acceleration response is important. The adverse effect of a system time delay due to the actuator response can be alleviated by taking into account the actuator dynamics in the optimization process. Simulation results are presented to demonstrate the advantages of generalized optimal control. Numerical results further indicate that the performance of the proposed nonlinear control method is better than that of the linear control law for hybrid control systems.
+ER  - 
+
+TY  - JOUR
+T1  - Theory and Empirical Analysis of Bridge Load Limitation Under the Action of Typical Heavy-Duty Vehicles
+AU  - Gao Qingfei
+AU  - Jiang Haonan
+AU  - Wang Haoran
+AU  - Guo Binqiang
+AU  - Jiang Zaiyang
+AU  - Wang Chuan
+Y1  - 2024/06/01
+PY  - 2024
+DA  - 2024/06/01
+N1  - doi: 10.1115/1.4064643
+DO  - 10.1115/1.4064643
+T2  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering
+JF  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering
+JO  - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering
+SP  - 021105
+VL  - 10
+IS  - 2
+PB  - American Society of Mechanical Engineers
+SN  - 9780784407530
+M3  - doi: 10.1115/1.4064643
+UR  - https://doi.org/10.1115/1.4064643
+Y2  - 2025/09/05
+N2  - With the continuous growth of transportation demands, in-service highway bridges face greater challenges in their long-term operational lifespans, and bridge collapse accidents caused by vehicle overloading occur from time to time. Additionally, under the influence of loads and environmental factors, various wear patterns inevitably lead to degraded reinforced concrete bridges. In view of this problem, it is reasonable and feasible to limit the vehicle loads passing over highway bridges, and the key basis for limitation is determining the load limit value of a bridge. To determine a reasonable load limit value of a bridge, this paper has carried out the following research: Based on a classification of vehicle types, this paper explores the load parameters of several heavy-duty vehicles with large traffic volumes through traffic flow information and summarizes the load spectra of typical heavy-duty vehicles. On the basis of the theory of structural reliability, a method for determining the limit load of bridges is proposed. Given a structural target reliability index, the theoretical load limit value of a bridge can be calculated. To ensure the rationality of the theory of bridge load limit value, by relying on the engineering example, the theoretical load limit value is calculated. By comparing actual bridge load test data with the finite element model results, the rationality of the bridge load limiting theory is verified. Finally, the paper notes that it is safer and more reliable to define the load limit value according to the bending stress state for bridges. This article is available in the ASME Digital Collection at https://doi.org/10.1115/1.4064643.
+AB  - With the continuous growth of transportation demands, in-service highway bridges face greater challenges in their long-term operational lifespans, and bridge collapse accidents caused by vehicle overloading occur from time to time. Additionally, under the influence of loads and environmental factors, various wear patterns inevitably lead to degraded reinforced concrete bridges. In view of this problem, it is reasonable and feasible to limit the vehicle loads passing over highway bridges, and the key basis for limitation is determining the load limit value of a bridge. To determine a reasonable load limit value of a bridge, this paper has carried out the following research: Based on a classification of vehicle types, this paper explores the load parameters of several heavy-duty vehicles with large traffic volumes through traffic flow information and summarizes the load spectra of typical heavy-duty vehicles. On the basis of the theory of structural reliability, a method for determining the limit load of bridges is proposed. Given a structural target reliability index, the theoretical load limit value of a bridge can be calculated. To ensure the rationality of the theory of bridge load limit value, by relying on the engineering example, the theoretical load limit value is calculated. By comparing actual bridge load test data with the finite element model results, the rationality of the bridge load limiting theory is verified. Finally, the paper notes that it is safer and more reliable to define the load limit value according to the bending stress state for bridges. This article is available in the ASME Digital Collection at https://doi.org/10.1115/1.4064643.
+ER  - 
+
+TY  - JOUR
+T1  - Acceleration Feedback Control of MDOF Structures 
+AU  - Dyke S. J.
+AU  - Spencer B. F.
+AU  - Quast P.
+AU  - Sain M. K.
+AU  - Kaspari D. C.
+AU  - Soong T. T.
+Y1  - 1996/09/01
+PY  - 1996
+DA  - 1996/09/01
+N1  - doi: 10.1061/(ASCE)0733-9399(1996)122:9(907)
+DO  - 10.1061/(ASCE)0733-9399(1996)122:9(907)
+T2  - Journal of Engineering Mechanics
+JF  - Journal of Engineering Mechanics
+JO  - Journal of Engineering Mechanics
+SP  - 907
+EP  - 918
+VL  - 122
+IS  - 9
+PB  - American Society of Civil Engineers
+SN  - 9780784407530
+M3  - doi: 10.1061/(ASCE)0733-9399(1996)122:9(907)
+UR  - https://doi.org/10.1061/(ASCE)0733-9399(1996)122:9(907)
+Y2  - 2025/09/05
+N2  - To date, most of the current active structural control strategies for aseismic protection have been based on either full-state feedback (i.e., all structural displacements and velocities) or on velocity feedback. However, accurate measurement of displacements and velocities is difficult to achieve directly in full-scale applications, particularly during seismic activity, since the foundation of the structure is moving with the ground. Because accelerometers can readily provide reliable and inexpensive measurement of accelerations at strategic points on the structure, development of control methods based on acceleration feedback is an ideal solution to this problem. The purpose of the present paper is to demonstrate experimentally that acceleration feedback-control strategies are effective and robust, and they can achieve performance levels comparable to full-state feedback controllers.
+AB  - To date, most of the current active structural control strategies for aseismic protection have been based on either full-state feedback (i.e., all structural displacements and velocities) or on velocity feedback. However, accurate measurement of displacements and velocities is difficult to achieve directly in full-scale applications, particularly during seismic activity, since the foundation of the structure is moving with the ground. Because accelerometers can readily provide reliable and inexpensive measurement of accelerations at strategic points on the structure, development of control methods based on acceleration feedback is an ideal solution to this problem. The purpose of the present paper is to demonstrate experimentally that acceleration feedback-control strategies are effective and robust, and they can achieve performance levels comparable to full-state feedback controllers.
+ER  - 
+
+TY  - JOUR
+T1  - Planning Detention Storage for Stormwater Management
+AU  - Loganathan Vasudevan G.
+AU  - Deniur Jacques W.
+AU  - Segarra Rafael I.
+Y1  - 1985/10/01
+PY  - 1985
+DA  - 1985/10/01
+N1  - doi: 10.1061/(ASCE)0733-9496(1985)111:4(382)
+DO  - 10.1061/(ASCE)0733-9496(1985)111:4(382)
+T2  - Journal of Water Resources Planning and Management
+JF  - Journal of Water Resources Planning and Management
+JO  - Journal of Water Resources Planning and Management
+SP  - 382
+EP  - 398
+VL  - 111
+IS  - 4
+PB  - American Society of Civil Engineers
+SN  - 9780784407530
+M3  - doi: 10.1061/(ASCE)0733-9496(1985)111:4(382)
+UR  - https://doi.org/10.1061/(ASCE)0733-9496(1985)111:4(382)
+Y2  - 2025/09/05
+N2  - A method for estimating detention storage capacity in stormwater management is presented. A generalized storage?overflow relationship is derived. This relationship defines real available storage (empty space in detention basin) on the positive range and overflow volumes on the negative range. By using exponential probability density functions for the independent hydrologic variables runoff volumes, runoff durations, and interevent times, and the generalized storage relationship, a new probability distribution is derived for the treatment plant overflow volumes. The new distribution provides an easy?method for estimating the detention storage and treatment capacity for a design risk level. The methodology has the advantage that it provides easy to use preliminary planning information for stormwater management without the need for extensive simulation.
+AB  - A method for estimating detention storage capacity in stormwater management is presented. A generalized storage?overflow relationship is derived. This relationship defines real available storage (empty space in detention basin) on the positive range and overflow volumes on the negative range. By using exponential probability density functions for the independent hydrologic variables runoff volumes, runoff durations, and interevent times, and the generalized storage relationship, a new probability distribution is derived for the treatment plant overflow volumes. The new distribution provides an easy?method for estimating the detention storage and treatment capacity for a design risk level. The methodology has the advantage that it provides easy to use preliminary planning information for stormwater management without the need for extensive simulation.
+ER  - 
+
+TY  - JOUR
+T1  - Full‐Scale Implementation of Active Control. II: Installation and Performance
+AU  - Reinhorn A. M.
+AU  - Soong T. T.
+AU  - Riley M. A.
+AU  - Lin R. C.
+AU  - Aizawa S.
+AU  - Higashino M.
+Y1  - 1993/06/01
+PY  - 1993
+DA  - 1993/06/01
+N1  - doi: 10.1061/(ASCE)0733-9445(1993)119:6(1935)
+DO  - 10.1061/(ASCE)0733-9445(1993)119:6(1935)
+T2  - Journal of Structural Engineering
+JF  - Journal of Structural Engineering
+JO  - Journal of Structural Engineering
+SP  - 1935
+EP  - 1960
+VL  - 119
+IS  - 6
+PB  - American Society of Civil Engineers
+SN  - 9780784407530
+M3  - doi: 10.1061/(ASCE)0733-9445(1993)119:6(1935)
+UR  - https://doi.org/10.1061/(ASCE)0733-9445(1993)119:6(1935)
+Y2  - 2025/09/05
+N2  - An active bracing system has been designed, fabricated, and installed in a full?scale dedicated test structure in Tokyo, Japan, for structural?response control under seismic loads. In 1991, Soong et al. presented the design of the system along with simulation studies for the design earthquake. Presented in this paper, which is the second part of the sequence, are: (1) The description of the constructed system; and (2) the observed performance of the system under two actual earthquakes and other artificial loadings. Installation details of the system in the building structure are presented along with the selections for fail?safe shutdown operations in case of malfunctions. Also presented are the procedures for proper maintenance and self?testing, which ensure continuous control with minimal resources. The observed performance under artificial loadings and actual ground motions is compared with the estimated analytical response.
+AB  - An active bracing system has been designed, fabricated, and installed in a full?scale dedicated test structure in Tokyo, Japan, for structural?response control under seismic loads. In 1991, Soong et al. presented the design of the system along with simulation studies for the design earthquake. Presented in this paper, which is the second part of the sequence, are: (1) The description of the constructed system; and (2) the observed performance of the system under two actual earthquakes and other artificial loadings. Installation details of the system in the building structure are presented along with the selections for fail?safe shutdown operations in case of malfunctions. Also presented are the procedures for proper maintenance and self?testing, which ensure continuous control with minimal resources. The observed performance under artificial loadings and actual ground motions is compared with the estimated analytical response.
+ER  - 
+
+TY  - BOOK
+PY  - 2019
+AU  - Zhang Lei
+AU  - Ma Jianming
+AU  - Liu Pan
+AU  - Zhang Guangjun
+Y1  - 2019/07/02
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784482292
+UR  - https://doi.org/10.1061/9780784482292
+N1  - doi:10.1061/9780784482292
+M3  - doi:10.1061/9780784482292
+SP  - 0
+T3  - Proceedings
+C1  - Transportation in China—Connecting the World
+ER  - 
+
+TY  - BOOK
+PY  - 2017
+AU  - Ojha Chandra S. P.
+AU  - Surampalli Rao Y.
+AU  - Bárdossy András
+AU  - null Tian C.
+AU  - null Chih-Ming
+Y1  - 2017/10/18
+Y2  - 2025/09/05
+DO  - doi:10.1061/9780784414767
+UR  - https://doi.org/10.1061/9780784414767
+N1  - doi:10.1061/9780784414767
+M3  - doi:10.1061/9780784414767
+SP  - 0
+T3  - Books
+SN  - 9780784414767
+ER  - 
